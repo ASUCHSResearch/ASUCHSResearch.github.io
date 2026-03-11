@@ -1,0 +1,125 @@
+{
+  "id": "sweazea-nutritional-metabolic-resilience",
+  "poster_id": "CHS-RD2026-Sweazea-K-NutritionalMetabolicResilience",
+  "researcher": "Karen Sweazea",
+  "researcher_last_name": "Sweazea",
+  "title": "Nutritional and Metabolic Resilience",
+  "category": "Nutrition, Metabolism & Chronic Disease",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Nutritional Resilience",
+    "Metabolic Resilience",
+    "Comparative Physiology",
+    "Birds"
+  ],
+  "keywords": [
+    "nutritional resilience",
+    "metabolic resilience",
+    "comparative physiology",
+    "birds",
+    "diabetes",
+    "cancer",
+    "insulin resistance",
+    "one health",
+    "nova classification",
+    "glycemic index",
+    "glycemic load",
+    "antioxidants",
+    "urban-rural gradient",
+    "metabolic syndrome",
+    "fulvic acid",
+    "nutrition/metabolic health and chronic disease",
+    "health equity/policy/population health",
+    "human performance/lifespan health",
+    "comparative physiology research program",
+    "food item database analyses across nova processing levels",
+    "urban-rural field exploration in wild birds",
+    "consumer perception pilot survey",
+    "dietary intervention exploration (fulvic acid)",
+    "food",
+    "stated",
+    "metabolic",
+    "nova",
+    "processing",
+    "levels",
+    "antioxidant",
+    "processed",
+    "foods",
+    "items"
+  ],
+  "summary": {
+    "hook": "This poster is a high-level overview of the Sweazea lab’s research themes under “Nutritional and Metabolic Resilience,” spanning comparative physiology, One Health food environments, and dietary interventions for metabolic disease.",
+    "summary_30s": "This poster is a high-level overview of the Sweazea lab’s research themes under “Nutritional and Metabolic Resilience,” spanning comparative physiology, One Health food environments, and dietary interventions for metabolic disease. It highlights birds as long-lived vertebrates with unusually high blood sugar and lipids yet low diabetes/cancer, motivating research into protective mechanisms and natural insulin resistance. It also summarizes analyses of \\~2,000 food items showing glycemic index/load do not differ across NOVA processing categories, while minimally processed foods show higher total antioxidant content than processed/ultra-processed foods. Finally, it notes lab work on Western diet contributions to metabolic syndrome/diabetes and exploration of a novel fulvic acid supplement as an intervention.",
+    "talktrack_2m": [
+      "Focus: Describe the lab’s research portfolio on nutritional and metabolic resilience, including (1) comparative physiology in birds, (2) One Health food environments and food choice, and (3) dietary interventions for diabetes/metabolic syndrome.",
+      "Approach: Population: * Birds (comparative physiology; wild birds across an urban–rural gradient). Primary outcome: Not stated on poster (multiple outcomes across program areas).",
+      "Finding: Birds live longer and healthier lives than mammals of similar body mass despite having the highest blood sugar and lipid concentrations among vertebrates, motivating research into how they avoid diabetes and cancer.",
+      "Why it matters: Authors’ stated conclusions: Not stated on poster (this is a research program overview with claims summarized from cited work). Implications (poster-grounded): Comparative physiology (e.g., birds) may reveal protective mechanisms relevant to diabetes/cancer prevention and metabolic resilience. Nutritional quality is multidimensional: glycemic index/load may not vary by processing category, while antioxidant content may. Urban environments and historical policies affect food quality and choice for humans and animals, supporting a One Health approach. Mechanism/explanation (ONLY if stated): Not stated on poster (mechanisms for birds’ protection and fulvic acid effects are not detailed). * Connections to prior work (ONLY if referenced): Citations are embedded throughout, including Kapsetaki et al."
+    ],
+    "key_numbers": [
+      "1,995 common food items analyzed for GI/GL across NOVA levels; 1,946 food items analyzed for total antioxidant content.",
+      "Not stated on poster (study years given via citations: Sweazea et al. 2022; Basile et al. 2024; Healy et al. 2014).",
+      "Analysis of 1,995 food items found glycemic index and glycemic load do not differ across NOVA classification food processing levels.",
+      "Analysis of 1,946 food items supports minimally processed foods have higher total antioxidant content than processed or ultra-processed foods.",
+      "It also summarizes analyses of \\~2,000 food items showing glycemic index/load do not differ across NOVA processing categories, while minimally processed foods show higher total...",
+      "Finally, it notes lab work on Western diet contributions to metabolic syndrome/diabetes and exploration of a novel fulvic acid supplement as an intervention. * Objective(s): * D..."
+    ],
+    "takeaways": [
+      "Birds live longer and healthier lives than mammals of similar body mass despite having the highest blood sugar and lipid concentrations among vertebrates, motivating research into how they avoid diabetes and cancer.",
+      "Analysis of 1,995 common food items found glycemic index and glycemic load do not differ across NOVA food processing levels.",
+      "Analysis of 1,946 food items supports that minimally processed foods have higher total antioxidant content than processed or ultra-processed foods."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: For the 1,995-item GI/GL analysis: what dataset was used, how were GI/GL values obtained, and what NOVA categories were included?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "In the 1,995-food analysis, how large were GI/GL differences (even if not statistically significant) across NOVA levels?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How did you handle missing or uncertain GI/GL values across the 1,995 foods?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "What are the most actionable One Health interventions implied by your food environment findings?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Looking for collaborators to extend the NOVA analyses to outcomes like insulin response or cardiometabolic risk",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Collaborate with urban planners/public health to map food environments to community health outcomes",
+        "ideal_partner": "urban planners/public health to map food environments to community health outcomes",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Integrate metabolomics or microbiome measures into the bird resilience work",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Nutritional and Metabolic Resilience. The main point is: Birds live longer and healthier lives than mammals of similar body mass despite having the highest blood sugar and lipid concentrations among vertebrates, motivating research into how they avoid diabetes and cancer.",
+      "clinician": "For practice-facing attendees, the poster highlights Birds live longer and healthier lives than mammals of similar body mass despite having the highest blood sugar and lipid concentrations among vertebrates, motivating research into how they avoid diabetes and cancer.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster is a high-level overview of the Sweazea lab’s research themes under “Nutritional and Metabolic Resilience,” spanning comparative physiology, One Health food environments, and dietary interventions for metabolic disease. It highlights birds as long-lived vertebrates with unusually high blood sugar and lipids yet low diabetes/cancer, motivating research into protective mechanisms and natural insulin resistance. It also summarizes analyses of \\~2,000 food items showing glycemic index/load do not differ across NOVA processing categories, while minimally processed foods show higher total antioxidant content than processed/ultra-processed foods. Finally, it notes lab work on Western diet contributions to metabolic syndrome/diabetes and exploration of a novel fulvic acid supplement as an intervention.",
+      "funder": "The project addresses Nutritional and Metabolic Resilience and already reports measurable signals such as 1,995 common food items analyzed for GI/GL across NOVA levels; 1,946 food items analyzed for total antioxidant content."
+    }
+  },
+  "assets": {
+    "source_file_name": "Sweazea.pptx.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

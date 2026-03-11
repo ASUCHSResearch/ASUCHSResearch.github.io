@@ -1,0 +1,121 @@
+{
+  "id": "wang-development-mobile-contraception-decision-aid-tr",
+  "poster_id": "CHS-RD2026-Wang-D-MobileContraceptionDecisionAid",
+  "researcher": "Dongwen Wang",
+  "researcher_last_name": "Wang",
+  "title": "Development of a Mobile Contraception Decision Aid for Transgender and Gender-Nonconforming Individuals Assigned Female at Birth",
+  "category": "Clinical Care & Decision Support",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Contraception decision support",
+    "Mobile Health",
+    "Assigned female at birth",
+    "Sexual Health Education"
+  ],
+  "keywords": [
+    "contraception decision aid",
+    "mobile health",
+    "tgnc",
+    "afab",
+    "sexual health education",
+    "user-centered design",
+    "wireframes",
+    "figma",
+    "personalized recommendations",
+    "method comparison",
+    "node.js",
+    "next.js",
+    "typescript",
+    "tailwind css",
+    "aws",
+    "biomedical informatics / digital health",
+    "health equity / population health",
+    "user-centered design (mental models, ethnographic data)",
+    "iterative wireframing in figma",
+    "web/mobile prototype development",
+    "aws deployment testing",
+    "stated",
+    "design",
+    "decision",
+    "tool",
+    "methods",
+    "mobile",
+    "system",
+    "prototype",
+    "questions",
+    "support"
+  ],
+  "summary": {
+    "hook": "This poster describes the development of a mobile contraception decision aid intended to support transgender and gender-nonconforming (TGNC) individuals assigned female at birth (AFAB) in selecting contraceptive options.",
+    "summary_30s": "This poster describes the development of a mobile contraception decision aid intended to support transgender and gender-nonconforming (TGNC) individuals assigned female at birth (AFAB) in selecting contraceptive options. The team redesigned an existing desktop tool into a mobile experience using user-centered design methods and implemented a web-based system (Node.js backend; Next.js/TypeScript/Tailwind CSS frontend) with plans for deployment on AWS. The tool centers on three user-facing functions: exploring contraceptive methods via descriptions/FAQs, generating personalized recommendations based on medical conditions and preferences, and comparing methods by decision factors. The authors report ongoing iteration focused on visual design, navigation improvements, and expanding health information, supported by an AHRQ grant and ASU IRB approval.",
+    "talktrack_2m": [
+      "Focus: Develop a mobile contraception decision aid to support the TGNC AFAB community for sexual health education and contraception decision assistance.",
+      "Approach: Population: TGNC AFAB community (research participants acknowledged); sample size not stated. Primary outcome: Not stated on poster (development-focused; mentions accessibility/usability improvements and feature delivery).",
+      "Finding: The team reorganized the tool into three main features:",
+      "Why it matters: Authors’ stated conclusions: The authors emphasize iterative development to improve system design, usability, and trust, and to enhance a scoring algorithm for customized recommendations to better support the TGNC AFAB community. Implications (poster-grounded): A mobile-first decision aid may improve accessibility and usability compared with a desktop tool for TGNC AFAB users. Embedding personalized recommendations alongside method education and comparison tools could support shared decision-making discussions with healthcare providers. Mechanism/explanation (ONLY if stated): Not stated on poster Connections to prior work (ONLY if referenced): Desktop tool developed from a pilot study; details of that study are not stated on poster."
+    ],
+    "key_numbers": [
+      "The authors report ongoing iteration focused on visual design, navigation improvements, and expanding health information, supported by an AHRQ grant and ASU IRB approval. * Obje...",
+      "Exploring specific contraceptives with descriptions of each method, common myths, and FAQs; 2.",
+      "Personalized recommendations of contraceptives based on medical conditions and individual preferences (to discuss with providers); 3.",
+      "Comparing contraceptive methods using a list of decision factors. * The brand style was redefined using simple, gender-neutral design languages and more visual elements to enhan..."
+    ],
+    "takeaways": [
+      "The brand style was redefined using simple, gender-neutral design languages and more visual elements to enhance accessibility.",
+      "New features outlined include a review/experience component about contraceptives and a TGNC AFAB support network component.",
+      "Development focus included improving system design by adding new features and enhancing existing functions; current work includes system functionality/usability testing, building a responsive integrated system, and enhancing the scoring algorithm for customized recommendations."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What specific contraceptive methods are included, and how are they categorized in the app?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "Which parts of the desktop tool were most problematic, and what concrete improvements were achieved in the mobile redesign?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How did you ensure recommendations align with clinical safety guidelines and contraindications?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "How could this tool be integrated into clinic workflows (pre-visit decision aid, waiting room use, telehealth)?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Clarify is your next evaluation milestone—formal usability study, pilot implementation, or outcomes study",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Collaborating with TGNC community advisory boards to guide content and governance",
+        "ideal_partner": "Patient or community partner",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Open-source any components or publish design guidelines for inclusive reproductive health tools",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Development of a Mobile Contraception Decision Aid for Transgender and Gender-Nonconforming Individuals Assigned Female at Birth. The main point is: The brand style was redefined using simple, gender-neutral design languages and more visual elements to enhance accessibility.",
+      "clinician": "For practice-facing attendees, the poster highlights The brand style was redefined using simple, gender-neutral design languages and more visual elements to enhance accessibility.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes the development of a mobile contraception decision aid intended to support transgender and gender-nonconforming (TGNC) individuals assigned female at birth (AFAB) in selecting contraceptive options. The team redesigned an existing desktop tool into a mobile experience using user-centered design methods and implemented a web-based system (Node.js backend; Next.js/TypeScript/Tailwind CSS frontend) with plans for deployment on AWS. The tool centers on three user-facing functions: exploring contraceptive methods via descriptions/FAQs, generating personalized recommendations based on medical conditions and preferences, and comparing methods by decision factors. The authors report ongoing iteration focused on visual design, navigation improvements, and expanding health information, supported by an AHRQ grant and ASU IRB approval.",
+      "funder": "The project addresses Development of a Mobile Contraception Decision Aid for Transgender and Gender-Nonconforming Individuals Assigned Female at Birth and already reports measurable signals such as The authors report ongoing iteration focused on visual design, navigation improvements, and expanding health information, supported by an AHRQ grant and ASU IRB approval. * Obje..."
+    }
+  },
+  "assets": {
+    "source_file_name": "Wang.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

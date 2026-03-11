@@ -1,0 +1,121 @@
+{
+  "id": "anbar-differences-community-recognition-autism-special",
+  "poster_id": "CHS-RD2026-Anbar-J-CommunityRecognitionAutism",
+  "researcher": "Joshua Anbar",
+  "researcher_last_name": "Anbar",
+  "title": "Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona",
+  "category": "Autism & Neurodevelopment",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Autism",
+    "Autism surveillance",
+    "Surveillance",
+    "Special education"
+  ],
+  "keywords": [
+    "autism",
+    "asd",
+    "surveillance",
+    "addm",
+    "arizona",
+    "special-education",
+    "idea",
+    "clinical-coding",
+    "icd",
+    "health-equity",
+    "svi",
+    "agreement",
+    "kappa",
+    "multinomial-regression",
+    "public health surveillance",
+    "health services/access",
+    "fisher's exact test",
+    "cohen's kappa",
+    "sensitivity analysis",
+    "penalized multinomial regression",
+    "education",
+    "clinical",
+    "sources",
+    "questions",
+    "recognition",
+    "exact",
+    "multiple",
+    "reference",
+    "special"
+  ],
+  "summary": {
+    "hook": "This poster compares how autism spectrum disorder (ASD) is “recognized” across education (autism special education exceptionality) versus clinical systems (ASD ICD codes / diagnostic statements) using Arizona ADDM surveillance data on 8-year-olds from 2018/2020/2022 (n=873).",
+    "summary_30s": "This poster compares how autism spectrum disorder (ASD) is “recognized” across education (autism special education exceptionality) versus clinical systems (ASD ICD codes / diagnostic statements) using Arizona ADDM surveillance data on 8-year-olds from 2018/2020/2022 (n=873). The authors find limited overlap between education and clinical recognition categories (education-only 48%, clinical-only 18%, both 29%, neither 6%) and near-zero agreement between special education exceptionality and ASD ICD coding among children with multiple record sources (κ \\= -0.001). Multiple record sources are strongly associated with higher likelihood of recognition, especially for having an ASD ICD code (OR=12.57, Holm p<0.001).",
+    "talktrack_2m": [
+      "Focus: Assess whether record source availability is associated with differences in education and clinical recognition of ASD",
+      "Approach: Population: 8-year-old children in Arizona ADDM surveillance cycles Primary outcome: Membership in education/clinical recognition categories (as defined in results/figure)",
+      "Finding: Recognition categories show limited overlap between educational and clinical systems (n=873): 48% education-only, 18% ICD-only, 29% both, 6% neither.",
+      "Why it matters: Authors’ stated conclusions: Educational and clinical systems identify overlapping but distinct subsets of children with ASD. Special education exceptionality and ICD code for autism do not mutually predict each other → suggests system-level discordance. This is consistent with the idea that special education requirements (IDEA) and clinical diagnostic criteria (DSM-5) focus on different aspects of ASD. Public health surveillance for autism may need reassessment: are educational and clinical recognition “the same thing,” and should diagnostic criteria be revised to include both educational and clinical experiences? Findings need full ADDM Network confirmation. Implications (poster-grounded): Multiple record sources increase likelihood of recognition by both systems. Some characteristics decrease likelihood of recognition. Open question raised: fundamental access issue vs two distinct subpopulations. Need to explore whether children with special education exceptionality reliably qualify for a clinical ASD diagnosis. Mechanism/explanation (ONLY if stated): Differences between IDEA requirements and DSM-5 diagnostic criteria (i.e., focusing on different aspects of ASD). * Connections to prior work (ONLY if referenced): References include CDC ADDM prevalence reports (2018, 2020, 2022) and papers on surveillance collaboration and education vs clinical diagnoses."
+    ],
+    "key_numbers": [
+      "Overall n=873; record source subgroups: Single Source n=529, Multiple Source n=344",
+      "Surveillance years 2018, 2020, 2022",
+      "8-year-old children in Arizona ADDM surveillance cycles",
+      "Recognition categories: 48% education-only, 18% ICD-only, 29% both, 6% neither (n=873).",
+      "Multiple sources: OR=1.77 for exceptionality (Holm p=0.002).",
+      "Multiple sources: OR=12.57 for ICD code (Holm p<0.001)."
+    ],
+    "takeaways": [
+      "Recognition categories show limited overlap between educational and clinical systems (n=873): 48% education-only, 18% ICD-only, 29% both, 6% neither.",
+      "Among children with multiple sources, agreement between exceptionality and ICD code is near zero: Cohen’s κ \\= -0.001",
+      "Multinomial regression (statistically significant predictors shown in Figure 1) reports relative risk ratios by category for: race/ethnicity, intellectual disability status (unknown), surveillance year, SVI status, and multiple sources."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What exactly counts as a “record source” (education file, clinician record, both, other), and how are “single” vs “multiple” sources defined?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "The overlap plot shows 48% “exceptionality-only” and 18% “ICD-only.” What do you think is the biggest driver of this asymmetry?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "What was the reference standard for sensitivity/specificity/PPV/NPV? How should we interpret specificity being 11% (all children) and 17% (multiple sources)?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "If a child is “education-only,” what does that typically mean for access to clinical services in Arizona (based on your experience with these records)?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "You note “full ADDM Network confirmation.” What analysis plan would you use—pooled model, site-specific models, or meta-analysis",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Examine functional severity or service utilization differences across the four recognition categories",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Incorporate time-to-evaluation or timing of first diagnosis/IEP to understand pathway sequencing",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona. The main point is: Recognition categories show limited overlap between educational and clinical systems (n=873): 48% education-only, 18% ICD-only, 29% both, 6% neither.",
+      "clinician": "For practice-facing attendees, the poster highlights Recognition categories show limited overlap between educational and clinical systems (n=873): 48% education-only, 18% ICD-only, 29% both, 6% neither.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster compares how autism spectrum disorder (ASD) is “recognized” across education (autism special education exceptionality) versus clinical systems (ASD ICD codes / diagnostic statements) using Arizona ADDM surveillance data on 8-year-olds from 2018/2020/2022 (n=873). The authors find limited overlap between education and clinical recognition categories (education-only 48%, clinical-only 18%, both 29%, neither 6%) and near-zero agreement between special education exceptionality and ASD ICD coding among children with multiple record sources (κ \\= -0.001). Multiple record sources are strongly associated with higher likelihood of recognition, especially for having an ASD ICD code (OR=12.57, Holm p<0.001).",
+      "funder": "The project addresses Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona and already reports measurable signals such as Overall n=873; record source subgroups: Single Source n=529, Multiple Source n=344"
+    }
+  },
+  "assets": {
+    "source_file_name": "Anbar2.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "A-M"
+  }
+}

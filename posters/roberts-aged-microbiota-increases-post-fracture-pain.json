@@ -1,0 +1,129 @@
+{
+  "id": "roberts-aged-microbiota-increases-post-fracture-pain",
+  "poster_id": "CHS-RD2026-Roberts-J-AgedMicrobiotaFracturePain",
+  "researcher": "Joseph L. Roberts",
+  "researcher_last_name": "Roberts",
+  "title": "Aged Microbiota Increases Post-Fracture Pain and Delays Fracture Healing",
+  "category": "Brain, Behavior & Aging",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Fracture",
+    "Gut microbiome",
+    "Pain",
+    "Microbiome transfer"
+  ],
+  "keywords": [
+    "fracture",
+    "pain",
+    "gut-microbiome",
+    "fmt",
+    "antibiotics",
+    "aged-microbiota",
+    "sex-differences",
+    "drg",
+    "t-cells",
+    "callus",
+    "microct",
+    "bv",
+    "bmd",
+    "tnfalpha",
+    "cxcl12",
+    "human performance/movement/lifespan health",
+    "nutrition/metabolic health",
+    "pain biology",
+    "microbiome depletion with antibiotic cocktail (14 days)",
+    "fmt via gavage (young 12-wk vs aged 18-mo donors; duration stated as 7 days and also shown as 14 days)",
+    "left femoral fracture",
+    "outcomes assessed 21 days post-fracture",
+    "pain behaviors (rearing, static weight bearing, thermal hyperalgesia)",
+    "callus formation via µct (bv, bv/tv, bmd, tv)",
+    "gene expression (bone marrow, drg, intestine; drg l3–l5 highlighted)",
+    "serum cytokines/chemokines (tnfα, sdf1/cxcl12)",
+    "drg immune cell flow cytometry (cd3+ t cells, cd11b+)",
+    "stated",
+    "days",
+    "aged-fmt",
+    "aged",
+    "post-fracture",
+    "microbiota",
+    "outcomes",
+    "females",
+    "expression",
+    "microbiome"
+  ],
+  "summary": {
+    "hook": "This mouse study tests whether an aged gut microbiota, independent of the mouse’s chronological age, worsens recovery after femoral fracture.",
+    "summary_30s": "This mouse study tests whether an aged gut microbiota, independent of the mouse’s chronological age, worsens recovery after femoral fracture. Mice underwent microbiome depletion with an antibiotic cocktail followed by fecal microbiota transplant (FMT) from either young (12-week) or aged (18-month) donors, then received a left femoral fracture with outcomes assessed 21 days post-fracture. The key findings are sex-specific: in female mice, aged-FMT is associated with slower recovery of pain-related behaviors, reduced callus bone metrics (BV, BV/TV, BMD), higher inflammatory/pain-related gene expression in DRG, and increased CD3⁺ T-cell infiltration in DRG; males show minimal or no differences across most outcomes.",
+    "talktrack_2m": [
+      "Focus: Test the impact of an aged microbiota, independently from chronological age, on fracture healing and pain outcomes.",
+      "Approach: Population: C57BL/6J mice; both females and males analyzed. Primary outcome: Pain behaviors; callus formation metrics (µCT).",
+      "Finding: Fracture is associated with dramatic alterations in gut microbiota composition; stacked-bar plots show top-10 genera changes from Day 0 to Days 3, 10, 14, 18 in young and aged mice.",
+      "Why it matters: Authors’ stated conclusions: Aged-FMT showed negative effects for pain sensitization and fracture healing in females. Female Aged-FMT showed higher expression of inflammatory and pain-related cytokines and increased T-cell infiltration into DRG. The composition of the aged microbiota may negatively impact recovery after fracture. Implications (poster-grounded): Microbiota composition (age-associated) may be a modifiable contributor to post-fracture pain and healing outcomes, particularly in females. DRG immune infiltration and inflammatory/pain gene signatures are highlighted as potential mechanistic links to pain sensitization differences. Mechanism/explanation (ONLY if stated): Not stated on poster (mechanistic hints: increased inflammatory/pain-related gene expression in DRG and increased CD3⁺ T cells in DRG). * Connections to prior work (ONLY if referenced): “Our recent studies in mice” showing fracture induces microbiome changes (more pronounced in aged mice) and microbiota-targeted interventions can improve outcomes; specific citations not listed."
+    ],
+    "key_numbers": [
+      "n=9–13 per group (randomized).",
+      "Antibiotics 14 days; FMT described as 7 days (via gavage) and also shown as “FMT for 14 days” in the schematic; fracture after “2-wk of FMT treatment”; outcomes assessed 21 days...",
+      "Young vs aged microbiota did not significantly affect body weight recovery post-fracture; both sexes returned to baseline by day 21.",
+      "In females, Aged-FMT decreased callus bone content (lower BV, BV/TV, BMD vs Young-FMT; *P<0.05).",
+      "Aged microbiome increased CD3+ T-cell populations in DRG at day 7 post-fracture; CD11b+ populations did not differ.",
+      "Mice underwent microbiome depletion with an antibiotic cocktail followed by fecal microbiota transplant (FMT) from either young (12-week) or aged (18-month) donors, then receive..."
+    ],
+    "takeaways": [
+      "Fracture is associated with dramatic alterations in gut microbiota composition; stacked-bar plots show top-10 genera changes from Day 0 to Days 3, 10, 14, 18 in young and aged mice.",
+      "Young vs aged microbiota does not significantly affect body weight recovery following fracture; both sexes show an initial weight drop after fracture and recovery to baseline by day 21; “no significant main effects of microbiome age.”",
+      "Pain behaviors: In females, young microbiome pain/nociception measures return to pre-fracture levels faster than aged microbiota; young-FMT accelerates recovery vs aged-FMT. Males show minimal differences."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: Can you clarify the FMT duration (7 days vs 14 days) and the exact timing of fracture relative to FMT?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "In Fig. 3 (females), which pain behavior measure showed the largest or earliest separation between Young-FMT and Aged-FMT?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "What statistical model(s) were used for pain behaviors and µCT outcomes (beyond mixed models for weight), and were sex-by-FMT interactions tested formally?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "Based on these findings, what microbiota-targeted interventions do you think are most promising to test post-fracture (prebiotics, probiotics, targeted antibiotics, dietary shifts)?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Planning causal experiments to identify specific taxa/metabolites from aged microbiota responsible for the phenotype (e.g., gnotobiotic mice, metabolomics)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Test whether changing the microbiota after fracture (rather than before) can reverse pain/healing deficits",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Do you plan longitudinal sampling to link specific microbiome shifts (Fig. 1) to later DRG immune infiltration (Fig. 7) and healing outcomes (Fig. 4)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Aged Microbiota Increases Post-Fracture Pain and Delays Fracture Healing. The main point is: Fracture is associated with dramatic alterations in gut microbiota composition; stacked-bar plots show top-10 genera changes from Day 0 to Days 3, 10, 14, 18 in young and aged mice.",
+      "clinician": "For practice-facing attendees, the poster highlights Fracture is associated with dramatic alterations in gut microbiota composition; stacked-bar plots show top-10 genera changes from Day 0 to Days 3, 10, 14, 18 in young and aged mice.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This mouse study tests whether an aged gut microbiota, independent of the mouse’s chronological age, worsens recovery after femoral fracture. Mice underwent microbiome depletion with an antibiotic cocktail followed by fecal microbiota transplant (FMT) from either young (12-week) or aged (18-month) donors, then received a left femoral fracture with outcomes assessed 21 days post-fracture. The key findings are sex-specific: in female mice, aged-FMT is associated with slower recovery of pain-related behaviors, reduced callus bone metrics (BV, BV/TV, BMD), higher inflammatory/pain-related gene expression in DRG, and increased CD3⁺ T-cell infiltration in DRG; males show minimal or no differences across most outcomes.",
+      "funder": "The project addresses Aged Microbiota Increases Post-Fracture Pain and Delays Fracture Healing and already reports measurable signals such as n=9–13 per group (randomized)."
+    }
+  },
+  "assets": {
+    "source_file_name": "Roberts.pptx.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "poulos-schoolchildrens-movement-readiness-learn-extreme",
+  "poster_id": "CHS-RD2026-Poulos-A-MovementReadinessExtremeHeat",
+  "researcher": "Allison Poulos",
+  "researcher_last_name": "Poulos",
+  "title": "SCHOOLCHILDREN’S MOVEMENT AND READINESS TO LEARN DURING EXTREME HEAT",
+  "category": "Physical Activity, Environment & Prevention",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Extreme heat",
+    "Recess",
+    "Schoolchildren",
+    "Physical activity"
+  ],
+  "keywords": [
+    "extreme-heat",
+    "recess",
+    "school-children",
+    "movement",
+    "mvpa",
+    "readiness-to-learn",
+    "panas-c",
+    "soplay-sn",
+    "marty",
+    "mean-radiant-temperature",
+    "mixed-methods",
+    "phoenix",
+    "human performance/movement/lifespan health",
+    "health equity/policy/population health",
+    "built environment and health",
+    "cross sectional observational",
+    "concurrent qual–quant mixed methods",
+    "aim 1 semi-structured interviews (n=15)",
+    "aim 2 survey (panas-c; 981 questionnaires over 6 weeks)",
+    "aim 3 soplay-sn recess observation (n=91) and marty thermal assessments (n=5 over 5 weeks)",
+    "anova",
+    "cumulative link mixed models",
+    "matrix analysis",
+    "stated",
+    "readiness",
+    "heat",
+    "gyms",
+    "text",
+    "classrooms",
+    "learn",
+    "shade",
+    "outside"
+  ],
+  "summary": {
+    "hook": "This concurrent mixed-methods study in 5 Phoenix Metro (AZ) elementary schools examined recess during extreme heat, focusing on (1) practices/costs of offering recess, and children’s (2) readiness to learn and (3) movement by heat exposure and recess setting.",
+    "summary_30s": "This concurrent mixed-methods study in 5 Phoenix Metro (AZ) elementary schools examined recess during extreme heat, focusing on (1) practices/costs of offering recess, and children’s (2) readiness to learn and (3) movement by heat exposure and recess setting. Data included 15 interviews, 981 questionnaires over 6 weeks, and 91 recess observations plus 5 thermal assessments over 5 weeks, among 5th graders (age 10–11; n=218) and staff (n=15). Results show air temperatures 91–109°F (33–43°C) and mean radiant temperatures 103°F (39°C) in tree shade to 163°F (73°C) on courts; readiness to learn was higher when recess was outside or in gyms vs classrooms (p<.05), and MVPA was 17% higher outdoors and 40% higher in gyms compared to classroom recess (p<.001), where children were mainly sedentary (71%).",
+    "talktrack_2m": [
+      "Focus: Determine (1) common practices and costs of offering school recess during extreme heat, and differences in children’s (2) readiness to learn and (3) movement by heat exposure and setting.",
+      "Approach: Population: 5th grade students (age 10–11) and school staff. Primary outcome: Readiness to learn; movement/MVPA during recess; heat exposure metrics.",
+      "Finding: Air temperatures ranged from 91–109°F (33–43°C).",
+      "Why it matters: Authors’ stated conclusions: Schools face expensive infrastructure needs to support safe recess during extreme heat; keeping recess inside classrooms is associated with lower readiness to learn and high sedentary behavior; gyms and outdoor recess are associated with higher readiness and greater MVPA, and shade placement may not align with the most active outdoor spaces. Implications (poster-grounded): Investment priorities: schoolyard shade and dedicated indoor movement spaces (e.g., gyms) may support both learning readiness and physical activity during heat. Practice guidance need: lack of uniform extreme-heat recess guidance leads to variable practices; evidence supports reconsidering “classroom recess” defaults. Mechanism/explanation (ONLY if stated): Not stated on poster (the poster implies setting changes affect sitting vs MVPA and readiness). Connections to prior work (ONLY if referenced): Not stated on poster"
+    ],
+    "key_numbers": [
+      "Schools N=5; students n=218; staff n=15.",
+      "Questionnaires over 6 weeks; recess observations and thermal assessments over 5 weeks.",
+      "5th grade students (age 10–11) and school staff.",
+      "Air temperatures ranged 91–109°F (33–43°C); mean radiant temperatures ranged 103°F (39°C) under tree shade to 163°F (73°C) on courts.",
+      "Readiness to learn was higher when recess was outside or in gyms compared to classrooms (p<.05).",
+      "Most recess was outside (60%); 20% in classrooms; 20% in gyms."
+    ],
+    "takeaways": [
+      "Air temperatures ranged from 91–109°F (33–43°C).",
+      "Heat exposure (mean radiant temperature) ranged from 103°F (39°C) under tree shade to 163°F (73°C) on courts.",
+      "Aim 1: Essential resources to maintain safe outdoor recess (e.g., shade structures, water bottle filling stations) required years of fundraising."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What specific NEWS/PANAS-C items or subscales were used to define “readiness to learn,” and what is the scoring range?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "Readiness was higher outside/gyms vs classrooms (p<.05): what is the effect size and how meaningful is it educationally?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How did you account for clustering by school/class in analyses (mixed models structure)?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "What practical guidance would you recommend to schools deciding between outdoor, gym, or classroom recess on hot days?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Planning an intervention study (e.g., adding shade or structured gym recess) to test causal effects on MVPA and readiness",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Integrate wearable data (accelerometers) to validate SOPLAY-SN observed MVPA estimates",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Extend work to younger grades or to middle schools to see if patterns persist",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies SCHOOLCHILDREN’S MOVEMENT AND READINESS TO LEARN DURING EXTREME HEAT. The main point is: Air temperatures ranged from 91–109°F (33–43°C).",
+      "clinician": "For practice-facing attendees, the poster highlights Air temperatures ranged from 91–109°F (33–43°C).",
+      "community": "For community partners, the poster connects the issue to real-world impact: This concurrent mixed-methods study in 5 Phoenix Metro (AZ) elementary schools examined recess during extreme heat, focusing on (1) practices/costs of offering recess, and children’s (2) readiness to learn and (3) movement by heat exposure and recess setting. Data included 15 interviews, 981 questionnaires over 6 weeks, and 91 recess observations plus 5 thermal assessments over 5 weeks, among 5th graders (age 10–11; n=218) and staff (n=15). Results show air temperatures 91–109°F (33–43°C) and mean radiant temperatures 103°F (39°C) in tree shade to 163°F (73°C) on courts; readiness to learn was higher when recess was outside or in gyms vs classrooms (p<.05), and MVPA was 17% higher outdoors and 40% higher in gyms compared to classroom recess (p<.001), where children were mainly sedentary (71%).",
+      "funder": "The project addresses SCHOOLCHILDREN’S MOVEMENT AND READINESS TO LEARN DURING EXTREME HEAT and already reports measurable signals such as Schools N=5; students n=218; staff n=15."
+    }
+  },
+  "assets": {
+    "source_file_name": "Poulos.pptx.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

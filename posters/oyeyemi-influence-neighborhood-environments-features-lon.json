@@ -1,0 +1,121 @@
+{
+  "id": "oyeyemi-influence-neighborhood-environments-features-lon",
+  "poster_id": "CHS-RD2026-Oyeyemi-A-NeighborhoodFeaturesLongTermMVPA",
+  "researcher": "Adewale Oyeyemi",
+  "researcher_last_name": "Oyeyemi",
+  "title": "Influence of Neighborhood Environments Features on Long-Term Changes in Physical Activity Across the Lifespan",
+  "category": "Physical Activity, Environment & Prevention",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Physical Activity",
+    "Neighborhood Environment",
+    "Walkability",
+    "Longitudinal"
+  ],
+  "keywords": [
+    "physical-activity",
+    "mvpa",
+    "neighborhood-environment",
+    "walkability",
+    "news",
+    "actigraph",
+    "longitudinal",
+    "lifespan",
+    "macro-scale",
+    "micro-scale",
+    "ncd-prevention",
+    "health equity/policy/population health",
+    "human performance/movement/lifespan health",
+    "secondary analysis of pooled cohorts",
+    "re-recruitment long-term follow-up (5.1–15 years)",
+    "actigraph accelerometer mvpa",
+    "news perceived environment",
+    "longitudinal structural path models adjusted for baseline and covariates",
+    "2×2 walkability×income sampling design",
+    "stated",
+    "follow-up",
+    "baseline",
+    "features",
+    "neighborhood",
+    "environment",
+    "decline",
+    "activity",
+    "long-term",
+    "less"
+  ],
+  "summary": {
+    "hook": "This poster reports secondary analyses testing whether baseline activity-supportive neighborhood environment features predict long-term changes in objectively measured physical activity across the lifespan.",
+    "summary_30s": "This poster reports secondary analyses testing whether baseline activity-supportive neighborhood environment features predict long-term changes in objectively measured physical activity across the lifespan. Data came from four cross-sectional age-specific studies (children, adolescents, adults, older adults), with a fifth study re-recruiting participants for long-term follow-up (5.1 to 15 years) in a combined sample of n=1067. Moderate-to-vigorous physical activity (MVPA) was measured by Actigraph accelerometer at baseline and follow-up, and perceived neighborhood environment by NEWS, with longitudinal structural path models predicting follow-up MVPA from baseline environment features. Conclusions indicate MVPA declines over time in all age groups, but higher activity-supportive neighborhood features—across macro and micro scales—are associated with less decline in MVPA; people in high-supportive neighborhoods show less long-term MVPA decline than those in low-supportive neighborhoods.",
+    "talktrack_2m": [
+      "Focus: Examine how baseline macro- and micro-scale activity-supportive neighborhood environment features are associated with long-term changes in MVPA across multiple age groups (children, adolescents, adults, older adults).",
+      "Approach: Population: Participants from four age-specific studies across children, adolescents, adults, and older adults; re-recruited for follow-up into a combined sample. Primary outcome: MVPA at follow-up / change in MVPA (decline).",
+      "Finding: MVPA declines from baseline to follow-up in all age groups.",
+      "Why it matters: Authors’ stated conclusions: Baseline activity-supportive neighborhood environment features (macro and micro) and overall activity supportiveness are associated with less long-term decline in MVPA across all age groups; individuals in high-supportive neighborhoods show less decline compared with those in low-supportive neighborhoods. Implications (poster-grounded): Findings add prospective evidence for built environment–PA relationships to guide policy and practice for non-communicable disease (NCD) prevention and control across the lifespan. Mechanism/explanation (ONLY if stated): Not stated on poster (introduction notes cross-sectional evidence and motivates more prospective work). Connections to prior work (ONLY if referenced): Not stated on poster"
+    ],
+    "key_numbers": [
+      "Overall follow-up assessment sample n=1067",
+      "Long-term follow-up 5.1 to 15 years",
+      "5 macro and 3 of 4 micro-scale baseline activity-supportive neighborhood features (and overall supportiveness) were associated with less decline in MVPA across all age groups.",
+      "Long-term follow-up ranged from 5.1 to 15 years in a combined follow-up sample of 1067.",
+      "Data came from four cross-sectional age-specific studies (children, adolescents, adults, older adults), with a fifth study re-recruiting participants for long-term follow-up (5....",
+      "Conclusions indicate MVPA declines over time in all age groups, but higher activity-supportive neighborhood features—across macro and micro scales—are associated with less decli..."
+    ],
+    "takeaways": [
+      "MVPA declines from baseline to follow-up in all age groups.",
+      "Baseline activity-supportive neighborhood environment features are associated with less decline in MVPA across all age groups.",
+      "Specifically, “5 macro and 3 of 4 micro-scale” baseline activity-supportive features, and overall activity supportiveness, are associated with less MVPA decline."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What specific macro-scale and micro-scale neighborhood features were included, and which ones were the “5” and the “3 of 4” that predicted less decline?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "MVPA declined in all groups—what was the typical magnitude of decline (minutes/day or % change) by age group?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How did you handle missing accelerometer data at follow-up, and did missingness differ by neighborhood type?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "Which built-environment changes are most actionable from your results (macro vs micro features) for cities/communities?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Link NEWS perceptions with objective GIS measures to strengthen causal inference",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Examine other outcomes beyond MVPA (sedentary time, light activity, health biomarkers)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Test mediation (environment → social support/perceived safety → MVPA maintenance) in future models",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Influence of Neighborhood Environments Features on Long-Term Changes in Physical Activity Across the Lifespan. The main point is: MVPA declines from baseline to follow-up in all age groups.",
+      "clinician": "For practice-facing attendees, the poster highlights MVPA declines from baseline to follow-up in all age groups.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster reports secondary analyses testing whether baseline activity-supportive neighborhood environment features predict long-term changes in objectively measured physical activity across the lifespan. Data came from four cross-sectional age-specific studies (children, adolescents, adults, older adults), with a fifth study re-recruiting participants for long-term follow-up (5.1 to 15 years) in a combined sample of n=1067. Moderate-to-vigorous physical activity (MVPA) was measured by Actigraph accelerometer at baseline and follow-up, and perceived neighborhood environment by NEWS, with longitudinal structural path models predicting follow-up MVPA from baseline environment features. Conclusions indicate MVPA declines over time in all age groups, but higher activity-supportive neighborhood features—across macro and micro scales—are associated with less decline in MVPA; people in high-supportive neighborhoods show less long-term MVPA decline than those in low-supportive neighborhoods.",
+      "funder": "The project addresses Influence of Neighborhood Environments Features on Long-Term Changes in Physical Activity Across the Lifespan and already reports measurable signals such as Overall follow-up assessment sample n=1067"
+    }
+  },
+  "assets": {
+    "source_file_name": "Oyeyemi.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

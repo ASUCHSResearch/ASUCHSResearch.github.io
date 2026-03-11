@@ -1,0 +1,122 @@
+{
+  "id": "suzuki-loss-codiversified-gut-microbes-predicts-autism",
+  "poster_id": "CHS-RD2026-Suzuki-T-CodiversifiedMicrobesASD",
+  "researcher": "Taichi A. Suzuki",
+  "researcher_last_name": "Suzuki",
+  "title": "The loss of codiversified gut microbes predicts Autism Spectrum Disorder status and severity",
+  "category": "Autism & Neurodevelopment",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Autism",
+    "Gut microbiome",
+    "Gut microbes",
+    "Codiversification"
+  ],
+  "keywords": [
+    "asd",
+    "autism",
+    "gut-microbiome",
+    "codiversification",
+    "co-diversified-microbes",
+    "shotgun-metagenomics",
+    "microbiota-transplant-therapy",
+    "mtt",
+    "cars",
+    "biomarkers",
+    "ancestry-specific-strains",
+    "neurodevelopment/behavior/mental health",
+    "nutrition/metabolic health",
+    "biomedical informatics/data science",
+    "fecal shotgun metagenomics",
+    "pre/post mtt trial analysis",
+    "codiversified (n=36) vs non-codiversified (n=23) species set analysis",
+    "wilcoxon rank sum test",
+    "spearman rho correlation",
+    "codiversified",
+    "severity",
+    "microbes",
+    "abundance",
+    "stated",
+    "total",
+    "relative",
+    "time",
+    "point",
+    "non-codiversified",
+    "microbial"
+  ],
+  "summary": {
+    "hook": "This poster analyzes fecal shotgun metagenomic data from adults with autism spectrum disorder (ASD) and typically developing (TD) controls collected before and after a microbiota transplant therapy (MTT) trial.",
+    "summary_30s": "This poster analyzes fecal shotgun metagenomic data from adults with autism spectrum disorder (ASD) and typically developing (TD) controls collected before and after a microbiota transplant therapy (MTT) trial. Using a published list of globally prevalent codiversified (n=36) and non-codiversified (n=23) microbial species, the authors report that adults with ASD have a lower total relative abundance of codiversified microbes than TD controls. They further report that decreased ASD severity after MTT is associated with increased total relative abundance of codiversified microbes, while non-codiversified microbes do not predict ASD severity.",
+    "talktrack_2m": [
+      "Focus: Test whether loss of codiversified gut microbes predicts ASD disease status and ASD severity, and whether changes after MTT relate to severity changes.",
+      "Approach: Population: Adults with ASD and typically developing (TD) controls. Primary outcome: ASD status (ASD vs TD) and ASD severity (CARS score).",
+      "Finding: Adults with ASD have a lower total relative abundance of codiversified microbes compared to TD controls (Wilcoxon rank sum test).",
+      "Why it matters: Authors’ stated conclusions: Codiversifying microbes can serve as biomarkers of ASD status and severity. Implications (poster-grounded): Loss of codiversified microbes may help distinguish ASD vs TD status and relate to severity, suggesting a biomarker direction for ASD-associated gut microbiome signals. Changes in codiversified microbe abundance may be relevant to MTT outcomes. * Mechanism/explanation (ONLY if stated): Gut–brain axis described as bidirectional communication between gut and brain; severe ASD often accompanied by gastrointestinal symptoms."
+    ],
+    "key_numbers": [
+      "ASD subjects n=51; TD n=46.",
+      "Two timepoints: (Time point 1) before MTT / no intervention; (Time point 2) after MTT. Exact calendar timing not stated on poster.",
+      "Using a published list of globally prevalent codiversified (n=36) and non-codiversified (n=23) microbial species, the authors report that adults with ASD have a lower total rela...",
+      "They further report that decreased ASD severity after MTT is associated with increased total relative abundance of codiversified microbes, while non-codiversified microbes do no...",
+      "2022; ASD severity measured by CARS. * Groups/conditions/comparators: ASD vs TD at Time point 1; associations between microbial relative abundance and severity at Time point 1 a...",
+      "2022 list | | R4 | Non-codiversified microbe set size | Non-codiversified microbes | — | 23 species | — | — | text | From Suzuki et al."
+    ],
+    "takeaways": [
+      "Adults with ASD have a lower total relative abundance of codiversified microbes compared to TD controls (Wilcoxon rank sum test).",
+      "A decrease in ASD severity after MTT is associated with an increase in total relative abundance of codiversified microbes (Spearman rho; shown at Time point 1 vs Time point 2).",
+      "The total relative abundance of non-codiversified microbes does not predict ASD severity (Spearman rho; shown at Time point 1 and Time point 2)."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What were the exact Wilcoxon p-values for ASD vs TD differences for codiversified and non-codiversified totals?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "What was the effect size for the ASD vs TD difference in codiversified total abundance (median difference or fold change)?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "Were analyses adjusted for key confounders (diet, medications, antibiotics, GI symptoms, age, sex, ancestry), and how sensitive are results to adjustment?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "What would a “codiversified microbe biomarker panel” look like in practice—total abundance threshold, specific taxa, or ancestry-stratified norms?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Your future direction mentions combining self-identified ancestry and microbial ancestry—what model features would you use and what outcomes would you predict",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Planning validation in independent cohorts (different geographies, ages, or ASD severity ranges)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Test whether codiversified microbes correlate with GI symptom severity as well as ASD severity",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies The loss of codiversified gut microbes predicts Autism Spectrum Disorder status and severity. The main point is: Adults with ASD have a lower total relative abundance of codiversified microbes compared to TD controls (Wilcoxon rank sum test).",
+      "clinician": "For practice-facing attendees, the poster highlights Adults with ASD have a lower total relative abundance of codiversified microbes compared to TD controls (Wilcoxon rank sum test).",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster analyzes fecal shotgun metagenomic data from adults with autism spectrum disorder (ASD) and typically developing (TD) controls collected before and after a microbiota transplant therapy (MTT) trial. Using a published list of globally prevalent codiversified (n=36) and non-codiversified (n=23) microbial species, the authors report that adults with ASD have a lower total relative abundance of codiversified microbes than TD controls. They further report that decreased ASD severity after MTT is associated with increased total relative abundance of codiversified microbes, while non-codiversified microbes do not predict ASD severity.",
+      "funder": "The project addresses The loss of codiversified gut microbes predicts Autism Spectrum Disorder status and severity and already reports measurable signals such as ASD subjects n=51; TD n=46."
+    }
+  },
+  "assets": {
+    "source_file_name": "Suzuki_CHS_Poster_V1.pptx.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

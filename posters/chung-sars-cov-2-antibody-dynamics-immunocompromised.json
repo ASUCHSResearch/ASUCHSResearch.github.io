@@ -1,0 +1,124 @@
+{
+  "id": "chung-sars-cov-2-antibody-dynamics-immunocompromised",
+  "poster_id": "CHS-RD2026-Chung-Y-SARSCoV2AntibodyDynamics",
+  "researcher": "Yunro Chung",
+  "researcher_last_name": "Chung",
+  "title": "SARS-CoV-2 Antibody Dynamics in Immunocompromised and Healthy Individuals",
+  "category": "Infectious Disease, Genomics & Bioinformatics",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Antibody dynamics",
+    "SARS-CoV-2",
+    "Serology networks",
+    "Serology"
+  ],
+  "keywords": [
+    "sars-cov-2",
+    "antibody-dynamics",
+    "serology",
+    "seronet",
+    "mispa",
+    "immunocompromised",
+    "autoimmune",
+    "cancer",
+    "hiv",
+    "solid-organ-transplant",
+    "healthy-controls",
+    "booster",
+    "nonlinear-mixed-effects",
+    "cubic-spline",
+    "biostatistics",
+    "infectious disease serology",
+    "immunology",
+    "public health",
+    "multiplexed in-solution protein array (mispa)",
+    "nonlinear mixed-effect models",
+    "cubic spline time interactions",
+    "vaccination × infection interaction modeling",
+    "infection",
+    "antibody",
+    "time",
+    "vaccination",
+    "stated",
+    "trajectories",
+    "status",
+    "cohorts",
+    "cohort",
+    "decay"
+  ],
+  "summary": {
+    "hook": "This poster analyzes large-scale longitudinal serology data (1,767 participants; 4,582 samples) to characterize how SARS-CoV-2 antibody responses change over time in immunocompromised groups (autoimmune disease, cancer, HIV, solid organ transplant recipients) versus healthy controls.",
+    "summary_30s": "This poster analyzes large-scale longitudinal serology data (1,767 participants; 4,582 samples) to characterize how SARS-CoV-2 antibody responses change over time in immunocompromised groups (autoimmune disease, cancer, HIV, solid organ transplant recipients) versus healthy controls. Antibody responses to SARS-CoV-2 antigens and infection status were measured using MISPA, and nonlinear mixed-effects models with spline time interactions were used to quantify how peak timing and decay differ by cohort and by vaccination/infection status. The visual results highlight heterogeneous trajectories after vaccine completion and after booster vaccination, with infection timing annotated, and the modeling indicates statistically significant differences across cohorts (p<0.05) and vaccination×infection interactions (p<0.05).",
+    "talktrack_2m": [
+      "Focus: Not stated on poster as explicit objectives; implied objective is to robustly characterize longitudinal SARS-CoV-2 antibody trajectories across immunocompromised cohorts and healthy controls to inform immunity durability and vaccination strategy.",
+      "Approach: Population: Five cohorts: autoimmune disease, cancer, HIV, solid organ transplant recipients, and healthy controls. Primary outcome: Antibody response trajectories over time (exact antibody metric label is unclear on poster image; described as antibody responses to SARS-CoV-2 antigens).",
+      "Finding: Dataset size: 1,767 participants contributed 4,582 longitudinal samples across four institutions.",
+      "Why it matters: Authors’ stated conclusions: Not stated as a “Conclusion” section; the background and modeling notes imply that antibody trajectories are heterogeneous and that cohort, vaccination history, and infection status materially shape the temporal dynamics, requiring robust statistical methods and harmonized data for accurate interpretation and policy decisions. Implications (poster-grounded): Accurate interpretation of seroprevalence and immunity durability requires modeling heterogeneous antibody kinetics across clinical cohorts. Interaction between vaccination and infection status suggests that vaccination-only trajectories differ from trajectories with infection events, and this should be incorporated into analyses informing vaccination strategies. Mechanism/explanation (ONLY if stated): Not stated on poster Connections to prior work (ONLY if referenced): * SeroNet description and reference to Karger et al."
+    ],
+    "key_numbers": [
+      "1,767 participants; 4,582 longitudinal samples.",
+      "Overall trend panel spans approximately April 2021–September 2022; booster trend panel spans approximately June 2021–August 2022 (as labeled on poster).",
+      "1,767 participants contributed 4,582 longitudinal samples.",
+      "Nonlinear mixed-effects models found significant group × spline time interaction (p<0.05).",
+      "Vaccination × infection status interaction was significant (p<0.05).",
+      "Peak time and slope decay varied across the five cohorts (p<0.05)."
+    ],
+    "takeaways": [
+      "Dataset size: 1,767 participants contributed 4,582 longitudinal samples across four institutions.",
+      "Study cohorts: autoimmune disease, cancer, HIV, solid organ transplant recipients, and healthy controls.",
+      "Authors’ stated conclusions: Not stated as a “Conclusion” section; the background and modeling notes imply that antibody trajectories are heterogeneous and that cohort, vaccination history, and infection status materially shape the temporal dynamics, requiring robust statistical methods and harmonized data for accurate interpretation and policy decisions."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What is the exact antibody outcome being plotted (which antigen(s), isotype, and units), and how is it transformed (log scale?)?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "The model indicates cohort differences in peak time and decay (p<0.05). What are the estimated peak times and decay rates for each cohort?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How robust are your findings to infection misclassification (diagnostic errors) and measurement error in antibody assays?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "How should public health teams use these cohort-specific trajectories when interpreting seroprevalence estimates?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Your poster asks “Is the booster vaccine effective against SARS-CoV-2 infection?” What causal framework/estimand are you planning to use",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Building methodological tools to jointly model antibody kinetics and infection hazard, and how will you validate them",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Incorporate additional pathogens beyond SARS-CoV-2 (consistent with multiplex respiratory pathogen goals)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies SARS-CoV-2 Antibody Dynamics in Immunocompromised and Healthy Individuals. The main point is: Dataset size: 1,767 participants contributed 4,582 longitudinal samples across four institutions.",
+      "clinician": "For practice-facing attendees, the poster highlights Dataset size: 1,767 participants contributed 4,582 longitudinal samples across four institutions.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster analyzes large-scale longitudinal serology data (1,767 participants; 4,582 samples) to characterize how SARS-CoV-2 antibody responses change over time in immunocompromised groups (autoimmune disease, cancer, HIV, solid organ transplant recipients) versus healthy controls. Antibody responses to SARS-CoV-2 antigens and infection status were measured using MISPA, and nonlinear mixed-effects models with spline time interactions were used to quantify how peak timing and decay differ by cohort and by vaccination/infection status. The visual results highlight heterogeneous trajectories after vaccine completion and after booster vaccination, with infection timing annotated, and the modeling indicates statistically significant differences across cohorts (p<0.05) and vaccination×infection interactions (p<0.05).",
+      "funder": "The project addresses SARS-CoV-2 Antibody Dynamics in Immunocompromised and Healthy Individuals and already reports measurable signals such as 1,767 participants; 4,582 longitudinal samples."
+    }
+  },
+  "assets": {
+    "source_file_name": "Chung 2026_03_ResearchDay.pptx.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "A-M"
+  }
+}

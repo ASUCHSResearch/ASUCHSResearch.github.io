@@ -1,0 +1,132 @@
+{
+  "id": "braden-aging-autism-brain-motor-memory-markers",
+  "poster_id": "CHS-RD2026-Braden-B-AgingAutismNeurodegenerativeRisk",
+  "researcher": "B. Blair Braden",
+  "researcher_last_name": "Braden",
+  "title": "Aging in Autism: Brain, Motor, and Memory Markers of Neurodegenerative Risks",
+  "category": "Autism & Neurodevelopment",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Autism",
+    "Aging",
+    "Neurodegeneration",
+    "Parkinsonism"
+  ],
+  "keywords": [
+    "autism",
+    "aging",
+    "neurodegeneration",
+    "parkinsonism",
+    "alzheimer",
+    "mri",
+    "cortical-surface-area",
+    "orbitofrontal",
+    "precentral",
+    "polygenic-risk",
+    "pd-pgs",
+    "mds-updrs",
+    "proteomics",
+    "nulisa",
+    "avlt",
+    "crp",
+    "nrgn",
+    "ruvbl2",
+    "neuroscience",
+    "neurodevelopmental conditions",
+    "biomarkers",
+    "longitudinal mixed-effects modeling",
+    "whole-brain cortical morphometry (surface area primary)",
+    "correlation analysis",
+    "polygenic risk scoring",
+    "clinician-rated mds-updrs part iii",
+    "ultra-sensitive plasma proteomics (nulisa)",
+    "multilevel longitudinal modeling",
+    "rft correction",
+    "fdr adjustment",
+    "autistic",
+    "stated",
+    "adults",
+    "area",
+    "surface",
+    "motor",
+    "group",
+    "memory",
+    "risk",
+    "higher"
+  ],
+  "summary": {
+    "hook": "This poster investigates biological and behavioral signs of increased neurodegenerative vulnerability in aging autistic adults using multimodal evidence: MRI cortical morphometry linked to executive/motor/language performance, Parkinson’s disease (PD) polygenic risk and clinician-rated parkinsonism, and Alzheimer’s disease (AD)-related blood biomarkers plus longitudinal verbal memory.",
+    "summary_30s": "This poster investigates biological and behavioral signs of increased neurodegenerative vulnerability in aging autistic adults using multimodal evidence: MRI cortical morphometry linked to executive/motor/language performance, Parkinson’s disease (PD) polygenic risk and clinician-rated parkinsonism, and Alzheimer’s disease (AD)-related blood biomarkers plus longitudinal verbal memory. The authors report greater age-related frontal–motor cortical surface area loss in autistic adults and that smaller orbitofrontal surface area relates to worse executive performance, slower finger tapping, and lower semantic fluency. Autistic adults show higher PD polygenic risk and higher clinician-rated parkinsonism severity, and they show steeper longitudinal decline in long-term verbal memory with specific proteomic differences (CRP up; NRGN and RUVBL2 down).",
+    "talktrack_2m": [
+      "Focus: Not stated on poster as a numbered objective list; implied objective is to identify brain, motor, genetic, proteomic, and memory markers indicating elevated neurodegenerative risk in aging autism.",
+      "Approach: Population: Autistic and non-autistic adults without intellectual disability, spanning early adulthood through older age; autism diagnosis confirmed (e.g., ADOS-2). Participants age ≥40 completed biennial follow-up. Primary outcome: Not stated on poster (multiple outcomes across aims).",
+      "Finding: Background claim: Middle-aged and older autistic adults are 2.6× more likely to be diagnosed with early-onset Alzheimer’s disease and 6× more likely to be diagnosed with Parkinson’s disease than non-autistic adults.",
+      "Why it matters: Authors’ stated conclusions: Across MRI, genomic, and proteomic modalities, findings point to frontal–motor system vulnerability and elevated neurodegenerative risk in aging autism. Implications (poster-grounded): Autism in mid-to-late adulthood may involve increased vulnerability in brain systems supporting motor and executive function, with measurable behavioral correlates. Elevated PD genetic risk and higher clinician-rated parkinsonism severity in autistic adults may help explain higher observed PD diagnosis risk in this population (as framed in the background). Mechanism/explanation (ONLY if stated): Not stated on poster beyond “frontal–motor system vulnerability” framing. Connections to prior work (ONLY if referenced): Not stated on poster (no reference list included)."
+    ],
+    "key_numbers": [
+      "Not stated on poster overall; some analyses report degrees of freedom (e.g., t(134), t(25)).",
+      "Biennial follow-up for participants ≥40; exact years not stated.",
+      "Autistic and non-autistic adults without intellectual disability, spanning early adulthood through older age; autism diagnosis confirmed (e.g., ADOS-2). Participants age ≥40 com...",
+      "Orbitofrontal surface area correlated with executive/motor/fluency measures in ASD (e.g., Trails A r=-0.33 p=0.0096).",
+      "PD-PGS higher in autistic adults (t(134)=2.98, p=0.003).",
+      "MDS-UPDRS Part III higher in autistic adults (t(25)=-2.46, p=0.021; d=0.98)."
+    ],
+    "takeaways": [
+      "Background claim: Middle-aged and older autistic adults are 2.6× more likely to be diagnosed with early-onset Alzheimer’s disease and 6× more likely to be diagnosed with Parkinson’s disease than non-autistic adults.",
+      "Conclusion: Across MRI, genomic, and proteomic modalities, findings point to frontal–motor system vulnerability and elevated neurodegenerative risk in aging autism.",
+      "Authors’ stated conclusions: Across MRI, genomic, and proteomic modalities, findings point to frontal–motor system vulnerability and elevated neurodegenerative risk in aging autism."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What are the sample sizes for each aim (MRI, PD-PGS, MDS-UPDRS, proteomics, longitudinal AVLT)?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "The mixed-effects MRI results suggest steeper age-related surface area loss in ASD—what is the estimated slope difference (effect size) in key regions?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How did you handle multiple comparisons across the whole-brain MRI analysis (beyond RFT correction) and across proteomics (FDR threshold)?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "What clinical screening would you recommend for older autistic adults based on these findings (motor exams, cognitive screening, blood markers)?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Follow participants to incident PD/AD diagnoses to test predictive validity of these markers",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Add additional biomarkers (tau, p-tau, NfL) or imaging (DTI, fMRI) to refine mechanisms",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Examine subgroups (e.g., different autism support needs, co-occurring ADHD, sensory profiles)",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Aging in Autism: Brain, Motor, and Memory Markers of Neurodegenerative Risks. The main point is: Background claim: Middle-aged and older autistic adults are 2.6× more likely to be diagnosed with early-onset Alzheimer’s disease and 6× more likely to be diagnosed with Parkinson’s disease than non-autistic adults.",
+      "clinician": "For practice-facing attendees, the poster highlights Background claim: Middle-aged and older autistic adults are 2.6× more likely to be diagnosed with early-onset Alzheimer’s disease and 6× more likely to be diagnosed with Parkinson’s disease than non-autistic adults.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster investigates biological and behavioral signs of increased neurodegenerative vulnerability in aging autistic adults using multimodal evidence: MRI cortical morphometry linked to executive/motor/language performance, Parkinson’s disease (PD) polygenic risk and clinician-rated parkinsonism, and Alzheimer’s disease (AD)-related blood biomarkers plus longitudinal verbal memory. The authors report greater age-related frontal–motor cortical surface area loss in autistic adults and that smaller orbitofrontal surface area relates to worse executive performance, slower finger tapping, and lower semantic fluency. Autistic adults show higher PD polygenic risk and higher clinician-rated parkinsonism severity, and they show steeper longitudinal decline in long-term verbal memory with specific proteomic differences (CRP up; NRGN and RUVBL2 down).",
+      "funder": "The project addresses Aging in Autism: Brain, Motor, and Memory Markers of Neurodegenerative Risks and already reports measurable signals such as Not stated on poster overall; some analyses report degrees of freedom (e.g., t(134), t(25))."
+    }
+  },
+  "assets": {
+    "source_file_name": "Braden.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "A-M"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "zhou-encoding-auditory-space-marmoset-cortex",
+  "poster_id": "CHS-RD2026-Zhou-Y-EncodingAuditorySpaceMarmoset",
+  "researcher": "Yi Zhou",
+  "researcher_last_name": "Zhou",
+  "title": "Encoding Auditory Space in Marmoset Cortex",
+  "category": "Brain, Behavior & Aging",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Auditory cortex",
+    "Spatial Hearing",
+    "Marmoset",
+    "Azimuth"
+  ],
+  "keywords": [
+    "auditory cortex",
+    "marmoset",
+    "spatial hearing",
+    "azimuth",
+    "umwelt",
+    "visual modulation",
+    "gain control",
+    "multisensory",
+    "single-unit recording",
+    "eye tracking",
+    "128-channel probe",
+    "neurodevelopment/behavior/mental health",
+    "biomedical informatics/data science (methods-oriented neurophysiology)",
+    "head-fixed passive recordings",
+    "broadband noise srfs across 360° (20° spacing; 200 ms)",
+    "wide-field frontal visual image (±40° at 0°)",
+    "single-unit recordings with 128-channel probes",
+    "infra-red eye tracking synchronized with tdt",
+    "linear regression gain model rate_av = k*rate_ao(shifted)+b",
+    "auditory",
+    "gain",
+    "stated",
+    "spatial",
+    "cortex",
+    "frontal",
+    "visual",
+    "direction",
+    "units",
+    "tuning",
+    "model",
+    "rate"
+  ],
+  "summary": {
+    "hook": "This study asks how auditory cortex in foveate primates (common marmoset) encodes sound direction across the full 360° when vision primarily covers frontal space.",
+    "summary_30s": "This study asks how auditory cortex in foveate primates (common marmoset) encodes sound direction across the full 360° when vision primarily covers frontal space. Using single-unit recordings in auditory cortex under head-fixed conditions (no auditory task) with broadband noise stimuli spanning 360° in 20° steps, the authors report a “dual strategy”: (1) stable directional “anchors” from contralateral sharply tuned neurons (dense cluster around –90°) and (2) vision-dependent gain control that scales firing rates without shifting preferred direction when a wide-field frontal visual image is present. Gain modulation is strongest for contra-rear directions, which the authors interpret as strengthened monitoring of the visually inaccessible rear hemifield while the animal is visually engaged forward.",
+    "talktrack_2m": [
+      "Focus: Understand how auditory cortex constructs a 360° “auditory Umwelt” in a foveate primate (marmoset) where vision is frontal.",
+      "Approach: Population: Four marmosets; single-unit activities from auditory cortex. Primary outcome: Spatial tuning / SRF properties (preferred direction, tuning width/half-width) and modulation by frontal vision (gain/baseline).",
+      "Finding: Spatial tuning sharpens progressively toward the contralateral pole, culminating in a dense cluster of narrowly tuned neurons at –90°.",
+      "Why it matters: Authors’ stated conclusions: Results suggest a dual strategy for a 360° auditory Umwelt: stable contralateral sharp-tuned “anchors” and dynamic gain control that boosts regions outside the visual fovea when frontal space is behaviorally loaded; this provides a neural explanation for how primates maintain situational awareness while looking forward. Implications (poster-grounded): Auditory cortex encodes spatial direction with non-uniform tuning sharpness that peaks contralaterally. Visual context can reshape auditory response magnitude across space without changing best direction (gain field). Enhanced contra-rear modulation under frontal vision may support monitoring of unseen space while visually attending forward. Mechanism/explanation (ONLY if stated): Not stated on poster beyond the proposed “anchors + gain control” strategy and “behaviorally loaded” framing. * Connections to prior work (ONLY if referenced): Jakob von Uexküll’s “Umwelt” concept is referenced in the abstract text."
+    ],
+    "key_numbers": [
+      "* Animals: 4 marmosets",
+      "Sharply tuned neurons preferred contralateral direction centered around −90° (direction–sharpness coupling; F-test p<10^-5).",
+      "Linear regression model significant for 155/166 units (p<0.05); k quartiles [0.67, 0.88, 1.13], b quartiles [0.02, 0.05, 0.10], R^2 quartiles [0.53, 0.73, 0.86].",
+      "This study asks how auditory cortex in foveate primates (common marmoset) encodes sound direction across the full 360° when vision primarily covers frontal space.",
+      "Using single-unit recordings in auditory cortex under head-fixed conditions (no auditory task) with broadband noise stimuli spanning 360° in 20° steps, the authors report a “dua...",
+      "Gain modulation is strongest for contra-rear directions, which the authors interpret as strengthened monitoring of the visually inaccessible rear hemifield while the animal is v..."
+    ],
+    "takeaways": [
+      "Spatial tuning sharpens progressively toward the contralateral pole, culminating in a dense cluster of narrowly tuned neurons at –90°.",
+      "Peaking tuning direction does not change with frontal vision, especially for narrowly tuned neurons (no remapping of best azimuth).",
+      "A frontal wide-field image multiplicatively scales firing rates but leaves best azimuth unchanged (cross-modal gain field rather than spatial realignment)."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: Which auditory cortical subfields/areas were targeted (A1 vs belt fields), and how were recording sites localized?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "In direction–sharpness coupling, why do narrowly tuned neurons cluster around –90°—what’s your interpretation of this “anchor”?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "How robust is direction–sharpness coupling across animals—does each marmoset show the –90° narrow-tuning cluster?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "How might these findings inform models of multisensory integration in auditory cortex (gain fields vs remapping)?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Test these effects during active listening tasks or with head-free behavior",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Vary visual stimulus location (not just 0°) to map the gain field relative to gaze/visual input",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Planning laminar analyses (depth-dependent gain/remapping) with the 128-channel probe data",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies Encoding Auditory Space in Marmoset Cortex. The main point is: Spatial tuning sharpens progressively toward the contralateral pole, culminating in a dense cluster of narrowly tuned neurons at –90°.",
+      "clinician": "For practice-facing attendees, the poster highlights Spatial tuning sharpens progressively toward the contralateral pole, culminating in a dense cluster of narrowly tuned neurons at –90°.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This study asks how auditory cortex in foveate primates (common marmoset) encodes sound direction across the full 360° when vision primarily covers frontal space. Using single-unit recordings in auditory cortex under head-fixed conditions (no auditory task) with broadband noise stimuli spanning 360° in 20° steps, the authors report a “dual strategy”: (1) stable directional “anchors” from contralateral sharply tuned neurons (dense cluster around –90°) and (2) vision-dependent gain control that scales firing rates without shifting preferred direction when a wide-field frontal visual image is present. Gain modulation is strongest for contra-rear directions, which the authors interpret as strengthened monitoring of the visually inaccessible rear hemifield while the animal is visually engaged forward.",
+      "funder": "The project addresses Encoding Auditory Space in Marmoset Cortex and already reports measurable signals such as * Animals: 4 marmosets"
+    }
+  },
+  "assets": {
+    "source_file_name": "Zhou Yi AROPoster2026_YZ_AV2.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "N-Z"
+  }
+}

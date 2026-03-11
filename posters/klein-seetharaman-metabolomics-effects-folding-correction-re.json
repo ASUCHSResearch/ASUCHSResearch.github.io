@@ -1,0 +1,126 @@
+{
+  "id": "klein-seetharaman-metabolomics-effects-folding-correction-re",
+  "poster_id": "CHS-RD2026-Klein-Seetharaman-J-MetabolomicsFoldingCorrectionP23A",
+  "researcher": "Judith Klein-Seetharaman",
+  "researcher_last_name": "Klein-Seetharaman",
+  "title": "METABOLOMICS EFFECTS OF FOLDING CORRECTION IN RETINITIS PIGMENTOSA RHODOPSIN MUTANT P23A",
+  "category": "Nutrition, Metabolism & Chronic Disease",
+  "year": 2026,
+  "school_official_name": "College of Health Solutions",
+  "tags": [
+    "Retinitis Pigmentosa",
+    "Rhodopsin",
+    "Protein Misfolding",
+    "P23a"
+  ],
+  "keywords": [
+    "retinitis-pigmentosa",
+    "rhodopsin",
+    "p23a",
+    "protein-misfolding",
+    "folding-correction",
+    "n2c-d282c",
+    "gc-ms",
+    "untargeted-metabolomics",
+    "metaboanalyst",
+    "combat",
+    "pca",
+    "pls-da",
+    "vip",
+    "permanova",
+    "redox",
+    "mitochondrial-stress",
+    "metabolomics",
+    "protein folding disease mechanisms",
+    "retinal degeneration",
+    "inducible rhodopsin expression (tetracycline + sodium butyrate)",
+    "western blot validation (rho 1d4; gapdh)",
+    "polar metabolite extraction from ~10^6 cells",
+    "untargeted gc–ms (agilent 7820a gc–5977b msd)",
+    "metaboanalyst 5.0 processing (log transform, normalization, combat batch correction)",
+    "pca, hierarchical clustering, pls-da, vip scoring (vip>1.2), anova, pathway enrichment/impact",
+    "metabolites",
+    "stated",
+    "rescue",
+    "d282c",
+    "folding",
+    "metabolic",
+    "text",
+    "induction",
+    "figure"
+  ],
+  "summary": {
+    "hook": "This poster presents an untargeted GC–MS metabolomics study examining how rhodopsin misfolding in retinitis pigmentosa (RP)—specifically the P23A class II mutant—drives cellular metabolic dysregulation, and whether a structural rescue strategy (P23A/N2C/D282C disulfide bond) restores metabolism toward wild-type (WT).",
+    "summary_30s": "This poster presents an untargeted GC–MS metabolomics study examining how rhodopsin misfolding in retinitis pigmentosa (RP)—specifically the P23A class II mutant—drives cellular metabolic dysregulation, and whether a structural rescue strategy (P23A/N2C/D282C disulfide bond) restores metabolism toward wild-type (WT). Using inducible HEK293S-GnTI⁻ TetR stable cell lines with controlled induction (tetracycline + sodium butyrate), the team verified rhodopsin expression via Western blot and profiled 126 polar metabolites. Results show strong global metabolic divergence in P23A (PERMANOVA R²≈0.94, p=0.001) with broad downregulation (99 metabolites down in P23A vs WT), while the rescued variant clusters near WT and partially restores metabolite levels and pathways (e.g., arginine/proline, glutathione, taurine metabolism, TCA intermediates).",
+    "talktrack_2m": [
+      "Focus: Determine whether rhodopsin misfolding (P23A) drives metabolic dysregulation.",
+      "Approach: Population: Inducible stable HEK293S-GnTI⁻ TetR cell lines expressing WT rhodopsin, P23A rhodopsin, or structurally rescued P23A/N2C/D282C rhodopsin; empty vector controls included. Primary outcome: Global metabolomic profiles and clustering; differential metabolite abundance (pairwise comparisons); pathway enrichment/impact.",
+      "Finding: RP affects \\~1 in 3,000 individuals worldwide; rhodopsin mutations are a common autosomal dominant cause.",
+      "Why it matters: * Authors’ stated conclusions: This is the first untargeted GC–MS metabolomics study examining metabolic consequences of rhodopsin misfolding using inducible WT, P23A, and P23A/N2C/D282C cell lines; structural rescue partially restores metabolic profiles toward WT, linking folding integrity to cellular metabolism."
+    ],
+    "key_numbers": [
+      "Induction for 24 hours; additional experimental timing not stated.",
+      "PERMANOVA showed significant genotype effect on global metabolite composition (R²≈0.94, p=0.001), with P23A most divergent.",
+      "WT vs P23A comparison reported 99 significantly downregulated metabolites in P23A.",
+      "P23A vs P23A/N2C/D282C reported 68 significantly upregulated metabolites in the rescue condition.",
+      "P23A/N2C/D282C vs WT reported 9 downregulated metabolites in the rescue condition.",
+      "Using inducible HEK293S-GnTI⁻ TetR stable cell lines with controlled induction (tetracycline + sodium butyrate), the team verified rhodopsin expression via Western blot and prof..."
+    ],
+    "takeaways": [
+      "RP affects \\~1 in 3,000 individuals worldwide; rhodopsin mutations are a common autosomal dominant cause.",
+      "PCA/hierarchical clustering: P23A Tac/NaBu samples cluster distinctly from WT and rescued variant; P23A/N2C/D282C clusters close to WT, supporting partial restoration.",
+      "PERMANOVA: significant genotype effect on global metabolite composition (R² ≈ 0.94, p \\= 0.001), with P23A showing strongest divergence."
+    ],
+    "limitations": [
+      "The poster does not list formal study limitations.",
+      "The poster leaves open this clarification: What were the sample sizes (biological replicates) per group for the GC–MS metabolomics, and how many batches were run?"
+    ],
+    "what_to_ask": [
+      {
+        "question": "PERMANOVA shows R²≈0.94 (p=0.001). Which factors contribute most—genotype vs experiment/batch vs induction?",
+        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
+      },
+      {
+        "question": "Did you validate PLS-DA separation with permutation testing or cross-validation to avoid overfitting?",
+        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
+      },
+      {
+        "question": "What therapeutic strategies do these metabolomics findings suggest (e.g., redox support, mitochondrial support) for RP progression?",
+        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
+      }
+    ],
+    "collaboration_ideas": [
+      {
+        "idea": "Clarify are your top target metabolites for validation, and what targeted assays (LC–MS/MS) will you use",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "How will you perform metabolic flux and mitochondrial assays (as stated) and which readouts are most important",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      },
+      {
+        "idea": "Test other class II rhodopsin mutants (e.g., P23H) in the same framework",
+        "ideal_partner": "Partner aligned with the poster's next-step question",
+        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
+        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
+      }
+    ],
+    "audience_versions": {
+      "student": "This poster studies METABOLOMICS EFFECTS OF FOLDING CORRECTION IN RETINITIS PIGMENTOSA RHODOPSIN MUTANT P23A. The main point is: RP affects \\~1 in 3,000 individuals worldwide; rhodopsin mutations are a common autosomal dominant cause.",
+      "clinician": "For practice-facing attendees, the poster highlights RP affects \\~1 in 3,000 individuals worldwide; rhodopsin mutations are a common autosomal dominant cause.",
+      "community": "For community partners, the poster connects the issue to real-world impact: This poster presents an untargeted GC–MS metabolomics study examining how rhodopsin misfolding in retinitis pigmentosa (RP)—specifically the P23A class II mutant—drives cellular metabolic dysregulation, and whether a structural rescue strategy (P23A/N2C/D282C disulfide bond) restores metabolism toward wild-type (WT). Using inducible HEK293S-GnTI⁻ TetR stable cell lines with controlled induction (tetracycline + sodium butyrate), the team verified rhodopsin expression via Western blot and profiled 126 polar metabolites. Results show strong global metabolic divergence in P23A (PERMANOVA R²≈0.94, p=0.001) with broad downregulation (99 metabolites down in P23A vs WT), while the rescued variant clusters near WT and partially restores metabolite levels and pathways (e.g., arginine/proline, glutathione, taurine metabolism, TCA intermediates).",
+      "funder": "The project addresses METABOLOMICS EFFECTS OF FOLDING CORRECTION IN RETINITIS PIGMENTOSA RHODOPSIN MUTANT P23A and already reports measurable signals such as Induction for 24 hours; additional experimental timing not stated."
+    }
+  },
+  "assets": {
+    "source_file_name": "Klein2.md",
+    "source_type": "markdown"
+  },
+  "routing": {
+    "gpt_group": "A-M"
+  }
+}

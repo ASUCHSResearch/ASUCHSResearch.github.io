@@ -1,0 +1,497 @@
+[
+  {
+    "id": "anbar-differences-community-recognition-autism-special",
+    "title": "Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona",
+    "category": "Autism & Neurodevelopment",
+    "researcher": "Joshua Anbar",
+    "researcher_last_name": "Anbar",
+    "tags": [
+      "Autism",
+      "Autism surveillance",
+      "Surveillance",
+      "Special education"
+    ],
+    "one_liner": "This poster compares how autism spectrum disorder (ASD) is “recognized” across education (autism special education exceptionality) versus clinical systems (ASD ICD codes / diagnostic statements) using Arizona ADDM surveillance data on 8-year-olds from 2018/2020/2022 (n=873).",
+    "path": "/posters/anbar-differences-community-recognition-autism-special.json"
+  },
+  {
+    "id": "baker-advancing-southwest-safety-net-embedded-scientis",
+    "title": "Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Lauren Baker",
+    "researcher_last_name": "Baker",
+    "tags": [
+      "Learning health systems",
+      "Embedded science",
+      "Comparative effectiveness research",
+      "Safety Net"
+    ],
+    "one_liner": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations.",
+    "path": "/posters/baker-advancing-southwest-safety-net-embedded-scientis.json"
+  },
+  {
+    "id": "biviji-advancing-breastfeeding-support-arizona",
+    "title": "Advancing Breastfeeding Support in Arizona",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Rizwana Biviji",
+    "researcher_last_name": "Biviji",
+    "tags": [
+      "Breastfeeding",
+      "Lactation",
+      "Arizona Medicaid",
+      "Medicaid"
+    ],
+    "one_liner": "This poster presents a policy translation effort to expand breastfeeding and lactation support in Arizona by addressing gaps in Medicaid coverage for outpatient lactation services.",
+    "path": "/posters/biviji-advancing-breastfeeding-support-arizona.json"
+  },
+  {
+    "id": "braden-aging-autism-brain-motor-memory-markers",
+    "title": "Aging in Autism: Brain, Motor, and Memory Markers of Neurodegenerative Risks",
+    "category": "Autism & Neurodevelopment",
+    "researcher": "B. Blair Braden",
+    "researcher_last_name": "Braden",
+    "tags": [
+      "Autism",
+      "Aging",
+      "Neurodegeneration",
+      "Parkinsonism"
+    ],
+    "one_liner": "This poster investigates biological and behavioral signs of increased neurodegenerative vulnerability in aging autistic adults using multimodal evidence: MRI cortical morphometry linked to executive/motor/language performance, Parkinson’s disease (PD) polygenic risk and clinician-rated parkinsonism, and Alzheimer’s disease (AD)-related blood biomarkers plus longitudinal verbal memory.",
+    "path": "/posters/braden-aging-autism-brain-motor-memory-markers.json"
+  },
+  {
+    "id": "carpenter-promoting-engagement-optimization-digital-just-t",
+    "title": "Promoting Engagement Through the Optimization of Digital Just-in-Time Adaptive Health Interventions",
+    "category": "Digital Health & Research Technology",
+    "researcher": "Stephanie M. Carpenter",
+    "researcher_last_name": "Carpenter",
+    "tags": [
+      "Adaptive digital interventions",
+      "Engagement",
+      "Micro-randomized trials",
+      "Wearables"
+    ],
+    "one_liner": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV.",
+    "path": "/posters/carpenter-promoting-engagement-optimization-digital-just-t.json"
+  },
+  {
+    "id": "chung-sars-cov-2-antibody-dynamics-immunocompromised",
+    "title": "SARS-CoV-2 Antibody Dynamics in Immunocompromised and Healthy Individuals",
+    "category": "Infectious Disease, Genomics & Bioinformatics",
+    "researcher": "Yunro Chung",
+    "researcher_last_name": "Chung",
+    "tags": [
+      "Antibody dynamics",
+      "SARS-CoV-2",
+      "Serology networks",
+      "Serology"
+    ],
+    "one_liner": "This poster analyzes large-scale longitudinal serology data (1,767 participants; 4,582 samples) to characterize how SARS-CoV-2 antibody responses change over time in immunocompromised groups (autoimmune disease, cancer, HIV, solid organ transplant recipients) versus healthy controls.",
+    "path": "/posters/chung-sars-cov-2-antibody-dynamics-immunocompromised.json"
+  },
+  {
+    "id": "dinu-translational-bioinformatics-bed-bedside",
+    "title": "Translational Bioinformatics: From Bed to Bedside",
+    "category": "Infectious Disease, Genomics & Bioinformatics",
+    "researcher": "Valentin Dinu",
+    "researcher_last_name": "Dinu",
+    "tags": [
+      "Translational Bioinformatics",
+      "Biomedical Informatics",
+      "Genomic Sequencing",
+      "Microarrays"
+    ],
+    "one_liner": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s).",
+    "path": "/posters/dinu-translational-bioinformatics-bed-bedside.json"
+  },
+  {
+    "id": "dorich-technology-core-college-solutions",
+    "title": "Research Technology Core, College of Health Solutions",
+    "category": "Digital Health & Research Technology",
+    "researcher": "Chelsea Dorich",
+    "researcher_last_name": "Dorich",
+    "tags": [
+      "Research Technology Core",
+      "Mobile health",
+      "Connected devices",
+      "Wearables"
+    ],
+    "one_liner": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms.",
+    "path": "/posters/dorich-technology-core-college-solutions.json"
+  },
+  {
+    "id": "gu-ai-assisted-metabolomics-sample-preparation-enha",
+    "title": "AI-Assisted Metabolomics Sample Preparation Enhances Analytical Accuracy and Result Reliability",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Haiwei Gu",
+    "researcher_last_name": "Gu",
+    "tags": [
+      "Sample preparation",
+      "Metabolomics",
+      "Machine Learning",
+      "Interpretable Ml"
+    ],
+    "one_liner": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias.",
+    "path": "/posters/gu-ai-assisted-metabolomics-sample-preparation-enha.json"
+  },
+  {
+    "id": "gunning-time-restricted-eating-alzheimers-disease-tread",
+    "title": "Time Restricted Eating in Alzheimer's Disease (TREAD): A Pilot Study",
+    "category": "Brain, Behavior & Aging",
+    "researcher": "Gunning JA",
+    "researcher_last_name": "Gunning",
+    "tags": [
+      "Time Restricted Eating",
+      "Mild Cognitive Impairment",
+      "Alzheimer's Disease",
+      "Alzheimer's biomarkers"
+    ],
+    "one_liner": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD).",
+    "path": "/posters/gunning-time-restricted-eating-alzheimers-disease-tread.json"
+  },
+  {
+    "id": "hernandez-community-worker-chw-sustainability-allied-profe",
+    "title": "Community Health Worker (CHW) Sustainability and allied professions in Arizona",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Alicia Hernandez",
+    "researcher_last_name": "Hernandez",
+    "tags": [
+      "Community health workers",
+      "Workforce Sustainability",
+      "Role Clarity",
+      "Allied Professions"
+    ],
+    "one_liner": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals.",
+    "path": "/posters/hernandez-community-worker-chw-sustainability-allied-profe.json"
+  },
+  {
+    "id": "johnston-effects-spirulina-supplementation-mental-functio",
+    "title": "Effects of Spirulina Supplementation on Mental Function in Healthy Adults: a Randomized Controlled Trial",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Carol S. Johnston",
+    "researcher_last_name": "Johnston",
+    "tags": [
+      "Spirulina",
+      "Randomized Controlled Trial",
+      "Supplementation",
+      "Healthy Adults"
+    ],
+    "one_liner": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo.",
+    "path": "/posters/johnston-effects-spirulina-supplementation-mental-functio.json"
+  },
+  {
+    "id": "kim-intermittent-fasting-enhances-leptin-sensitivity",
+    "title": "Intermittent Fasting Enhances Leptin Sensitivity via JMJD3-Mediated Epigenetic Regulation",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Min-Hyun Kim",
+    "researcher_last_name": "Kim",
+    "tags": [
+      "Intermittent Fasting",
+      "Leptin Resistance",
+      "Leptin Sensitivity",
+      "Leptin signaling"
+    ],
+    "one_liner": "This poster tests whether intermittent fasting (IF) can restore leptin sensitivity in diet-induced obese mice by increasing hypothalamic leptin receptor (LepRb) expression through epigenetic regulation.",
+    "path": "/posters/kim-intermittent-fasting-enhances-leptin-sensitivity.json"
+  },
+  {
+    "id": "klein-seetharaman-metabolomics-effects-folding-correction-re",
+    "title": "METABOLOMICS EFFECTS OF FOLDING CORRECTION IN RETINITIS PIGMENTOSA RHODOPSIN MUTANT P23A",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Judith Klein-Seetharaman",
+    "researcher_last_name": "Klein-Seetharaman",
+    "tags": [
+      "Retinitis Pigmentosa",
+      "Rhodopsin",
+      "Protein Misfolding",
+      "P23a"
+    ],
+    "one_liner": "This poster presents an untargeted GC–MS metabolomics study examining how rhodopsin misfolding in retinitis pigmentosa (RP)—specifically the P23A class II mutant—drives cellular metabolic dysregulation, and whether a structural rescue strategy (P23A/N2C/D282C disulfide bond) restores metabolism toward wild-type (WT).",
+    "path": "/posters/klein-seetharaman-metabolomics-effects-folding-correction-re.json"
+  },
+  {
+    "id": "koskan-pilot-testing-digital-stories-reduce-covid",
+    "title": "PILOT TESTING DIGITAL STORIES TO REDUCE COVID-19 VACCINE HESITANCY AMONG HISPANIC PARENTS",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Alexis Koskan",
+    "researcher_last_name": "Koskan",
+    "tags": [
+      "Digital storytelling",
+      "Vaccine Hesitancy",
+      "COVID-19",
+      "Hispanic Parents"
+    ],
+    "one_liner": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB).",
+    "path": "/posters/koskan-pilot-testing-digital-stories-reduce-covid.json"
+  },
+  {
+    "id": "liu-evolution-therapy-precision-targeting-functional",
+    "title": "From Evolution to Therapy: Precision Targeting of Functionally Divergent Integrins",
+    "category": "Clinical Care & Decision Support",
+    "researcher": "Li Liu",
+    "researcher_last_name": "Liu",
+    "tags": [
+      "Integrins",
+      "Rgd",
+      "Alphaiib",
+      "Alpha5"
+    ],
+    "one_liner": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8).",
+    "path": "/posters/liu-evolution-therapy-precision-targeting-functional.json"
+  },
+  {
+    "id": "martin-pathways-recovery-pregnant-parenting-women-ppw",
+    "title": "Pathways to Recovery for Pregnant & Parenting Women (PPW) in Northern Arizona: A Needs Assessment",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Matt Martin",
+    "researcher_last_name": "Martin",
+    "tags": [
+      "Pregnant And Parenting Women",
+      "Substance Use Disorder",
+      "Northern Arizona",
+      "Needs Assessment"
+    ],
+    "one_liner": "This poster presents a needs assessment of the care ecosystem for pregnant and parenting women (PPW) with substance use disorder (SUD) in Northern Arizona, described as compassionate but structurally fragile.",
+    "path": "/posters/martin-pathways-recovery-pregnant-parenting-women-ppw.json"
+  },
+  {
+    "id": "mayol-kreiser-food-skills-psychological-resilience-predict-g",
+    "title": "Food Skills & Psychological Resilience Predict Gluten-Free Diet Adherence in Adults with Celiac Disease",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Sandra Mayol-Kreiser",
+    "researcher_last_name": "Mayol-Kreiser",
+    "tags": [
+      "Celiac Disease",
+      "Gluten Free Diet",
+      "Diet Adherence",
+      "Food Skills"
+    ],
+    "one_liner": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence.",
+    "path": "/posters/mayol-kreiser-food-skills-psychological-resilience-predict-g.json"
+  },
+  {
+    "id": "oyeyemi-influence-neighborhood-environments-features-lon",
+    "title": "Influence of Neighborhood Environments Features on Long-Term Changes in Physical Activity Across the Lifespan",
+    "category": "Physical Activity, Environment & Prevention",
+    "researcher": "Adewale Oyeyemi",
+    "researcher_last_name": "Oyeyemi",
+    "tags": [
+      "Physical Activity",
+      "Neighborhood Environment",
+      "Walkability",
+      "Longitudinal"
+    ],
+    "one_liner": "This poster reports secondary analyses testing whether baseline activity-supportive neighborhood environment features predict long-term changes in objectively measured physical activity across the lifespan.",
+    "path": "/posters/oyeyemi-influence-neighborhood-environments-features-lon.json"
+  },
+  {
+    "id": "phan-genomics-track-environmental-virus-transmission",
+    "title": "Using genomics to track environmental virus transmission and evolution",
+    "category": "Infectious Disease, Genomics & Bioinformatics",
+    "researcher": "My VT Phan",
+    "researcher_last_name": "Phan",
+    "tags": [
+      "Environmental Virology",
+      "Metagenomics",
+      "Virus Transmission",
+      "Virus Evolution"
+    ],
+    "one_liner": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices.",
+    "path": "/posters/phan-genomics-track-environmental-virus-transmission.json"
+  },
+  {
+    "id": "poulos-schoolchildrens-movement-readiness-learn-extreme",
+    "title": "SCHOOLCHILDREN’S MOVEMENT AND READINESS TO LEARN DURING EXTREME HEAT",
+    "category": "Physical Activity, Environment & Prevention",
+    "researcher": "Allison Poulos",
+    "researcher_last_name": "Poulos",
+    "tags": [
+      "Extreme heat",
+      "Recess",
+      "Schoolchildren",
+      "Physical activity"
+    ],
+    "one_liner": "This concurrent mixed-methods study in 5 Phoenix Metro (AZ) elementary schools examined recess during extreme heat, focusing on (1) practices/costs of offering recess, and children’s (2) readiness to learn and (3) movement by heat exposure and recess setting.",
+    "path": "/posters/poulos-schoolchildrens-movement-readiness-learn-extreme.json"
+  },
+  {
+    "id": "racette-racette-lab-promoting-cardiometabolic-healthspan",
+    "title": "Racette Lab: Promoting Cardiometabolic Health & Healthspan",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Susan B. Racette",
+    "researcher_last_name": "Racette",
+    "tags": [
+      "Cardiometabolic Health",
+      "Time Restricted Eating",
+      "Healthspan",
+      "Alzheimer Disease"
+    ],
+    "one_liner": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches.",
+    "path": "/posters/racette-racette-lab-promoting-cardiometabolic-healthspan.json"
+  },
+  {
+    "id": "roberts-aged-microbiota-increases-post-fracture-pain",
+    "title": "Aged Microbiota Increases Post-Fracture Pain and Delays Fracture Healing",
+    "category": "Brain, Behavior & Aging",
+    "researcher": "Joseph L. Roberts",
+    "researcher_last_name": "Roberts",
+    "tags": [
+      "Fracture",
+      "Gut microbiome",
+      "Pain",
+      "Microbiome transfer"
+    ],
+    "one_liner": "This mouse study tests whether an aged gut microbiota, independent of the mouse’s chronological age, worsens recovery after femoral fracture.",
+    "path": "/posters/roberts-aged-microbiota-increases-post-fracture-pain.json"
+  },
+  {
+    "id": "russin-global-warming-elderly-socio-ecological-framewor",
+    "title": "Global Warming and the Elderly: A Socio-Ecological Framework",
+    "category": "Community Health, Policy & Health Systems",
+    "researcher": "Nina Russin",
+    "researcher_last_name": "Russin",
+    "tags": [
+      "Global Warming",
+      "Extreme heat",
+      "Older adults",
+      "Heat Illness"
+    ],
+    "one_liner": "This poster proposes a socio-ecological framework to explain why older adults are increasingly vulnerable to heat illness as global warming intensifies and populations age.",
+    "path": "/posters/russin-global-warming-elderly-socio-ecological-framewor.json"
+  },
+  {
+    "id": "scotch-genomic-epidemiology-influenza-tracking-viral-sp",
+    "title": "Genomic Epidemiology of Influenza A: Tracking Viral Spread from Avian Flyways to Human Communities",
+    "category": "Infectious Disease, Genomics & Bioinformatics",
+    "researcher": "Matthew Scotch",
+    "researcher_last_name": "Scotch",
+    "tags": [
+      "Influenza A",
+      "Genomic epidemiology",
+      "Pacific Flyway",
+      "Flyways"
+    ],
+    "one_liner": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific.",
+    "path": "/posters/scotch-genomic-epidemiology-influenza-tracking-viral-sp.json"
+  },
+  {
+    "id": "suzuki-loss-codiversified-gut-microbes-predicts-autism",
+    "title": "The loss of codiversified gut microbes predicts Autism Spectrum Disorder status and severity",
+    "category": "Autism & Neurodevelopment",
+    "researcher": "Taichi A. Suzuki",
+    "researcher_last_name": "Suzuki",
+    "tags": [
+      "Autism",
+      "Gut microbiome",
+      "Gut microbes",
+      "Codiversification"
+    ],
+    "one_liner": "This poster analyzes fecal shotgun metagenomic data from adults with autism spectrum disorder (ASD) and typically developing (TD) controls collected before and after a microbiota transplant therapy (MTT) trial.",
+    "path": "/posters/suzuki-loss-codiversified-gut-microbes-predicts-autism.json"
+  },
+  {
+    "id": "swan-quieting-food-noise-glp-1-discontinuation",
+    "title": "Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Swan, PD",
+    "researcher_last_name": "Swan",
+    "tags": [
+      "GLP-1",
+      "Semaglutide",
+      "Tirzepatide",
+      "Food noise"
+    ],
+    "one_liner": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy.",
+    "path": "/posters/swan-quieting-food-noise-glp-1-discontinuation.json"
+  },
+  {
+    "id": "sweazea-nutritional-metabolic-resilience",
+    "title": "Nutritional and Metabolic Resilience",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Karen Sweazea",
+    "researcher_last_name": "Sweazea",
+    "tags": [
+      "Nutritional Resilience",
+      "Metabolic Resilience",
+      "Comparative Physiology",
+      "Birds"
+    ],
+    "one_liner": "This poster is a high-level overview of the Sweazea lab’s research themes under “Nutritional and Metabolic Resilience,” spanning comparative physiology, One Health food environments, and dietary interventions for metabolic disease.",
+    "path": "/posters/sweazea-nutritional-metabolic-resilience.json"
+  },
+  {
+    "id": "trueba-co-designing-parkinsons-hybrid-open-house",
+    "title": "Co-Designing Parkinson’s Care: Hybrid Open House Outcomes",
+    "category": "Brain, Behavior & Aging",
+    "researcher": "Elizabeth Trueba",
+    "researcher_last_name": "Trueba",
+    "tags": [
+      "Parkinson's disease",
+      "Community Education",
+      "Self Management",
+      "Care Partners"
+    ],
+    "one_liner": "This poster evaluates a Parkinson’s disease (PD) community education “open house” delivered in a hybrid format (in-person at ASU Tempe campus clinic and live via Zoom).",
+    "path": "/posters/trueba-co-designing-parkinsons-hybrid-open-house.json"
+  },
+  {
+    "id": "vega-lopez-family-level-factors-contributing-diet-behaviors",
+    "title": "Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention",
+    "category": "Nutrition, Metabolism & Chronic Disease",
+    "researcher": "Sonia Vega-López",
+    "researcher_last_name": "Vega-Lopez",
+    "tags": [
+      "Hispanic families",
+      "Latinx families",
+      "Family Based Intervention",
+      "Home Food Environment"
+    ],
+    "one_liner": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households.",
+    "path": "/posters/vega-lopez-family-level-factors-contributing-diet-behaviors.json"
+  },
+  {
+    "id": "verdecias-pellum-advancing-whole-person-diabetes-feasibility",
+    "title": "ADVANCING WHOLE PERSON DIABETES CARE: FEASIBILITY OF EMBEDDING SOCIAL NEEDS SCREENING INTO DIABETES SELF-MANAGEMENT EDUCATION DELIVERY",
+    "category": "Clinical Care & Decision Support",
+    "researcher": "Niko Verdecias-Pellum",
+    "researcher_last_name": "Verdecias-Pellum",
+    "tags": [
+      "Diabetes",
+      "Health Related Social Needs",
+      "Diabetes self-management education",
+      "Screening"
+    ],
+    "one_liner": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings.",
+    "path": "/posters/verdecias-pellum-advancing-whole-person-diabetes-feasibility.json"
+  },
+  {
+    "id": "wang-development-mobile-contraception-decision-aid-tr",
+    "title": "Development of a Mobile Contraception Decision Aid for Transgender and Gender-Nonconforming Individuals Assigned Female at Birth",
+    "category": "Clinical Care & Decision Support",
+    "researcher": "Dongwen Wang",
+    "researcher_last_name": "Wang",
+    "tags": [
+      "Contraception decision support",
+      "Mobile Health",
+      "Assigned female at birth",
+      "Sexual Health Education"
+    ],
+    "one_liner": "This poster describes the development of a mobile contraception decision aid intended to support transgender and gender-nonconforming (TGNC) individuals assigned female at birth (AFAB) in selecting contraceptive options.",
+    "path": "/posters/wang-development-mobile-contraception-decision-aid-tr.json"
+  },
+  {
+    "id": "zhou-encoding-auditory-space-marmoset-cortex",
+    "title": "Encoding Auditory Space in Marmoset Cortex",
+    "category": "Brain, Behavior & Aging",
+    "researcher": "Yi Zhou",
+    "researcher_last_name": "Zhou",
+    "tags": [
+      "Auditory cortex",
+      "Spatial Hearing",
+      "Marmoset",
+      "Azimuth"
+    ],
+    "one_liner": "This study asks how auditory cortex in foveate primates (common marmoset) encodes sound direction across the full 360° when vision primarily covers frontal space.",
+    "path": "/posters/zhou-encoding-auditory-space-marmoset-cortex.json"
+  }
+]
