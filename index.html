@@ -326,7 +326,8 @@
     }
 
     button,
-    select {
+    select,
+    .action-link {
       border: 1px solid var(--line);
       background: rgba(255, 255, 255, 0.92);
       color: var(--text);
@@ -335,18 +336,23 @@
       font: inherit;
     }
 
-    button {
+    button,
+    .action-link {
       cursor: pointer;
       transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
     }
 
-    button:hover {
+    button:hover,
+    .action-link:hover,
+    .action-link:focus-visible {
       transform: translateY(-1px);
       box-shadow: 0 10px 24px rgba(58, 41, 24, 0.08);
       border-color: var(--line-strong);
+      outline: none;
     }
 
-    button.primary {
+    button.primary,
+    .action-link.primary {
       background: linear-gradient(135deg, #0e6b63, #0f8979);
       color: #fff;
       border-color: transparent;
@@ -362,6 +368,13 @@
       cursor: not-allowed;
       transform: none;
       box-shadow: none;
+    }
+
+    .action-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
     }
 
     .hero {
@@ -532,6 +545,10 @@
       font-size: 12px;
     }
 
+    .tiny a {
+      color: var(--accent);
+    }
+
     .hidden {
       display: none;
     }
@@ -630,6 +647,7 @@
 
       .action-row button,
       .action-row select,
+      .action-row .action-link,
       .mode-btn {
         width: 100%;
       }
@@ -701,7 +719,7 @@
       { value: "friendly", label: "Friendly + clear" },
       { value: "direct", label: "Direct + concise" },
       { value: "curious", label: "Curious + conversational" },
-      { value: "skeptical", label: "Skeptical reviewer" }
+      { value: "skeptical", label: "Thoughtful + probing" }
     ];
 
     const PROMPT_MODES = {
@@ -1153,9 +1171,10 @@
                 ${TONE_OPTIONS.map((option) => `<option value="${escapeHtml(option.value)}"${state.tone === option.value ? " selected" : ""}>${escapeHtml(option.label)}</option>`).join("")}
               </select>
               <button class="primary" type="button" id="copyPromptBtn">Copy prompt</button>
-              <button type="button" id="openGptBtn">Open GPT</button>
+              <a class="action-link" id="openGptLink" href="${escapeHtml(getGptUrl(poster))}">Open GPT</a>
             </div>
             <div class="tiny">${escapeHtml(state.copyStatus || "Static summary below. GPT access is optional.")}</div>
+            <div class="tiny">If Open GPT shows a 404, sign in to ChatGPT with your ASU account first. If you still do not have access, use <a href="./instructions.html">How to use this app</a> or continue with the static summary below.</div>
           </div>
         </div>
 
@@ -1195,10 +1214,6 @@
           state.copyStatus = "Clipboard copy failed in this browser.";
         }
         renderDetail();
-      });
-
-      document.getElementById("openGptBtn").addEventListener("click", () => {
-        window.open(getGptUrl(poster), "_blank", "noopener");
       });
 
       document.getElementById("audienceSelect").addEventListener("change", (event) => {
