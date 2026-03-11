@@ -3,85 +3,74 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CHS Poster Companion</title>
+  <title>CHS Research Day Poster Companion</title>
   <style>
-    :root {
-      --border: #ddd;
-      --text: #111;
-      --muted: #555;
-      --bg: #fff;
-      --card: #fafafa;
-      --shadow: rgba(0,0,0,0.04);
+    :root{
+      --bg:#ffffff;
+      --card:#fafafa;
+      --border:#dddddd;
+      --text:#111111;
+      --muted:#555555;
+      --shadow: rgba(0,0,0,0.05);
       --radius: 16px;
     }
 
-    body {
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-      margin: 24px;
+    body{
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      margin: 22px;
       line-height: 1.35;
       color: var(--text);
       background: var(--bg);
-      max-width: 920px;
+      max-width: 1040px;
     }
 
-    header {
+    header{
+      display:flex;
+      flex-wrap:wrap;
+      gap: 10px 14px;
+      align-items: baseline;
+      justify-content: space-between;
       margin-bottom: 14px;
     }
 
-    h1 { font-size: 22px; margin: 0 0 6px 0; }
-    h2 { font-size: 18px; margin: 0 0 8px 0; }
-    h3 { font-size: 16px; margin: 0 0 10px 0; }
+    h1{ font-size: 22px; margin: 0; }
+    h2{ font-size: 18px; margin: 0 0 8px 0; }
+    h3{ font-size: 16px; margin: 0 0 10px 0; }
 
-    .muted { color: var(--muted); }
+    .muted{ color: var(--muted); }
+    .mono{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono","Courier New", monospace; font-size: 12px; }
 
-    .grid {
-      display: grid;
+    .grid{
+      display:grid;
       grid-template-columns: 1fr;
       gap: 14px;
     }
 
-    .card {
+    .card{
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 16px;
       background: var(--card);
-      box-shadow: 0 6px 18px var(--shadow);
+      box-shadow: 0 10px 26px var(--shadow);
     }
 
-    .poster-title {
-      font-size: 20px;
-      margin: 0 0 10px 0;
+    .row{
+      display:flex;
+      flex-wrap:wrap;
+      gap: 8px;
+      align-items:center;
     }
 
-    .poster-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px 14px;
-      align-items: center;
-      margin-bottom: 10px;
-    }
-
-    .pill {
-      display: inline-block;
-      border: 1px solid var(--border);
-      background: #fff;
+    .pill{
+      display:inline-block;
+      border:1px solid var(--border);
+      background:#fff;
       border-radius: 999px;
       padding: 4px 10px;
       font-size: 13px;
     }
 
-    .poster-one-liner {
-      margin: 10px 0 0 0;
-      font-size: 15px;
-    }
-
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    button {
+    button{
       font-size: 15px;
       padding: 10px 12px;
       border-radius: 12px;
@@ -91,22 +80,31 @@
       user-select: none;
       transition: transform 0.03s ease-in-out;
     }
+    button:active{ transform: translateY(1px); }
+    button.primary{ border-color:#111; font-weight: 650; }
+    button.mode.active{ border-color:#111; font-weight: 750; }
 
-    button:active { transform: translateY(1px); }
-
-    button.primary {
-      border-color: #111;
-      font-weight: 600;
+    input[type="search"]{
+      width: min(560px, 100%);
+      font-size: 15px;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #fff;
+      box-sizing: border-box;
     }
 
-    button.mode.active {
-      border-color: #111;
-      font-weight: 700;
+    select{
+      font-size: 14px;
+      padding: 9px 10px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #fff;
     }
 
-    textarea {
+    textarea{
       width: 100%;
-      height: 170px;
+      height: 185px;
       font-size: 14px;
       padding: 10px;
       border-radius: 12px;
@@ -115,464 +113,603 @@
       box-sizing: border-box;
     }
 
-    .small {
-      font-size: 13px;
-    }
-
-    .footer-note {
+    .list{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
       margin-top: 10px;
     }
 
-    .warning {
-      background: #fff5f5;
-      border: 1px solid #ffd0d0;
-      padding: 10px 12px;
-      border-radius: 12px;
-      color: #7a1b1b;
+    .item{
+      border: 1px solid var(--border);
+      background: #fff;
+      border-radius: 14px;
+      padding: 12px 12px;
+      cursor: pointer;
+    }
+    .item:hover{ box-shadow: 0 10px 24px var(--shadow); }
+    .itemTitle{ font-weight: 650; margin-bottom: 6px; }
+    .itemMeta{ font-size: 13px; color: var(--muted); display:flex; flex-wrap:wrap; gap: 6px 12px; }
+
+    .split{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
     }
 
-    .mono {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    @media (min-width: 920px){
+      .split{ grid-template-columns: 1.1fr 0.9fr; }
+    }
+
+    .note{
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 10px;
+    }
+
+    .warning{
+      background:#fff5f5;
+      border:1px solid #ffd0d0;
+      padding: 10px 12px;
+      border-radius: 12px;
+      color:#7a1b1b;
+      font-size: 13px;
+    }
+
+    .kbd{
+      border:1px solid var(--border);
+      border-bottom-width: 2px;
+      background:#fff;
+      border-radius: 8px;
+      padding: 1px 6px;
       font-size: 12px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono","Courier New", monospace;
+    }
+
+    a.clean{
+      color: inherit;
+      text-decoration: none;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>CHS Poster Companion</h1>
-    <div class="muted">Scan → pick a mode → copy prompt → open the GPT.</div>
-  </header>
 
-  <div class="grid">
-    <section class="card" id="posterCard">
-      <h2 class="poster-title" id="posterTitle">Loading poster…</h2>
-
-      <div class="poster-meta">
-        <span class="pill" id="posterResearcher">Researcher: —</span>
-        <span class="pill mono" id="posterIdPill">Poster ID: —</span>
-        <span class="pill" id="posterGptRoute">Routes to: —</span>
-      </div>
-
-      <div id="posterTags"></div>
-      <p class="poster-one-liner muted" id="posterOneLiner"></p>
-
-      <div class="footer-note small muted">
-        Tip: If this poster isn’t correct, check that your QR uses an <span class="mono">id=...</span> from the master list.
-      </div>
-    </section>
-
-    <section class="card">
-      <h3>Choose a mode</h3>
-      <div class="row" id="modeButtons">
-        <button type="button" class="mode primary active" data-mode="30-sec">30-second summary</button>
-        <button type="button" class="mode" data-mode="2-min">2-minute walkthrough</button>
-        <button type="button" class="mode" data-mode="questions">5 smart questions</button>
-        <button type="button" class="mode" data-mode="methods">Methods & limitations</button>
-        <button type="button" class="mode" data-mode="implications">Implications</button>
-        <button type="button" class="mode" data-mode="collab">Collaboration ideas</button>
-      </div>
-
-      <h3 style="margin-top:16px;">Seed prompt</h3>
-      <textarea id="promptBox" readonly></textarea>
-
-      <div class="row" style="margin-top:10px;">
-        <button type="button" class="primary" id="copyBtn">Copy prompt</button>
-        <button type="button" id="openBtn">Open GPT</button>
-      </div>
-
-      <div class="small muted" id="status" style="margin-top:10px;"></div>
-
-      <div class="warning small" style="margin-top:12px;">
-        If your site host blocks JavaScript, this page won’t work. In that case, host it on GitHub Pages or another static host that allows scripts.
-      </div>
-    </section>
+<header>
+  <div>
+    <h1>CHS Research Day Poster Companion</h1>
+    <div class="muted" id="subtitle">Browse posters, then pick a prompt to seed your chat.</div>
   </div>
+  <div class="row">
+    <button type="button" id="homeBtn">Home (Directory)</button>
+  </div>
+</header>
 
-  <script>
-    /***********************
-     * 1) GPT URLs (yours)
-     ***********************/
-    // A–M GPT
-    const GPT_URL_AM = "https://chatgpt.com/g/g-69b0c92ff1f48191b51b8974be391c37-chs-2026-research-day-posters-a-m";
+<div class="grid">
 
-    // N–Z GPT (TEMP: same URL for now)
-    const GPT_URL_NZ = "https://chatgpt.com/g/g-69b0c92ff1f48191b51b8974be391c37-chs-2026-research-day-posters-a-m";
+  <!-- DIRECTORY VIEW -->
+  <section class="card" id="directoryView" style="display:none;">
+    <h2>Poster Directory</h2>
+    <div class="row">
+      <input id="searchBox" type="search" placeholder="Search by researcher, title, keyword (e.g., autism, genomics, diabetes, implementation)..." />
+      <select id="filterGroup">
+        <option value="all">All posters</option>
+        <option value="am">A–M (opens GPT A–M)</option>
+        <option value="nz">N–Z (opens GPT N–Z)</option>
+      </select>
+    </div>
 
-    /***********************
-     * 2) Mode definitions
-     ***********************/
-    const MODE_TEXT = {
-      "30-sec": "Give a 30-second plain-language summary.",
-      "2-min": "Give a 2-minute walkthrough: problem, approach, key findings, and why it matters.",
-      "questions": "Generate 5 thoughtful questions to ask the presenter, tailored to this topic.",
-      "methods": "Explain the methods, assumptions, and limitations like I'm a peer reviewer.",
-      "implications": "Explain practical implications for CHS stakeholders (students, clinicians, community partners).",
-      "collab": "Suggest 3 collaboration ideas and describe the ideal partner(s)."
-    };
+    <div class="note">
+      Tip: you can print a single “Directory QR” that points here (no <span class="mono">id=</span>), then attendees can search + select the poster they’re standing at.
+    </div>
 
-    /***********************
-     * 3) Poster master list
-     *    - oneLiner/tags placeholders for now
-     *    - add real one-liners/tags later
-     ***********************/
-    const POSTERS = {
-      // A–M
-      "anbar-autism-recognition-surveillance": {
-        researcher: "Joshua Anbar",
-        title: "Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona",
-        oneLiner: "",
-        tags: []
-      },
-      "baker-ssne-star-center": {
-        researcher: "Lauren Baker",
-        title: "Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center",
-        oneLiner: "",
-        tags: []
-      },
-      "biviji-breastfeeding-support-az": {
-        researcher: "Rizwana Biviji",
-        title: "Advancing breastfeeding support in Arizona",
-        oneLiner: "",
-        tags: []
-      },
-      "biviji-obgyn-patient-satisfaction": {
-        researcher: "Rizwana Biviji",
-        title: "What Drives Patient Satisfaction in OB/GYN Care? Factors Influencing Provider Ratings",
-        oneLiner: "",
-        tags: []
-      },
-      "braden-strengthening-skills-autistic-adults": {
-        researcher: "Blair Braden",
-        title: "The Strengthening Skills Program for Autistic Adults",
-        oneLiner: "",
-        tags: []
-      },
-      "carpenter-retention-hiv-mhealth-alcohol": {
-        researcher: "Stephanie Carpenter",
-        title: "Lessons Learned from an Exploration of Person-Level Factors Associated with Retention of Young adults with HIV in an mHealth Alcohol Use Study",
-        oneLiner: "",
-        tags: []
-      },
-      "chung-sarscov2-antibody-dynamics": {
-        researcher: "Yunro Chung",
-        title: "SARS-CoV-2 Antibody Dynamics in Immunocompromised and Health Individuals",
-        oneLiner: "",
-        tags: []
-      },
-      "dorich-research-technology-core": {
-        researcher: "Chelsea Dorich",
-        title: "Research Technology Core",
-        oneLiner: "",
-        tags: []
-      },
-      "gu-ai-assisted-sample-prep-metabolomics": {
-        researcher: "Haiwei Gu",
-        title: "AI-assisted sample preparation approach to improve throughput and metabolic reproducibility in metabolomics",
-        oneLiner: "",
-        tags: []
-      },
-      "gunning-time-restricted-eating-alzheimers-tread": {
-        researcher: "Jordan Gunning",
-        title: "Time-Restricted Eating and Alzheimer's Disease: The TREAD Pilot Trial",
-        oneLiner: "",
-        tags: []
-      },
-      "hernandez-chw-sustainability-allied-professions-az": {
-        researcher: "Alicia Hernandez",
-        title: "CHW Sustainability and allies professions in Arizona",
-        oneLiner: "",
-        tags: []
-      },
-      "johnston-vinegar-glucose-cgm-pilot": {
-        researcher: "Carol Johnston",
-        title: "Short-term vinegar ingestion favorably impacts blood glucose excursions in adults at risk for prediabetes as detected by continuous glucose monitoring: A pilot trial",
-        oneLiner: "",
-        tags: []
-      },
-      "kim-intermittent-fasting-leptin-jmjd3": {
-        researcher: "Min-Hyun Kim",
-        title: "Intermittent Fasting Enhances Leptin Sensitivity via JMJD3-Mediated Epigenetic Regulation",
-        oneLiner: "",
-        tags: []
-      },
-      "koskan-r21-findings-tbd": {
-        researcher: "Alexis Koskan",
-        title: "Not sure yet - Probably findings from R21",
-        oneLiner: "",
-        tags: []
-      },
-      "klein-seetharaman-metabolomics-rhodopsin-p23a": {
-        researcher: "Judith Klein-Seetharaman",
-        title: "Metabolomics Effects of Folding Correction in Retinitis Pigmentosa Rhodopsin Mutant P23A",
-        oneLiner: "",
-        tags: []
-      },
-      "liu-alpha-integrins-thrombosis-cancer": {
-        researcher: "Li Liu",
-        title: "Evolutionary Specialization of α-Integrins: Toward Precision Targeting in Thrombosis and Cancer",
-        oneLiner: "",
-        tags: []
-      },
-      "martin-ahcccs-pregnant-parenting-recovery": {
-        researcher: "Matthew Martin",
-        title: "Pathways to Recovery: Evaluation of the AHCCCS Pregnant and Parenting Women Pilot Program",
-        oneLiner: "",
-        tags: []
-      },
-      "mayol-kreiser-celiac-resilience-cooking-skills": {
-        researcher: "Sandra Mayol-Kreiser",
-        title: "Managing Celiac Disease: The Impacts of Resilience and Cooking Skills on Dietary Adherence",
-        oneLiner: "",
-        tags: []
-      },
+    <div class="list" id="posterList"></div>
+  </section>
 
-      // N–Z
-      "oyeyemi-microscale-neighborhood-physical-activity": {
-        researcher: "Adewale Oyeyemi",
-        title: "The Influence of Microscale Neighborhood Environment Features on Long-Term Changes in Physical Activity Across the Lifespan",
-        oneLiner: "",
-        tags: []
-      },
-      "phan-genomics-track-virus-transmission": {
-        researcher: "My VT Phan",
-        title: "Harnessing the power of genomics to track virus transmission and evolution",
-        oneLiner: "",
-        tags: []
-      },
-      "poulos-protected-bike-lanes-phoenix": {
-        researcher: "Allison Poulos",
-        title: "The impact of protected bike lanes on active transportation in Phoenix, Arizona",
-        oneLiner: "",
-        tags: []
-      },
-      "racette-cardiometabolic-health-healthspan": {
-        researcher: "Susan Racette",
-        title: "Racette Lab: Promoting Cardiometabolic Health and Healthspan",
-        oneLiner: "",
-        tags: []
-      },
-      "roberts-aged-microbiota-fracture-pain-healing": {
-        researcher: "Joseph Roberts",
-        title: "Aged Microbiota Increases Post-Fracture Pain and Results in Delayed Fracture Healing",
-        oneLiner: "",
-        tags: []
-      },
-      "russin-global-warming-elderly-socio-ecological": {
-        researcher: "Nina Russin",
-        title: "Global Warming and the Elderly: A Socio-Ecological Framework",
-        oneLiner: "",
-        tags: []
-      },
-      "scotch-genomic-epidemiology-influenza-a": {
-        researcher: "Matthew Scotch",
-        title: "Genomic epidemiology of influenza A viruses",
-        oneLiner: "",
-        tags: []
-      },
-      "swan-food-noise-after-glp1-discontinuation": {
-        researcher: "Pamela Swan",
-        title: "Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program",
-        oneLiner: "",
-        tags: []
-      },
-      "suzuki-host-microbial-coevolution-health": {
-        researcher: "Taichi Suzuki",
-        title: "From wild rodents to clinical trials: host-microbial coevolution and health",
-        oneLiner: "",
-        tags: []
-      },
-      "trueba-parkinsons-care-hybrid-open-house": {
-        researcher: "Elizabeth Trueba",
-        title: "Co-Designing Parkinson’s Care: Hybrid Open House Outcomes",
-        oneLiner: "",
-        tags: []
-      },
-      "verdecias-pellum-whole-person-diabetes-social-needs": {
-        researcher: "Niko Verdecias-Pellum",
-        title: "Advancing Whole Person Diabetes Care: Feasibility of Embedding Social Needs Screening into Diabetes Self-Management Education Delivery",
-        oneLiner: "",
-        tags: []
-      },
-      "vega-lopez-family-factors-diet-hispanics": {
-        researcher: "Sonia Vega-Lopez",
-        title: "Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention",
-        oneLiner: "",
-        tags: []
-      },
-      "wang-time-adjusted-citation-analysis": {
-        researcher: "Dongwen Wang",
-        title: "Time-Adjusted Citation Analysis: A Pilot Study to Assess the Change of Biomedical Research Impact Over Time",
-        oneLiner: "",
-        tags: []
-      },
-      "zhou-auditory-space-marmoset-cortex": {
-        researcher: "Yi Zhou",
-        title: "Encoding Auditory Space in Marmoset Cortex",
-        oneLiner: "",
-        tags: []
-      }
-    };
+  <!-- POSTER VIEW -->
+  <section class="card" id="posterView" style="display:none;">
+    <div class="split">
 
-    /***********************
-     * 4) Helpers
-     ***********************/
-    function lastNameOf(fullName) {
-      const parts = (fullName || "").trim().split(/\s+/);
-      return parts.length ? parts[parts.length - 1] : "";
+      <!-- LEFT: Poster metadata -->
+      <div>
+        <h2 id="posterTitle">Loading poster…</h2>
+        <div class="row" style="margin: 10px 0;">
+          <span class="pill" id="posterResearcher">Researcher: —</span>
+          <span class="pill mono" id="posterIdPill">Poster ID: —</span>
+          <span class="pill" id="posterGptRoute">Routes to: —</span>
+        </div>
+
+        <div id="posterTags" style="margin: 10px 0;"></div>
+        <div class="muted" id="posterOneLiner" style="margin-top: 6px;"></div>
+
+        <div class="note" style="margin-top: 14px;">
+          Want to switch posters? Use <span class="kbd">Home</span> or edit the URL’s <span class="mono">id=</span>.
+        </div>
+      </div>
+
+      <!-- RIGHT: Prompts + actions -->
+      <div>
+        <h3>Who are you?</h3>
+        <div class="row">
+          <select id="audienceSel">
+            <option value="curious">Curious attendee</option>
+            <option value="student">Student (undergrad/grad)</option>
+            <option value="faculty">Faculty / researcher</option>
+            <option value="clinician">Clinician / healthcare leader</option>
+            <option value="community">Community partner / nonprofit</option>
+            <option value="funder">Funder / leadership</option>
+            <option value="media">Communications / media</option>
+          </select>
+
+          <select id="toneSel">
+            <option value="friendly">Friendly + clear</option>
+            <option value="direct">Direct + concise</option>
+            <option value="curious">Curious + conversational</option>
+            <option value="skeptical">Skeptical (reviewer-ish)</option>
+          </select>
+        </div>
+
+        <h3 style="margin-top: 14px;">Pick a “better” prompt</h3>
+        <div class="row" id="modeButtons">
+          <button type="button" class="mode primary active" data-mode="hook">Give me the hook</button>
+          <button type="button" class="mode" data-mode="ask">Arm me with 3 sharp questions</button>
+          <button type="button" class="mode" data-mode="soWhat">So what? (impact)</button>
+          <button type="button" class="mode" data-mode="reviewer">Skeptical reviewer check</button>
+          <button type="button" class="mode" data-mode="collab">Collaboration matchmaking</button>
+          <button type="button" class="mode" data-mode="translate">Translate (no jargon)</button>
+          <button type="button" class="mode" data-mode="next">Next study / next step</button>
+          <button type="button" class="mode" data-mode="tweet">One-slide / social version</button>
+        </div>
+
+        <h3 style="margin-top: 14px;">Seed prompt (auto-generated)</h3>
+        <textarea id="promptBox" readonly></textarea>
+
+        <div class="row" style="margin-top:10px;">
+          <button type="button" class="primary" id="copyBtn">Copy prompt</button>
+          <button type="button" id="openBtn">Open GPT</button>
+        </div>
+
+        <div class="muted" id="status" style="margin-top:10px; font-size: 13px;"></div>
+
+        <div class="warning" style="margin-top:12px;">
+          If your web host strips <span class="mono">&lt;script&gt;</span> tags, this page won’t work. Host it on GitHub Pages or another static host that allows JavaScript.
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<script>
+  /*********************************
+   * 1) GPT URLs (yours)
+   *********************************/
+  const GPT_URL_AM = "https://chatgpt.com/g/g-69b0c92ff1f48191b51b8974be391c37-chs-2026-research-day-posters-a-m";
+  // TEMP: same URL for now; replace when N–Z GPT is ready
+  const GPT_URL_NZ = "https://chatgpt.com/g/g-69b0c92ff1f48191b51b8974be391c37-chs-2026-research-day-posters-a-m";
+
+  /*********************************
+   * 2) Poster list (master list)
+   *    - Some posters have richer metadata placeholders
+   *    - You can extend tags/oneLiner later
+   *********************************/
+  const POSTERS = [
+    // A–M
+    { id:"anbar-autism-recognition-surveillance", researcher:"Joshua Anbar", title:"Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights from Public Health Surveillance in Arizona", tags:["autism","surveillance","public health"], oneLiner:"" },
+    { id:"baker-ssne-star-center", researcher:"Lauren Baker", title:"Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center", tags:["learning health system","embedded scientist","CER/PCOR","safety net","health equity"], oneLiner:"AHRQ/PCORI-funded Learning Health System center building embedded CER/PCOR capacity in Arizona safety net systems; early outcomes show 18 scholars enrolled (16 active)." },
+    { id:"braden-strengthening-skills-autistic-adults", researcher:"Blair Braden", title:"The Strengthening Skills Program for Autistic Adults", tags:["autism","adult services","skills program"], oneLiner:"" },
+    { id:"carpenter-retention-hiv-mhealth-alcohol", researcher:"Stephanie Carpenter", title:"Lessons Learned from an Exploration of Person-Level Factors Associated with Retention of Young adults with HIV in an mHealth Alcohol Use Study", tags:["mHealth","HIV","wearables","JITAI","retention"], oneLiner:"Micro-randomized trial feasibility work to improve engagement/wear time of an alcohol biosensor among young adults with HIV; early results show lower attrition with engagement onboarding vs standard." },
+    { id:"chung-sarscov2-antibody-dynamics", researcher:"Yunro Chung", title:"SARS-CoV-2 Antibody Dynamics in Immunocompromised and Health Individuals", tags:["COVID-19","antibodies","immunocompromised"], oneLiner:"" },
+    { id:"dorich-research-technology-core", researcher:"Chelsea Dorich", title:"Research Technology Core", tags:["research IT","support","core"], oneLiner:"" },
+    { id:"gu-ai-assisted-sample-prep-metabolomics", researcher:"Haiwei Gu", title:"AI-assisted sample preparation approach to improve throughput and metabolic reproducibility in metabolomics", tags:["metabolomics","AI","sample prep"], oneLiner:"" },
+    { id:"gunning-time-restricted-eating-alzheimers-tread", researcher:"Jordan Gunning", title:"Time-Restricted Eating and Alzheimer's Disease: The TREAD Pilot Trial", tags:["time-restricted eating","Alzheimer's","pilot"], oneLiner:"" },
+    { id:"hernandez-chw-sustainability-allied-professions-az", researcher:"Alicia Hernandez", title:"CHW Sustainability and allies professions in Arizona", tags:["community health workers","workforce","Arizona"], oneLiner:"" },
+    { id:"johnston-vinegar-glucose-cgm-pilot", researcher:"Carol Johnston", title:"Short-term vinegar ingestion favorably impacts blood glucose excursions in adults at risk for prediabetes as detected by continuous glucose monitoring: A pilot trial", tags:["prediabetes","CGM","nutrition"], oneLiner:"" },
+    { id:"kim-intermittent-fasting-leptin-jmjd3", researcher:"Min-Hyun Kim", title:"Intermittent Fasting Enhances Leptin Sensitivity via JMJD3-Mediated Epigenetic Regulation", tags:["intermittent fasting","epigenetics","metabolism"], oneLiner:"" },
+    { id:"koskan-r21-findings-tbd", researcher:"Alexis Koskan", title:"Not sure yet - Probably findings from R21", tags:["R21","TBD"], oneLiner:"" },
+    { id:"klein-seetharaman-metabolomics-rhodopsin-p23a", researcher:"Judith Klein-Seetharaman", title:"Metabolomics Effects of Folding Correction in Retinitis Pigmentosa Rhodopsin Mutant P23A", tags:["retinitis pigmentosa","rhodopsin","metabolomics"], oneLiner:"" },
+    { id:"liu-alpha-integrins-thrombosis-cancer", researcher:"Li Liu", title:"Evolutionary Specialization of α-Integrins: Toward Precision Targeting in Thrombosis and Cancer", tags:["integrins","thrombosis","cancer"], oneLiner:"" },
+    { id:"martin-ahcccs-pregnant-parenting-recovery", researcher:"Matthew Martin", title:"Pathways to Recovery: Evaluation of the AHCCCS Pregnant and Parenting Women Pilot Program", tags:["AHCCCS","maternal health","evaluation"], oneLiner:"" },
+    { id:"mayol-kreiser-celiac-resilience-cooking-skills", researcher:"Sandra Mayol-Kreiser", title:"Managing Celiac Disease: The Impacts of Resilience and Cooking Skills on Dietary Adherence", tags:["celiac disease","dietary adherence","resilience"], oneLiner:"" },
+
+    // N–Z
+    { id:"oyeyemi-microscale-neighborhood-physical-activity", researcher:"Adewale Oyeyemi", title:"The Influence of Microscale Neighborhood Environment Features on Long-Term Changes in Physical Activity Across the Lifespan", tags:["built environment","physical activity"], oneLiner:"" },
+    { id:"phan-genomics-track-virus-transmission", researcher:"My VT Phan", title:"Harnessing the power of genomics to track virus transmission and evolution", tags:["genomics","transmission","evolution"], oneLiner:"" },
+    { id:"poulos-protected-bike-lanes-phoenix", researcher:"Allison Poulos", title:"The impact of protected bike lanes on active transportation in Phoenix, Arizona", tags:["active transportation","bike lanes","Phoenix"], oneLiner:"" },
+    { id:"racette-cardiometabolic-health-healthspan", researcher:"Susan Racette", title:"Racette Lab: Promoting Cardiometabolic Health and Healthspan", tags:["cardiometabolic health","healthspan"], oneLiner:"" },
+    { id:"roberts-aged-microbiota-fracture-pain-healing", researcher:"Joseph Roberts", title:"Aged Microbiota Increases Post-Fracture Pain and Results in Delayed Fracture Healing", tags:["microbiota","fracture healing","pain"], oneLiner:"" },
+    { id:"russin-global-warming-elderly-socio-ecological", researcher:"Nina Russin", title:"Global Warming and the Elderly: A Socio-Ecological Framework", tags:["climate","aging","framework"], oneLiner:"" },
+    { id:"scotch-genomic-epidemiology-influenza-a", researcher:"Matthew Scotch", title:"Genomic epidemiology of influenza A viruses", tags:["influenza","genomic epidemiology"], oneLiner:"" },
+    { id:"swan-food-noise-after-glp1-discontinuation", researcher:"Pamela Swan", title:"Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program", tags:["GLP-1","mindful eating","feasibility"], oneLiner:"" },
+    { id:"suzuki-host-microbial-coevolution-health", researcher:"Taichi Suzuki", title:"From wild rodents to clinical trials: host-microbial coevolution and health", tags:["microbiome","coevolution","translation"], oneLiner:"" },
+    { id:"trueba-parkinsons-care-hybrid-open-house", researcher:"Elizabeth Trueba", title:"Co-Designing Parkinson’s Care: Hybrid Open House Outcomes", tags:["Parkinson's","co-design","care"], oneLiner:"" },
+    { id:"verdecias-pellum-whole-person-diabetes-social-needs", researcher:"Niko Verdecias-Pellum", title:"Advancing Whole Person Diabetes Care: Feasibility of Embedding Social Needs Screening into Diabetes Self-Management Education Delivery", tags:["diabetes","social needs","DSMES"], oneLiner:"" },
+    { id:"vega-lopez-family-factors-diet-hispanics", researcher:"Sonia Vega-Lopez", title:"Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention", tags:["nutrition","Hispanic health","family factors"], oneLiner:"" },
+    { id:"wang-time-adjusted-citation-analysis", researcher:"Dongwen Wang", title:"Time-Adjusted Citation Analysis: A Pilot Study to Assess the Change of Biomedical Research Impact Over Time", tags:["bibliometrics","citation analysis"], oneLiner:"" },
+    { id:"zhou-auditory-space-marmoset-cortex", researcher:"Yi Zhou", title:"Encoding Auditory Space in Marmoset Cortex", tags:["neuroscience","auditory cortex","marmoset"], oneLiner:"" },
+  ];
+
+  const POSTER_BY_ID = Object.fromEntries(POSTERS.map(p => [p.id, p]));
+
+  /*********************************
+   * 3) Prompt “modes” (less boring)
+   *********************************/
+  const MODES = {
+    hook: {
+      label: "Give me the hook",
+      build: (p, ctx) => `
+Give me a sticky, human-friendly hook for this poster, tailored to: ${ctx.audience}.
+Constraints:
+- Start with ONE sentence that makes me want to lean in.
+- Then: 3 bullet “what they did / what they found / why it matters”.
+- End with a one-liner I can say to the presenter that shows I get it.
+`
+    },
+    ask: {
+      label: "Arm me with 3 sharp questions",
+      build: (p, ctx) => `
+Generate 3 high-quality questions I can ask the presenter that will lead to a great conversation.
+Rules:
+- Each question should be specific and “poster-aware” (not generic).
+- For each question: include (a) why it’s a smart question, (b) what a strong answer might sound like.
+- Bonus: include 1 “collaboration probe” question.
+`
+    },
+    soWhat: {
+      label: "So what? (impact)",
+      build: (p, ctx) => `
+Explain the “so what” for ${ctx.audience}.
+Output:
+1) What changes if this is true? (real-world consequence)
+2) Who benefits (and who might be missed)?
+3) What would you measure next to prove impact?
+Keep it grounded in the poster; if the poster doesn’t specify, state what’s unknown.
+`
+    },
+    reviewer: {
+      label: "Skeptical reviewer check",
+      build: (p, ctx) => `
+Act like a fair but skeptical reviewer.
+Output:
+- 3 strengths (design/novelty/importance)
+- 3 risks (bias, confounding, measurement, generalizability, missing details)
+- 2 “if you only fix one thing…” suggestions
+- 1 sentence: “What would convince me?”
+Be constructive, not snarky. If information is missing on the poster, call it out explicitly.
+`
+    },
+    collab: {
+      label: "Collaboration matchmaking",
+      build: (p, ctx) => `
+I want to help this work find partners.
+Ask me ONE quick question first: “What do you have to offer?” (e.g., clinic access, dataset, methods, community org, funding, student capacity).
+Then propose:
+- 3 collaboration ideas (each: partner type + what they contribute + what they get)
+- A 20-second intro script I can use with the presenter
+- One “next meeting” agenda outline (5 bullets)
+`
+    },
+    translate: {
+      label: "Translate (no jargon)",
+      build: (p, ctx) => `
+Translate this poster into plain language for ${ctx.audience}.
+Do:
+- No acronyms unless you define them once.
+- Use 1 metaphor that fits the topic.
+- Include a 2-sentence “what I should remember tomorrow.”
+If the poster includes technical methods, explain them with an analogy.
+`
+    },
+    next: {
+      label: "Next study / next step",
+      build: (p, ctx) => `
+Propose the next logical step after this poster.
+Give 3 options:
+1) “Fast follow” (low effort, high clarity)
+2) “Bigger swing” (higher risk / higher reward)
+3) “Implementation/scale” (real-world rollout)
+For each: design sketch, sample/data needs, primary outcome, and 1 major pitfall.
+`
+    },
+    tweet: {
+      label: "One-slide / social version",
+      build: (p, ctx) => `
+Create a shareable summary (no sensitive details).
+Output:
+- A one-tweet summary (<= 280 chars)
+- A 5-bullet “one-slide” version
+- 5 hashtags (professional)
+- A “responsible interpretation” disclaimer sentence
+Keep it faithful to what the poster actually claims.
+`
     }
+  };
 
-    function pickGptUrl(researcherFullName) {
-      const ln = lastNameOf(researcherFullName).toUpperCase();
-      const firstChar = ln[0] || "A";
-      return (firstChar >= "N") ? GPT_URL_NZ : GPT_URL_AM;
+  /*********************************
+   * 4) Routing logic (A–M vs N–Z)
+   *********************************/
+  function lastNameOf(fullName){
+    const parts = (fullName || "").trim().split(/\s+/);
+    return parts.length ? parts[parts.length - 1] : "";
+  }
+
+  function pickGptUrl(researcherFullName){
+    const ln = lastNameOf(researcherFullName).toUpperCase();
+    const firstChar = ln[0] || "A";
+    return (firstChar >= "N") ? GPT_URL_NZ : GPT_URL_AM;
+  }
+
+  function routeLabelFor(researcherFullName){
+    const url = pickGptUrl(researcherFullName);
+    return (url === GPT_URL_AM) ? "A–M GPT" : "N–Z GPT";
+  }
+
+  function groupFor(researcherFullName){
+    const ln = lastNameOf(researcherFullName).toUpperCase();
+    const firstChar = ln[0] || "A";
+    return (firstChar >= "N") ? "nz" : "am";
+  }
+
+  /*********************************
+   * 5) View state from URL
+   *********************************/
+  const params = new URLSearchParams(window.location.search);
+  let posterId = params.get("id"); // if null => directory
+  let currentMode = params.get("mode") || "hook";
+
+  /*********************************
+   * 6) DOM helpers
+   *********************************/
+  const directoryView = document.getElementById("directoryView");
+  const posterView = document.getElementById("posterView");
+  const subtitle = document.getElementById("subtitle");
+
+  function setUrl(newPosterId){
+    const url = new URL(window.location.href);
+    if (newPosterId){
+      url.searchParams.set("id", newPosterId);
+    } else {
+      url.searchParams.delete("id");
+      url.searchParams.delete("mode");
     }
+    window.history.pushState({}, "", url);
+  }
 
-    function routeLabelFor(researcherFullName) {
-      const url = pickGptUrl(researcherFullName);
-      return (url === GPT_URL_AM) ? "A–M GPT" : "N–Z GPT";
-    }
+  /*********************************
+   * 7) Directory rendering
+   *********************************/
+  const posterList = document.getElementById("posterList");
+  const searchBox = document.getElementById("searchBox");
+  const filterGroup = document.getElementById("filterGroup");
 
-    function escapeHtml(s) {
-      return String(s || "")
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
-    }
+  function renderDirectory(){
+    directoryView.style.display = "block";
+    posterView.style.display = "none";
+    subtitle.textContent = "Browse posters, then pick a prompt to seed your chat.";
 
-    /***********************
-     * 5) State from URL
-     ***********************/
-    const params = new URLSearchParams(window.location.search);
-    const posterId = params.get("id") || "anbar-autism-recognition-surveillance";
-    let currentMode = params.get("mode") || "30-sec";
+    const q = (searchBox.value || "").trim().toLowerCase();
+    const g = filterGroup.value;
 
-    /***********************
-     * 6) Render poster
-     ***********************/
-    function renderPoster() {
-      const p = POSTERS[posterId];
+    const filtered = POSTERS.filter(p => {
+      const hay = `${p.researcher} ${p.title} ${(p.tags || []).join(" ")}`.toLowerCase();
+      const matchQ = !q || hay.includes(q);
+      const matchG = (g === "all") || (g === groupFor(p.researcher));
+      return matchQ && matchG;
+    });
 
-      const titleEl = document.getElementById("posterTitle");
-      const researcherEl = document.getElementById("posterResearcher");
-      const idEl = document.getElementById("posterIdPill");
-      const routeEl = document.getElementById("posterGptRoute");
-      const oneLinerEl = document.getElementById("posterOneLiner");
-      const tagsEl = document.getElementById("posterTags");
-
-      if (!p) {
-        titleEl.textContent = `Poster not found: ${posterId}`;
-        researcherEl.textContent = "Researcher: —";
-        idEl.textContent = `Poster ID: ${posterId}`;
-        routeEl.textContent = "Routes to: —";
-        tagsEl.innerHTML = "";
-        oneLinerEl.textContent = "Check your QR code’s id= parameter matches a poster ID in the master list.";
-        buildPrompt(); // still build prompt with fallback
-        return;
-      }
-
-      titleEl.textContent = p.title;
-      researcherEl.textContent = `Researcher: ${p.researcher}`;
-      idEl.textContent = `Poster ID: ${posterId}`;
-      routeEl.textContent = `Routes to: ${routeLabelFor(p.researcher)}`;
-
-      // tags
-      tagsEl.innerHTML = "";
-      if (p.tags && p.tags.length) {
-        const wrap = document.createElement("div");
-        p.tags.forEach(t => {
-          const span = document.createElement("span");
-          span.className = "pill";
-          span.textContent = t;
-          wrap.appendChild(span);
+    posterList.innerHTML = "";
+    filtered
+      .sort((a,b) => a.researcher.localeCompare(b.researcher))
+      .forEach(p => {
+        const div = document.createElement("div");
+        div.className = "item";
+        div.innerHTML = `
+          <div class="itemTitle">${escapeHtml(p.title)}</div>
+          <div class="itemMeta">
+            <span><strong>${escapeHtml(p.researcher)}</strong></span>
+            <span class="mono">id=${escapeHtml(p.id)}</span>
+            <span>${routeLabelFor(p.researcher)}</span>
+          </div>
+        `;
+        div.addEventListener("click", () => {
+          posterId = p.id;
+          currentMode = "hook";
+          setUrl(posterId);
+          renderPosterView();
         });
-        tagsEl.appendChild(wrap);
-      }
+        posterList.appendChild(div);
+      });
 
-      // one-liner placeholder
-      oneLinerEl.textContent = p.oneLiner
-        ? p.oneLiner
-        : "One-liner coming soon (we can auto-generate these from your markdown poster analyses).";
+    if (!filtered.length){
+      posterList.innerHTML = `<div class="muted">No matches. Try fewer keywords.</div>`;
+    }
+  }
 
+  function escapeHtml(s){
+    return String(s || "")
+      .replaceAll("&","&amp;")
+      .replaceAll("<","&lt;")
+      .replaceAll(">","&gt;")
+      .replaceAll('"',"&quot;")
+      .replaceAll("'","&#039;");
+  }
+
+  /*********************************
+   * 8) Poster view rendering
+   *********************************/
+  const posterTitleEl = document.getElementById("posterTitle");
+  const posterResearcherEl = document.getElementById("posterResearcher");
+  const posterIdPillEl = document.getElementById("posterIdPill");
+  const posterGptRouteEl = document.getElementById("posterGptRoute");
+  const posterTagsEl = document.getElementById("posterTags");
+  const posterOneLinerEl = document.getElementById("posterOneLiner");
+
+  const audienceSel = document.getElementById("audienceSel");
+  const toneSel = document.getElementById("toneSel");
+  const promptBox = document.getElementById("promptBox");
+  const statusEl = document.getElementById("status");
+
+  function renderPosterView(){
+    directoryView.style.display = "none";
+    posterView.style.display = "block";
+    subtitle.textContent = "Pick a prompt, copy it, then open the right GPT.";
+
+    const p = POSTER_BY_ID[posterId];
+
+    if (!p){
+      posterTitleEl.textContent = `Poster not found: ${posterId}`;
+      posterResearcherEl.textContent = `Researcher: —`;
+      posterIdPillEl.textContent = `Poster ID: ${posterId}`;
+      posterGptRouteEl.textContent = `Routes to: —`;
+      posterTagsEl.innerHTML = "";
+      posterOneLinerEl.textContent = "Check that your URL uses a valid poster id from the directory.";
       buildPrompt();
+      return;
     }
 
-    /***********************
-     * 7) Build prompt
-     ***********************/
-    function buildPrompt() {
-      const p = POSTERS[posterId];
-      const title = p?.title || posterId;
-      const researcher = p?.researcher || "";
-      const task = MODE_TEXT[currentMode] || MODE_TEXT["30-sec"];
+    posterTitleEl.textContent = p.title;
+    posterResearcherEl.textContent = `Researcher: ${p.researcher}`;
+    posterIdPillEl.textContent = `Poster ID: ${p.id}`;
+    posterGptRouteEl.textContent = `Routes to: ${routeLabelFor(p.researcher)}`;
 
-      const prompt =
-`I am standing at CHS Research Day poster ID: ${posterId}.
-Poster title: ${title}
-Researcher: ${researcher}
+    posterTagsEl.innerHTML = "";
+    if (p.tags && p.tags.length){
+      const wrap = document.createElement("div");
+      wrap.className = "row";
+      p.tags.forEach(t => {
+        const s = document.createElement("span");
+        s.className = "pill";
+        s.textContent = t;
+        wrap.appendChild(s);
+      });
+      posterTagsEl.appendChild(wrap);
+    }
 
-Use ONLY this poster's content from your knowledge base. If you cannot uniquely identify it, ask one question to disambiguate.
+    posterOneLinerEl.textContent = p.oneLiner
+      ? p.oneLiner
+      : "One-liner coming soon (we can auto-generate these from your markdown poster analyses).";
 
-Task: ${task}
+    setActiveModeButton();
+    buildPrompt();
+  }
 
-End with:
-1) 1-sentence takeaway,
-2) one suggested question for the presenter,
-3) one next-step collaboration idea.`;
+  function setActiveModeButton(){
+    document.querySelectorAll("button.mode").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.mode === currentMode);
+    });
+  }
 
-      document.getElementById("promptBox").value = prompt;
-      document.getElementById("status").textContent = "";
+  function buildPrompt(){
+    const p = POSTER_BY_ID[posterId];
+    const audience = audienceSel.value;
+    const tone = toneSel.value;
+
+    const modeObj = MODES[currentMode] || MODES.hook;
+    const modeLabel = modeObj.label;
+
+    const toneGuidance = {
+      friendly: "Tone: warm, clear, and helpful.",
+      direct: "Tone: concise, skimmable, no fluff.",
+      curious: "Tone: curious, conversational, invites follow-up.",
+      skeptical: "Tone: rigorous, critical-but-constructive."
+    }[tone] || "Tone: clear.";
+
+    const ctx = { audience, tone };
+
+    const seed =
+`I am at CHS Research Day and standing in front of this poster:
+
+Poster ID: ${p?.id || posterId}
+Poster title: ${p?.title || ""}
+Researcher: ${p?.researcher || ""}
+
+IMPORTANT:
+- Use ONLY this poster's content from your knowledge base.
+- If you cannot uniquely identify it, ask ONE quick disambiguation question.
+- If details are not on the poster, say what’s missing instead of inventing.
+
+Audience: ${audience}
+${toneGuidance}
+
+Request (${modeLabel}):
+${modeObj.build(p, ctx)}
+
+Close with:
+- 1 sentence takeaway
+- 1 question I should ask the presenter next
+- 1 concrete next step (collab / experiment / follow-up)
+`;
+
+    promptBox.value = seed;
+    statusEl.textContent = "";
+  }
+
+  /*********************************
+   * 9) Actions
+   *********************************/
+  async function copyPrompt(){
+    try{
+      await navigator.clipboard.writeText(promptBox.value);
+      statusEl.textContent = "Copied. Tap “Open GPT”, paste (Ctrl/Cmd+V), press Enter.";
+    } catch(e){
+      statusEl.textContent = "Copy failed (browser restrictions). Select the text and copy manually.";
+    }
+  }
+
+  function openGPT(){
+    const p = POSTER_BY_ID[posterId];
+    const url = pickGptUrl(p?.researcher || "");
+    window.open(url, "_blank", "noopener,noreferrer");
+  }
+
+  /*********************************
+   * 10) Event wiring
+   *********************************/
+  document.getElementById("homeBtn").addEventListener("click", () => {
+    posterId = null;
+    setUrl(null);
+    renderDirectory();
+  });
+
+  searchBox.addEventListener("input", renderDirectory);
+  filterGroup.addEventListener("change", renderDirectory);
+
+  document.querySelectorAll("button.mode").forEach(btn => {
+    btn.addEventListener("click", () => {
+      currentMode = btn.dataset.mode;
+      const url = new URL(window.location.href);
+      if (posterId) url.searchParams.set("mode", currentMode);
+      window.history.pushState({}, "", url);
       setActiveModeButton();
-    }
+      buildPrompt();
+    });
+  });
 
-    function setActiveModeButton() {
-      document.querySelectorAll("button.mode").forEach(btn => {
-        btn.classList.toggle("active", btn.dataset.mode === currentMode);
-      });
-    }
+  audienceSel.addEventListener("change", buildPrompt);
+  toneSel.addEventListener("change", buildPrompt);
 
-    /***********************
-     * 8) Actions
-     ***********************/
-    async function copyPrompt() {
-      const text = document.getElementById("promptBox").value;
-      try {
-        await navigator.clipboard.writeText(text);
-        document.getElementById("status").textContent =
-          "Copied. Now tap “Open GPT” and paste (Ctrl/Cmd+V), then press Enter.";
-      } catch (e) {
-        document.getElementById("status").textContent =
-          "Copy failed (browser restrictions). Select the text and copy manually.";
-      }
-    }
+  document.getElementById("copyBtn").addEventListener("click", copyPrompt);
+  document.getElementById("openBtn").addEventListener("click", openGPT);
 
-    function openGPT() {
-      const p = POSTERS[posterId];
-      const url = pickGptUrl(p?.researcher || "");
-      window.open(url, "_blank", "noopener,noreferrer");
-    }
+  // Back/forward navigation
+  window.addEventListener("popstate", () => {
+    const p = new URLSearchParams(window.location.search).get("id");
+    const m = new URLSearchParams(window.location.search).get("mode");
+    posterId = p;
+    currentMode = m || "hook";
+    if (!posterId) renderDirectory();
+    else renderPosterView();
+  });
 
-    /***********************
-     * 9) Bind events
-     ***********************/
-    function bindEvents() {
-      document.querySelectorAll("button.mode").forEach(btn => {
-        btn.addEventListener("click", () => {
-          currentMode = btn.dataset.mode;
-          buildPrompt();
-        });
-      });
+  /*********************************
+   * 11) Init
+   *********************************/
+  if (!posterId){
+    renderDirectory();
+  } else {
+    renderPosterView();
+  }
+</script>
 
-      document.getElementById("copyBtn").addEventListener("click", copyPrompt);
-      document.getElementById("openBtn").addEventListener("click", openGPT);
-    }
-
-    /***********************
-     * 10) Init
-     ***********************/
-    bindEvents();
-    renderPoster();
-  </script>
 </body>
 </html>
