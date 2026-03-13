@@ -1,12 +1,12 @@
 {
   "id": "gunning-time-restricted-eating-alzheimers-disease-tread",
   "poster_id": "CHS-RD2026-Gunning-J-TimeRestrictedEatingPilot",
-  "researcher": "Gunning JA",
-  "researcher_last_name": "Gunning",
   "title": "Time Restricted Eating in Alzheimer's Disease (TREAD): A Pilot Study",
+  "submitter_name": "Gunning JA",
+  "submitter_last_name": "Gunning",
+  "authors_full": "Gunning JA1, Hettiwatte Y1, Zaniletti I2, Smith T3, Khan N3, Aliskevich E3, Chahal G3, Demeke M3, DeCuna CJ1, Eagan D3, Krell-Roesch J4,Geda YE3, Racette SB1",
+  "authors_short": "Gunning JA Hettiwatte Y Zaniletti I Smith T Khan N Aliskevich E Chahal G Demeke M DeCuna CJ Eagan D Krell-Roesch J Geda YE Racette SB",
   "category": "Brain, Behavior & Aging",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Time Restricted Eating",
     "Mild Cognitive Impairment",
@@ -21,103 +21,89 @@
     "alzheimer's disease",
     "ad biomarkers",
     "p-tau",
-    "aβ42/40",
+    "a42/40",
     "metabolic biomarkers",
     "feasibility",
     "adherence",
-    "neurology",
-    "nutrition/metabolism",
-    "aging",
-    "dementia prevention/biomarkers",
-    "pilot intervention",
-    "pre/post assessment",
-    "adherence monitoring",
-    "blood biomarkers",
-    "cognitive assessments",
-    "questionnaires",
-    "intervention",
-    "biomarkers",
-    "captured",
-    "cognition",
-    "score",
-    "stated",
-    "blood",
-    "days",
-    "eating",
-    "extraction",
-    "figures",
-    "pilot"
+    "neurology"
   ],
   "summary": {
-    "hook": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD).",
-    "summary_30s": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD). In preliminary results, 27 participants completed the study and adherence to the targeted eating window was high (e.g., an 8-hour window achieved on 78.2% of days). The authors conclude the intervention appears feasible and that completing remaining participants will clarify impacts on cognition and AD-related blood biomarkers.",
-    "talktrack_2m": [
-      "Focus: Investigate the feasibility of implementing a TRE intervention in patients with MCI",
-      "Approach: Population: Adults with MCI (Mayo Clinic criteria), ages 55–89 years, BMI >18.5 and <40.0 kg/m², with a supportive study partner Primary outcome: Feasibility/adherence (implied primary based on aims and “Eating Windows Achieved”)",
-      "Finding: Completion: N \\= 27 completed participants (17 men, 10 women).",
-      "Why it matters: Authors’ stated conclusions: “Preliminary observations from the TREAD trial indicate high feasibility and adherence to a TRE intervention among patients with MCI.” Also: “Completion of the remaining participants will shed light on the potential impact of TRE on cognition and blood biomarkers of AD.” Implications (poster-grounded): The poster supports that implementing TRE with monitoring/support is feasible in this MCI sample and that further completion/analysis is needed to assess cognitive and biomarker effects. Mechanism/explanation (ONLY if stated): Fasting leads to ketone production and metabolic switching from glucose to fatty acid/ketone utilization, triggering adaptive metabolic/cellular responses; additionally, cortical glucose uptake is decreased in AD while ketone uptake is not affected. Connections to prior work (ONLY if referenced): “Cortical glucose uptake is decreased in Alzheimer’s disease (AD); ketone uptake is not affected.” “Little is known about the potential benefits of TRE in patients with mild cognitive impairment (MCI).” (No citations/references listed on poster.)"
-    ],
+    "hook": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring...",
+    "summary_30s": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD).",
+    "audience_versions": {
+      "general": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD).",
+      "undergrad": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... Pilot intervention study (single-group pre/post design implied by “Pre-Assessment → TRE Intervention → Post-Assessment” and “Pre” vs “Post” biomarker plots). * “N = 27 completed... If you are new to research, this poster is a good example of how a question...",
+      "grad": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... Pilot intervention study (single-group pre/post design implied by “Pre-Assessment → TRE Intervention → Post-Assessment” and “Pre” vs “Post” biomarker plots). * “N = 27 completed... Completion: N = 27 completed participants (17 men, 10 women). It is most...",
+      "researcher": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... Pilot intervention study (single-group pre/post design implied by “Pre-Assessment → TRE Intervention → Post-Assessment” and “Pre” vs “Post” biomarker plots). * “N = 27 completed... Completion: N = 27 completed participants (17 men, 10 women). The findings...",
+      "clinician": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... Completion: N = 27 completed participants (17 men, 10 women). For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... The findings help attendees understand why this work matters beyond the poster itself. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and... The findings help attendees understand why this work matters beyond the poster itself. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within brain, behavior & aging."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and...",
+      "what_they_did": "Pilot intervention study (single-group pre/post design implied by “Pre-Assessment → TRE Intervention → Post-Assessment” and “Pre” vs “Post” biomarker plots). * “N = 27 completed...",
+      "what_they_found": "Completion: N = 27 completed participants (17 men, 10 women).",
+      "why_it_matters": "The findings help attendees understand why this work matters beyond the poster itself.",
+      "one_smart_follow_up": "How did you operationally define a “day” for adherence (midnight-to-midnight, waking day, or individualized)?"
+    },
     "key_numbers": [
-      "* “N \\= 27 completed participants (17 men, 10 women)”",
+      "“N = 27 completed participants (17 men, 10 women)”",
       "TRE intervention described as “5 days/week x 12 weeks”",
       "Adults with MCI (Mayo Clinic criteria), ages 55–89 years, BMI >18.5 and <40.0 kg/m², with a supportive study partner",
       "N=27 completed (17 men, 10 women)",
-      "8h window achieved on 78.2% of days; 10h on 94.7% of days",
-      "Exit interview: 93% benefited; 95% could incorporate long term; 74% said 16h fast not too long; 85% would recommend"
+      "8h window achieved on 78.2% of days; 10h on 94.7% of days"
     ],
     "takeaways": [
       "Completion: N \\= 27 completed participants (17 men, 10 women).",
       "Adherence: 8h eating window achieved on 78.2% of all days; 10h eating window achieved on 94.7% of all days.",
       "Eating-window distribution: Percent of days meeting thresholds: ≤8h 78.2%; ≤9h 90.6%; ≤10h 94.7%; ≤11h 97.8%; ≤12h 99.0%. Goal marker shown: 5/7 days/week (71%)."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What is the planned total enrollment (and how many participants remain to complete)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "In Figure 3, what explains the difference between achieving ≤8h on 78.2% of days vs ≤10h on 94.7%—were most “misses” modest overages?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "What feasibility criteria were prespecified (e.g., ≥71% of days meeting target, retention targets, safety)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "Based on feasibility, what level of support (RD time, devices) seems necessary to replicate adherence in clinics?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Will the completed study incorporate additional biomarkers beyond those shown (e.g., ketones, lipids), or imaging outcomes",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Collecting continuous adherence trajectories (week-by-week), and can collaborators help model patterns",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Do you plan subgroup analyses (sex, baseline cognition, BMI) once enrollment is complete",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Time Restricted Eating in Alzheimer's Disease (TREAD): A Pilot Study. The main point is: Completion: N \\= 27 completed participants (17 men, 10 women).",
-      "clinician": "For practice-facing attendees, the poster highlights Completion: N \\= 27 completed participants (17 men, 10 women).",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes a pilot study (“TREAD”) testing whether a time-restricted eating (TRE) intervention is feasible in patients with mild cognitive impairment (MCI) and exploring effects on cognition and blood biomarkers relevant to Alzheimer’s disease (AD). In preliminary results, 27 participants completed the study and adherence to the targeted eating window was high (e.g., an 8-hour window achieved on 78.2% of days). The authors conclude the intervention appears feasible and that completing remaining participants will clarify impacts on cognition and AD-related blood biomarkers.",
-      "funder": "The project addresses Time Restricted Eating in Alzheimer's Disease (TREAD): A Pilot Study and already reports measurable signals such as * “N \\= 27 completed participants (17 men, 10 women)”"
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How did you operationally define a “day” for adherence (midnight-to-midnight, waking day, or individualized)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How did you operationally define a “day” for adherence (midnight-to-midnight, waking day, or individualized)?",
+        "What instructions were given for the 16-hour fasting window—were calorie-free beverages allowed?",
+        "How did the Healbe watch determine “food intake,” and how did it integrate with the phone app/paper logs?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Gunning Resize.md",
-    "source_type": "markdown"
+    "source_file_name": "Gunning Resize.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Gunning-J-TimeRestrictedEatingPilot",
+    "source_file": "markdown-posters/Gunning Resize.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Gunning-J-TimeRestrictedEatingPilot =====",
+    "volume_file": "03_VOLUME_03.md"
   },
   "routing": {
     "gpt_group": "A-M"

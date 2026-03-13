@@ -1,12 +1,12 @@
 {
   "id": "gu-ai-assisted-metabolomics-sample-preparation-enha",
   "poster_id": "CHS-RD2026-Gu-H-AIAssistedMetabolomicsPrep",
-  "researcher": "Haiwei Gu",
-  "researcher_last_name": "Gu",
   "title": "AI-Assisted Metabolomics Sample Preparation Enhances Analytical Accuracy and Result Reliability",
+  "submitter_name": "Haiwei Gu",
+  "submitter_last_name": "Gu",
+  "authors_full": "Ximeng Liu, Lingjun Li, Shiquan Cui, Michael Jang, Haiwei Gu*.",
+  "authors_short": "Ximeng Liu Lingjun Li Shiquan Cui Michael Jang Haiwei Gu.",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Sample preparation",
     "Metabolomics",
@@ -25,97 +25,85 @@
     "interpretable-ml",
     "chemical-descriptors",
     "chemaxon",
-    "metaboanalyst",
-    "reproducibility",
-    "throughput",
-    "analytical chemistry",
-    "bioinformatics/ai",
-    "serum sample preparation (no/vacuum/n2 drying)",
-    "untargeted lc–ms (orbitrap)",
-    "targeted lc–ms/ms (triple quadrupole, mrm)",
-    "interpretable machine-learning with chemical descriptors",
-    "stated",
-    "accuracy",
-    "targeted",
-    "model",
-    "sensitivity",
-    "chemical",
-    "metabolite",
-    "metabolites",
-    "confusion",
-    "matrix",
-    "test"
+    "metaboanalyst"
   ],
   "summary": {
-    "hook": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias.",
-    "summary_30s": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias. The team compares no drying vs vacuum drying vs N₂ drying in serum, uses untargeted Orbitrap LC–MS to detect global drying-related shifts, then validates key pathway impacts with targeted triple-quadrupole LC–MS/MS (MRM; n=4). An interpretable machine-learning model links drying sensitivity to chemical properties and predicts metabolite drying sensitivity with 87.5% test accuracy, aiming to improve throughput and reproducibility.",
-    "talktrack_2m": [
-      "Focus: Identify metabolites most affected by drying and link their vulnerability to underlying chemical features.",
-      "Approach: Population: Serum samples (aliquots). Primary outcome: Drying-related changes in metabolite profiles (global and pathway-level) and ML-predicted drying sensitivity.",
-      "Finding: Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy.",
-      "Why it matters: Authors’ stated conclusions: The framework uses AI to identify drying-sensitive metabolites and relate sensitivity to chemical features, informing more robust sample-prep design and improving throughput and reproducibility in metabolomics. Implications (poster-grounded): Drying can introduce systematic, condition-dependent bias in metabolomics that may distort biological interpretations. An interpretable ML model can help anticipate which metabolites are at risk, allowing researchers to redesign prep steps (or interpret results cautiously) to improve analytical accuracy and reliability. Mechanism/explanation (ONLY if stated): Drying may selectively deplete metabolites and cause incomplete reconstitution; chemical features help explain vulnerability. Connections to prior work (ONLY if referenced): Not stated on poster"
-    ],
+    "hook": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing...",
+    "summary_30s": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias.",
+    "audience_versions": {
+      "general": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias.",
+      "undergrad": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Experimental comparison of sample-prep conditions \\+ analytical chemistry workflow \\+ ML prediction.. * Targeted validation: n=4 (MRM mode) If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Experimental comparison of sample-prep conditions \\+ analytical chemistry workflow \\+ ML prediction.. * Targeted validation: n=4 (MRM mode) Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing...",
+      "researcher": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Experimental comparison of sample-prep conditions \\+ analytical chemistry workflow \\+ ML prediction.. * Targeted validation: n=4 (MRM mode) Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing...",
+      "clinician": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy. For clinicians, the main value is whether the findings could inform care decisions, screening...",
+      "community": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Drying can introduce systematic, condition-dependent bias in metabolomics that may distort biological interpretations. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution... Drying can introduce systematic, condition-dependent bias in metabolomics that may distort biological interpretations. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within nutrition, metabolism &..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution...",
+      "what_they_did": "Experimental comparison of sample-prep conditions \\+ analytical chemistry workflow \\+ ML prediction.. * Targeted validation: n=4 (MRM mode)",
+      "what_they_found": "Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy.",
+      "why_it_matters": "Drying can introduce systematic, condition-dependent bias in metabolomics that may distort biological interpretations.",
+      "one_smart_follow_up": "How do you operationally define “drying sensitivity” for a metabolite—what metric and threshold created the class labels?"
+    },
     "key_numbers": [
-      "* Targeted validation: n=4 (MRM mode).",
+      "Targeted validation: n=4 (MRM mode).",
       "Targeted LC–MS/MS validation (MRM; n=4) indicates drying significantly impacts key metabolic pathways.",
       "Model test accuracy = 0.875 (87.5%) with confusion matrix [[22,1],[4,13]].",
       "Tools used include Python 3.12, Chemaxon descriptors, and MetaboAnalyst 6.0.",
-      "The team compares no drying vs vacuum drying vs N₂ drying in serum, uses untargeted Orbitrap LC–MS to detect global drying-related shifts, then validates key pathway impacts wit...",
-      "An interpretable machine-learning model links drying sensitivity to chemical properties and predicts metabolite drying sensitivity with 87.5% test accuracy, aiming to improve th..."
+      "An interpretable machine-learning model links drying sensitivity to chemical properties and predicts metabolite drying..."
     ],
     "takeaways": [
-      "Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy.",
+      "Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical...",
       "Untargeted PCA indicates that drying alters the metabolite profile (no drying vs vacuum drying vs N₂ drying separate in PCA space).",
       "Targeted analysis (MRM; n=4) indicates drying significantly impacts key metabolic pathways (pathway panels shown; exact numeric changes not printed)."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What exact definition/labeling rule did you use for “drying sensitivity” (binary threshold? continuous score?)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "In the PCA, which component separates no-drying from dried samples most strongly, and what metabolites load heavily on that component?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "Did you validate the model on an external dataset or across different instruments/labs?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "For a typical metabolomics lab, what’s your recommended decision rule: when to avoid drying, when to use vacuum vs N₂, and how to reconstitute?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Extend beyond serum to other matrices or to multi-omics sample prep",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Move from binary classification to predicting a continuous sensitivity score or expected loss fraction",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Releasing a curated list of drying-sensitive metabolites and recommended protocol adjustments",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies AI-Assisted Metabolomics Sample Preparation Enhances Analytical Accuracy and Result Reliability. The main point is: Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy.",
-      "clinician": "For practice-facing attendees, the poster highlights Drying is described as potentially selectively depleting metabolites and causing incomplete reconstitution, introducing systematic bias and compromising analytical accuracy.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster addresses a common metabolomics sample-prep step—drying—and shows that it can selectively deplete metabolites and cause incomplete reconstitution, introducing systematic bias. The team compares no drying vs vacuum drying vs N₂ drying in serum, uses untargeted Orbitrap LC–MS to detect global drying-related shifts, then validates key pathway impacts with targeted triple-quadrupole LC–MS/MS (MRM; n=4). An interpretable machine-learning model links drying sensitivity to chemical properties and predicts metabolite drying sensitivity with 87.5% test accuracy, aiming to improve throughput and reproducibility.",
-      "funder": "The project addresses AI-Assisted Metabolomics Sample Preparation Enhances Analytical Accuracy and Result Reliability and already reports measurable signals such as * Targeted validation: n=4 (MRM mode)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How do you operationally define “drying sensitivity” for a metabolite—what metric and threshold created the class labels?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How do you operationally define “drying sensitivity” for a metabolite—what metric and threshold created the class labels?",
+        "What were the exact drying parameters (time, temperature, vacuum settings, N₂ flow rate) and the reconstitution protocol?",
+        "What LC–MS settings were used on the Orbitrap (ion mode, column, gradient), and how did you ensure comparability across conditions?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Gu.pptx2.md",
-    "source_type": "markdown"
+    "source_file_name": "Gu.pptx2.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Gu-H-AIAssistedMetabolomicsPrep",
+    "source_file": "markdown-posters/Gu.pptx2.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Gu-H-AIAssistedMetabolomicsPrep =====",
+    "volume_file": "02_VOLUME_02.md"
   },
   "routing": {
     "gpt_group": "A-M"

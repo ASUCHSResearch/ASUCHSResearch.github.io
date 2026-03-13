@@ -1,12 +1,12 @@
 {
   "id": "carpenter-promoting-engagement-optimization-digital-just-t",
   "poster_id": "CHS-RD2026-Carpenter-S-EngagementJITAIOptimization",
-  "researcher": "Stephanie M. Carpenter",
-  "researcher_last_name": "Carpenter",
   "title": "Promoting Engagement Through the Optimization of Digital Just-in-Time Adaptive Health Interventions",
+  "submitter_name": "Stephanie M. Carpenter",
+  "submitter_last_name": "Carpenter",
+  "authors_full": "Lessons Learned Paper (in preparation): Stephanie M. Carpenter, Stuart Case, Elizabeth Gerwe, Mia Liza A. Lustria, Laura Reid Marks, Karen MacDonell, Sylvie Naar, & Yan Wang",
+  "authors_short": "Lessons Learned Paper  Stephanie M. Carpenter Stuart Case Elizabeth Gerwe Mia Liza A. Lustria Laura Reid Marks Karen MacDonell Sylvie Naar & Yan Wang",
   "category": "Digital Health & Research Technology",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Adaptive digital interventions",
     "Engagement",
@@ -25,97 +25,85 @@
     "hiv",
     "young-adults",
     "gamification",
-    "reciprocity",
-    "personalized-feedback",
-    "retention",
-    "digital health",
-    "behavioral intervention optimization",
-    "mhealth",
-    "implementation/engagement science",
-    "feasibility study",
-    "micro-randomized trial (twice daily for 30 days)",
-    "ecological momentary assessment (4/day)",
-    "fisher's exact test (retention factors)",
-    "attrition",
-    "sample",
-    "stated",
-    "time",
-    "wear",
-    "non-retained",
-    "retained",
-    "skyn",
-    "standard"
+    "reciprocity"
   ],
   "summary": {
-    "hook": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV.",
-    "summary_30s": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV. The team tested engagement strategies at onboarding (standard vs engagement), using reciprocity rewards and personalized feedback delivered through a gamified smartphone app plus message strategy, while collecting daily ecological momentary assessments (EMAs). Preliminary results show 20% overall attrition after baseline and substantially higher attrition in the standard condition (37%) than in the engagement condition (17%); retention was associated with several person-level factors including income, sensation-seeking, mental health symptom severity, and extraversion.",
-    "talktrack_2m": [
-      "Focus: Develop and optimize an engagement-focused JITAI to increase wear time of the Skyn alcohol biosensor among young adults with HIV.",
-      "Approach: Population: Young adults (18–29) with HIV; baseline sample n=49. Primary outcome: Proximal: Skyn biosensor wear time within last 12 hours.",
-      "Finding: Baseline sample: n=49 young adults (18–29) with HIV completed baseline session.",
-      "Why it matters: Authors’ stated conclusions: Retention is lower without engagement strategies; person-level factors are associated with retention; MRT and usability analyses are ongoing. Implications (poster-grounded): Adding engagement strategies at onboarding (gamified app + message strategy) may reduce attrition in studies requiring ongoing wearable use among young adults with HIV. Practical barriers (unstable housing, financial concerns, device difficulties) can undermine participation and need to be addressed in design and compensation structures. Mechanism/explanation (ONLY if stated): Reciprocity leverages a tendency to return favors; personalized feedback increases awareness and provides a concrete improvement target. * Connections to prior work (ONLY if referenced): Not stated on poster (no citations listed beyond funding and ClinicalTrials.gov)."
-    ],
+    "hook": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn...",
+    "summary_30s": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV.",
+    "audience_versions": {
+      "general": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV.",
+      "undergrad": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Feasibility study using micro-randomized trial (MRT) design to optimize JITAI elements.. * Baseline n=49 If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Feasibility study using micro-randomized trial (MRT) design to optimize JITAI elements.. * Baseline n=49 Baseline sample: n=49 young adults (18–29) with HIV completed baseline session. It is most useful to read this poster through the lens of study design...",
+      "researcher": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Feasibility study using micro-randomized trial (MRT) design to optimize JITAI elements.. * Baseline n=49 Baseline sample: n=49 young adults (18–29) with HIV completed baseline session. Adding engagement strategies at onboarding (gamified app \\+ message strategy)...",
+      "clinician": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Baseline sample: n=49 young adults (18–29) with HIV completed baseline session. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Adding engagement strategies at onboarding (gamified app \\+ message strategy) may reduce attrition in studies requiring ongoing wearable use among young adults with HIV. For community partners, the key question is who benefits, who might be left out, and how the...",
+      "leader": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a... Adding engagement strategies at onboarding (gamified app \\+ message strategy) may reduce attrition in studies requiring ongoing wearable use among young adults with HIV. For leaders, the main lens is whether this work is ready for scale, support, implementation..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a...",
+      "what_they_did": "Feasibility study using micro-randomized trial (MRT) design to optimize JITAI elements.. * Baseline n=49",
+      "what_they_found": "Baseline sample: n=49 young adults (18–29) with HIV completed baseline session.",
+      "why_it_matters": "Adding engagement strategies at onboarding (gamified app \\+ message strategy) may reduce attrition in studies requiring ongoing wearable use among young adults with HIV.",
+      "one_smart_follow_up": "How were participants assigned to Standard (69%) vs Engagement (31%)—randomization, availability, or staged rollout?"
+    },
     "key_numbers": [
-      "* Baseline n=49.",
-      "Proximal wear-time outcome assessed in last 12 hours; distal outcome assessed at 1-month follow-up; an MRT diagram notes daily randomizations “for 30 days.”",
+      "Baseline n=49.",
+      "Proximal wear-time outcome assessed in last 12 hours; distal outcome assessed at 1-month follow-up; an MRT diagram notes...",
       "Young adults (18–29) with HIV; baseline sample n=49.",
       "Baseline n=49; onboarding conditions: Standard 69% vs Engagement 31%.",
-      "Overall attrition 20% post-baseline.",
-      "Attrition higher in Standard (37%) than Engagement (17%)."
+      "Overall attrition 20% post-baseline."
     ],
     "takeaways": [
       "Baseline sample: n=49 young adults (18–29) with HIV completed baseline session.",
       "Onboarding condition distribution: Standard 69% vs Engagement 31%.",
       "Attrition: 20% attrition following baseline (overall)."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What was the exact operational definition of “wear time within last 12 hours” (thresholds, missingness rules)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "Attrition was 37% in Standard vs 17% in Engagement—what do you think drove the improvement (app, messages, rewards, or combination)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "Did you adjust for multiple comparisons in the retention factor analyses, or treat these as exploratory?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "If a clinic wanted to deploy this, what is the minimal viable engagement package (reciprocity, feedback, gamification, or a subset)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "When will the full MRT optimization results (when/for whom) be available, and what outcomes will they prioritize",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Test adaptive engagement that responds to early signs of dropout risk (EMA nonresponse, low wear time)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Integrate additional sensors (stress, location) to improve timing of prompts while preserving privacy",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Promoting Engagement Through the Optimization of Digital Just-in-Time Adaptive Health Interventions. The main point is: Baseline sample: n=49 young adults (18–29) with HIV completed baseline session.",
-      "clinician": "For practice-facing attendees, the poster highlights Baseline sample: n=49 young adults (18–29) with HIV completed baseline session.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes a micro-randomized trial (MRT) feasibility study aimed at optimizing a just-in-time adaptive intervention (JITAI) to increase wear time of a wrist-worn alcohol biosensor (Skyn) among young adults with HIV. The team tested engagement strategies at onboarding (standard vs engagement), using reciprocity rewards and personalized feedback delivered through a gamified smartphone app plus message strategy, while collecting daily ecological momentary assessments (EMAs). Preliminary results show 20% overall attrition after baseline and substantially higher attrition in the standard condition (37%) than in the engagement condition (17%); retention was associated with several person-level factors including income, sensation-seeking, mental health symptom severity, and extraversion.",
-      "funder": "The project addresses Promoting Engagement Through the Optimization of Digital Just-in-Time Adaptive Health Interventions and already reports measurable signals such as * Baseline n=49."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How were participants assigned to Standard (69%) vs Engagement (31%)—randomization, availability, or staged rollout?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How were participants assigned to Standard (69%) vs Engagement (31%)—randomization, availability, or staged rollout?",
+        "What exactly counts as “wear time” in the last 12 hours (minutes threshold, handling of charging/off-wrist time)?",
+        "What were the two daily microrandomization time points, and what contextual data (EMA/sensor) were used to decide eligibility at each point?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Carpenter.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "Carpenter.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Carpenter-S-EngagementJITAIOptimization",
+    "source_file": "markdown-posters/Carpenter.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Carpenter-S-EngagementJITAIOptimization =====",
+    "volume_file": "05_VOLUME_05.md"
   },
   "routing": {
     "gpt_group": "A-M"

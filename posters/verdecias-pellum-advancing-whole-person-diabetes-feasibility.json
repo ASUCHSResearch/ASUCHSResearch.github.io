@@ -1,12 +1,12 @@
 {
   "id": "verdecias-pellum-advancing-whole-person-diabetes-feasibility",
   "poster_id": "CHS-RD2026-Verdecias-Pellum-N-HRSNScreeningDSME",
-  "researcher": "Niko Verdecias-Pellum",
-  "researcher_last_name": "Verdecias-Pellum",
   "title": "ADVANCING WHOLE PERSON DIABETES CARE: FEASIBILITY OF EMBEDDING SOCIAL NEEDS SCREENING INTO DIABETES SELF-MANAGEMENT EDUCATION DELIVERY",
+  "submitter_name": "Niko Verdecias-Pellum",
+  "submitter_last_name": "Verdecias-Pellum",
+  "authors_full": "Dr. Niko Verdecias-Pellum, DrPH, MPH; Assistant Professor; Population Health",
+  "authors_short": "Dr. Niko Verdecias-Pellum et al.",
   "category": "Clinical Care & Decision Support",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Diabetes",
     "Health Related Social Needs",
@@ -25,87 +25,81 @@
     "cfir",
     "qualitative",
     "feasibility",
-    "health equity/policy/population health",
-    "nutrition/metabolic health and chronic disease",
-    "health care systems/delivery/workforce innovation",
-    "qualitative multiple case study",
-    "semi-structured interviews",
-    "thematic coding (inductive then deductive)",
-    "cfir-guided analysis",
-    "stated",
-    "referral",
-    "facilitators",
-    "questions",
-    "text",
-    "community",
-    "community-based",
-    "partnerships"
+    "health equity/policy/population health"
   ],
   "summary": {
-    "hook": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings.",
-    "summary_30s": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings. Semi-structured interviews with DSME facilitators and organizational leaders across three urban and rural community-based organizations highlight challenges in current DSME structures—especially limited flexibility to address real-time social needs, absence of systematic screening/referral, and resource strain. The poster also identifies opportunities: DSME intake/enrollment as a practical moment for brief screening and referral planning, and community partnerships that support sustainability through shared responsibilities and trust. The conclusion is that integrating HRSN screening into DSME workflows is feasible and valuable, but requires navigator/facilitator training, cross-sector partnerships, and reimbursement mechanisms.",
-    "talktrack_2m": [
-      "Focus: To assess the feasibility of integrating HRSN screening and referral pathways into DSME delivered in community-based settings.",
-      "Approach: Population: DSME facilitators and organizational leaders Primary outcome: Feasibility of integrating HRSN screening/referral into DSME; barriers and contextual determinants",
-      "Finding: DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not systematically assess HRSN.",
-      "Why it matters: Authors’ stated conclusions: Integrating HRSN screening into DSME workflows is feasible and valuable while maintaining program fidelity; training navigators/DSME facilitators supports early identification and referrals; cross-sector partnerships and reimbursement mechanisms are key to sustain integration; CBOs are an ideal setting to address HRSN alongside DSME support. Implications (poster-grounded): Embedding brief screening at DSME intake/enrollment could operationalize social-needs identification and improve referral planning. Programs may need workflow redesign plus capacity supports to avoid overburdening facilitators. Sustained implementation likely depends on partnerships and reimbursement mechanisms (explicitly stated). Mechanism/explanation (ONLY if stated): Not stated on poster (no causal mechanism described beyond feasibility/engagement/retention logic). * Connections to prior work (ONLY if referenced): Poster cites a “Full Publication” and provides full reference: Verdecias-Pellum, N.; D’Apollito, G.; Lohr, A.M.; Rascón, A.M.; Palmer, KNB."
-    ],
+    "hook": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into...",
+    "summary_30s": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings.",
+    "audience_versions": {
+      "general": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings.",
+      "undergrad": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... Qualitative multiple case study. 15 DSME facilitators and organizational leaders If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... Qualitative multiple case study. 15 DSME facilitators and organizational leaders DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do...",
+      "researcher": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... Qualitative multiple case study. 15 DSME facilitators and organizational leaders DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do...",
+      "clinician": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not... For clinicians, the main value is whether the findings could inform care...",
+      "community": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... Embedding brief screening at DSME intake/enrollment could operationalize social-needs identification and improve referral planning. For community partners, the key question is who benefits, who might be left out, and how the work could translate into...",
+      "leader": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways... Embedding brief screening at DSME intake/enrollment could operationalize social-needs identification and improve referral planning. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways...",
+      "what_they_did": "Qualitative multiple case study. 15 DSME facilitators and organizational leaders",
+      "what_they_found": "DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not...",
+      "why_it_matters": "Embedding brief screening at DSME intake/enrollment could operationalize social-needs identification and improve referral planning.",
+      "one_smart_follow_up": "Which HRSN domains (food, housing, transportation, utilities, safety, etc.) were most commonly raised by facilitators in your interviews?"
+    },
     "key_numbers": [
       "15 DSME facilitators and organizational leaders"
     ],
     "takeaways": [
-      "DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not systematically assess HRSN.",
+      "DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs...",
       "A facilitator quote emphasizes that participants may stop attending due to unmet life needs (“…it’s just…interest…survival.”).",
-      "Conclusion: Integrating HRSN screening into DSME workflows is feasible and valuable while maintaining program fidelity; training navigators/DSME facilitators supports early identification and referrals; cross-sector partnerships and reimbursement mechanisms are key to sustain integration; CBOs are an ideal setting to address HRSN while providing DSME support."
+      "Conclusion: Integrating HRSN screening into DSME workflows is feasible and valuable while maintaining program fidelity; training navigators/DSME facilitators supports..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What specific HRSN screening tool(s) are you proposing to embed (items/domains, length, language options)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "Among the challenges you list, which was most frequently emphasized: rigidity, lack of referral processes, resource strain, or attrition?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How many coders participated in thematic analysis, and how did you ensure consistency (codebook, consensus, inter-coder checks)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What is your recommended workflow for HRSN screening and referrals during DSME intake (who asks, what tool, where documented)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Planning a pilot implementation study to test screening at intake with process measures (time, uptake, referral completion)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Partner with payers or health systems to test reimbursement models for social-needs navigation embedded in DSME",
-        "ideal_partner": "payers or health systems",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Integrate digital tools (tablets/texting platforms) for screening and referral tracking in CBOs",
-        "ideal_partner": "Digital tools partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies ADVANCING WHOLE PERSON DIABETES CARE: FEASIBILITY OF EMBEDDING SOCIAL NEEDS SCREENING INTO DIABETES SELF-MANAGEMENT EDUCATION DELIVERY. The main point is: DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not systematically assess HRSN.",
-      "clinician": "For practice-facing attendees, the poster highlights DSME programs improve health behaviors, but HRSN (e.g., food insecurity, housing instability, transportation) can hinder DSME engagement and outcomes; many DSME programs do not systematically assess HRSN.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster presents a qualitative multiple case study evaluating whether it is feasible to integrate health-related social needs (HRSN) screening and referral pathways into diabetes self-management education (DSME) delivered in community-based settings. Semi-structured interviews with DSME facilitators and organizational leaders across three urban and rural community-based organizations highlight challenges in current DSME structures—especially limited flexibility to address real-time social needs, absence of systematic screening/referral, and resource strain. The poster also identifies opportunities: DSME intake/enrollment as a practical moment for brief screening and referral planning, and community partnerships that support sustainability through shared responsibilities and trust. The conclusion is that integrating HRSN screening into DSME workflows is feasible and valuable, but requires navigator/facilitator training, cross-sector partnerships, and reimbursement mechanisms.",
-      "funder": "The project addresses ADVANCING WHOLE PERSON DIABETES CARE: FEASIBILITY OF EMBEDDING SOCIAL NEEDS SCREENING INTO DIABETES SELF-MANAGEMENT EDUCATION DELIVERY and already reports measurable signals such as 15 DSME facilitators and organizational leaders"
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "Which HRSN domains (food, housing, transportation, utilities, safety, etc.) were most commonly raised by facilitators in your interviews?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "Which HRSN domains (food, housing, transportation, utilities, safety, etc.) were most commonly raised by facilitators in your interviews?",
+        "What does DSME “intake and enrollment” look like at your partner CBOs, and where exactly could a brief screen fit?",
+        "How did you select the three CBO case sites (urban vs rural)—what characteristics were you aiming to capture?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Verdecias-Pellum 2026 Poster (002).md",
-    "source_type": "markdown"
+    "source_file_name": "Verdecias-Pellum 2026 Poster (002).md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Verdecias-Pellum-N-HRSNScreeningDSME",
+    "source_file": "markdown-posters/Verdecias-Pellum 2026 Poster (002).md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Verdecias-Pellum-N-HRSNScreeningDSME =====",
+    "volume_file": "04_VOLUME_04.md"
   },
   "routing": {
     "gpt_group": "N-Z"

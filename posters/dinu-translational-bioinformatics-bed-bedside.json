@@ -1,12 +1,12 @@
 {
   "id": "dinu-translational-bioinformatics-bed-bedside",
   "poster_id": "CHS-RD2026-Dinu-V-TranslationalBioinformaticsBedside",
-  "researcher": "Valentin Dinu",
-  "researcher_last_name": "Dinu",
   "title": "Translational Bioinformatics: From Bed to Bedside",
+  "submitter_name": "Valentin Dinu",
+  "submitter_last_name": "Dinu",
+  "authors_full": "Valentin Dinu, PhD",
+  "authors_short": "Valentin Dinu",
   "category": "Infectious Disease, Genomics & Bioinformatics",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Translational Bioinformatics",
     "Biomedical Informatics",
@@ -25,98 +25,79 @@
     "metabolomics",
     "pharmacogenomics",
     "substance abuse",
-    "databases",
-    "statistical analysis",
-    "visualization",
-    "machine learning",
-    "artificial intelligence",
-    "health disparities",
-    "genomics training",
-    "cloud-based analysis",
-    "genomic networks",
-    "proteomic networks",
-    "pagerank",
-    "biomedical informatics, data science, and digital health",
-    "statistical analysis and visualization",
-    "machine learning and artificial intelligence",
-    "cloud-based genomic/proteomic network analysis",
-    "pagerank-inspired genomic analysis (as stated)",
-    "stated",
-    "genomic",
-    "analysis",
-    "clinical",
-    "methods",
-    "questions",
-    "translational",
-    "bioinformatics",
-    "listed",
-    "proteomic",
-    "your",
-    "networks"
+    "databases"
   ],
   "summary": {
-    "hook": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s).",
-    "summary_30s": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s). It also emphasizes health disparities and genomics training, plus cloud-based analysis of genomic/proteomic networks, including an approach framed as “Harnessing the power of the Google Search PageRank Algorithm for genomic data analysis.” A set of collaborator logos is included, suggesting a network of research partners.",
-    "talktrack_2m": [
-      "Focus: Present a translational bioinformatics research portfolio and key themes (“From Bed to Bedside”).",
-      "Approach: Population: Not stated on poster Primary outcome: Not stated on poster (portfolio overview)",
-      "Finding: The poster outlines a translational bioinformatics focus “From Bed to Bedside.”",
-      "Why it matters: Authors’ stated conclusions: Not stated on poster (no explicit conclusion section). Implications (poster-grounded): The poster positions translational bioinformatics as enabling movement “from bed to bedside,” using data science methods applied to genomic, clinical, and proteomic/network contexts. It signals interest in both biomedical applications (multiple disease areas) and population/education-oriented aims (health disparities and genomics training). Mechanism/explanation (ONLY if stated): Not stated on poster Connections to prior work (ONLY if referenced): Not stated on poster (some embedded screenshots/figures appear to reference external work, but text is too small to confirm specifics)."
-    ],
+    "hook": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis...",
+    "summary_30s": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s).",
+    "audience_versions": {
+      "general": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s).",
+      "undergrad": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... Research program / portfolio overview (not a single study). Not stated on poster If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... Research program / portfolio overview (not a single study). Not stated on poster The poster outlines a translational bioinformatics focus “From Bed to Bedside.” It is most useful to read this poster through the lens of study design, interpretation, and what the next...",
+      "researcher": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... Research program / portfolio overview (not a single study). Not stated on poster The poster outlines a translational bioinformatics focus “From Bed to Bedside.” The poster positions translational bioinformatics as enabling movement “from bed to bedside,” using data...",
+      "clinician": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... The poster outlines a translational bioinformatics focus “From Bed to Bedside.” For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... The poster positions translational bioinformatics as enabling movement “from bed to bedside,” using data science methods applied to genomic, clinical, and proteomic/network... For community partners, the key question is who benefits, who might be left out, and how...",
+      "leader": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data... The poster positions translational bioinformatics as enabling movement “from bed to bedside,” using data science methods applied to genomic, clinical, and proteomic/network... For leaders, the main lens is whether this work is ready for scale, support..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data...",
+      "what_they_did": "Research program / portfolio overview (not a single study). Not stated on poster",
+      "what_they_found": "The poster outlines a translational bioinformatics focus “From Bed to Bedside.”",
+      "why_it_matters": "The poster positions translational bioinformatics as enabling movement “from bed to bedside,” using data science methods applied to genomic, clinical, and proteomic/network...",
+      "one_smart_follow_up": "When you say “Translational Bioinformatics: From Bed to Bedside,” what are the typical translational steps your work focuses on?"
+    },
     "key_numbers": [],
     "takeaways": [
       "The poster outlines a translational bioinformatics focus “From Bed to Bedside.”",
       "It highlights data science methods and applications for genomic and clinical data management and analysis.",
-      "Research areas include disease biomarkers with modalities such as genomic sequencing, microarrays, metabolomics; and domains including pharmacogenomics and substance abuse."
+      "Research areas include disease biomarkers with modalities such as genomic sequencing, microarrays, metabolomics; and domains including pharmacogenomics and substance..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: Is this poster intended to summarize one specific study, or your broader research program/portfolio?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "Which disease area listed (cancer, Alzheimer’s, diabetes, AMD, etc.) has the most mature findings or deployments right now?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "What validation strategies do you use (external cohorts, cross-site replication, prospective validation)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "Which parts of your work are closest to clinical implementation today, and what are the remaining barriers?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Looking for collaborators with specific datasets (EHR-linked biobanks, metabolomics cohorts, imaging-genomics)",
-        "ideal_partner": "Data or analytics partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Clarify tool or resource could a partner help build next (pipeline, dashboard, shared registry, training program)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Pilot your methods in a clinical workflow (e.g., pharmacogenomics decision support)",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Translational Bioinformatics: From Bed to Bedside. The main point is: The poster outlines a translational bioinformatics focus “From Bed to Bedside.”",
-      "clinician": "For practice-facing attendees, the poster highlights The poster outlines a translational bioinformatics focus “From Bed to Bedside.”",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster is an overview of translational bioinformatics work led by Valentin Dinu (ASU CHS), highlighting data science methods for genomic and clinical data management/analysis and several application areas (biomarkers, pharmacogenomics/substance abuse, and diseases including cancer and Alzheimer’s). It also emphasizes health disparities and genomics training, plus cloud-based analysis of genomic/proteomic networks, including an approach framed as “Harnessing the power of the Google Search PageRank Algorithm for genomic data analysis.” A set of collaborator logos is included, suggesting a network of research partners.",
-      "funder": "The project addresses Translational Bioinformatics: From Bed to Bedside and outlines a clear problem, approach, and next-step opportunity."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "When you say “Translational Bioinformatics: From Bed to Bedside,” what are the typical translational steps your work focuses on?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "When you say “Translational Bioinformatics: From Bed to Bedside,” what are the typical translational steps your work focuses on?",
+        "What kinds of “genomic and clinical data” do you most often integrate (EHR \\+ sequencing, claims \\+ omics, registries)?",
+        "In your biomarker work, what’s your typical pipeline from raw omics data to candidate biomarkers?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Dinu.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "Dinu.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Dinu-V-TranslationalBioinformaticsBedside",
+    "source_file": "markdown-posters/Dinu.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Dinu-V-TranslationalBioinformaticsBedside =====",
+    "volume_file": "08_VOLUME_08.md"
   },
   "routing": {
     "gpt_group": "A-M"

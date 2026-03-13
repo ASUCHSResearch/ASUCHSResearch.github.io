@@ -260,7 +260,8 @@
     .card-meta {
       color: var(--text);
       font-size: 14px;
-      font-weight: 650;
+      font-weight: 600;
+      line-height: 1.35;
     }
 
     .card-copy {
@@ -402,9 +403,10 @@
 
     .hero-author {
       color: var(--text);
-      font-size: 1.02rem;
-      font-weight: 650;
-      white-space: nowrap;
+      font-size: 0.98rem;
+      font-weight: 600;
+      white-space: normal;
+      line-height: 1.35;
     }
 
     .hero-category {
@@ -671,7 +673,7 @@
     <main class="app" id="appShell">
       <aside class="panel directory">
         <p class="section-label">Poster Directory</p>
-        <input id="searchInput" class="search" type="search" placeholder="Search by title, researcher, or category">
+        <input id="searchInput" class="search" type="search" placeholder="Search by title, authors, or category">
         <div id="categoryFilters" class="filter-row" aria-live="polite"></div>
         <div class="directory-meta">
           <span id="resultCount">Loading posters…</span>
@@ -687,8 +689,7 @@
   </div>
 
   <script>
-    const GPT_URL_AM = "https://chatgpt.com/g/g-69b0c92ff1f48191b51b8974be391c37-chs-2026-research-day-posters-a-m";
-    const GPT_URL_NZ = "https://chatgpt.com/g/g-69b109ac0a7c8191b2cdf3bab8bff2b3-chs-2026-research-day-posters-n-z";
+    const GPT_URL = "https://chatgpt.com/g/g-69b466d3f6688191b7444b1c91137694-chs-research-day-2026-poster-companion";
     const STORAGE_KEY = "chs-research-day-companion-preferences";
 
     const state = {
@@ -727,19 +728,19 @@
         label: "Quick overview",
         build(poster) {
           return [
-            "I am standing in front of a CHS Research Day poster.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Give me a quick overview so I can get up to speed fast before talking to the presenter.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `Audience: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "1. One short plain-language overview for this audience.",
+            "2. Three bullets only: what they did, what they found, why it matters.",
+            "3. One sentence I can say to the presenter that shows I understand the poster.",
             "",
-            "Give me a quick, attendee-friendly overview of this poster.",
-            "Then give me:",
-            "1. A short plain-language explanation for this audience.",
-            "2. Three bullets: what they did, what they found, why it matters.",
-            "3. One sentence I can say to the presenter that shows I get it."
+            "Constraints:",
+            "- Keep the whole response under 120 words.",
+            "- Use the tone guidance exactly.",
+            "- Stay grounded in this exact poster."
           ].join("\n");
         }
       },
@@ -747,39 +748,40 @@
         label: "Smart questions",
         build(poster) {
           return [
-            "I am at a CHS Research Day poster and want better-than-generic questions.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Give me questions that will help me have a richer conversation with the presenter.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `Audience: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "- Return exactly 3 questions.",
+            "- Put each question on its own line.",
             "",
-            "Give me:",
-            "1. Three thoughtful questions I can ask the presenter.",
-            "2. For each question, tell me why it is a good question.",
-            "3. For each question, tell me what a strong answer might sound like.",
-            "4. One bonus collaboration-probe question."
+            "Constraints:",
+            "- Do not answer the questions.",
+            "- Do not explain why the questions are good.",
+            "- Make the questions specific to this poster and this audience.",
+            "- Keep each question concise and easy to scan."
           ].join("\n");
         }
       },
-      impact: {
-        label: "Why it matters",
+      relevance: {
+        label: "Why this matters to me",
         build(poster) {
           return [
-            "Help me understand why this CHS Research Day poster matters.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Explain why this poster is relevant to me in my current audience role.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `Audience: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "- 4 bullets only.",
+            "- Bullet 1: why someone like me should care.",
+            "- Bullet 2: what to listen for when talking to the presenter.",
+            "- Bullet 3: one practical relevance point.",
+            "- Bullet 4: one opener question I could use.",
             "",
-            "Please give me:",
-            "1. Why this work matters for this audience.",
-            "2. Who could benefit from it or care about it.",
-            "3. One or two practical implications.",
-            "4. One sentence I could use to explain the importance to someone else."
+            "Constraints:",
+            "- Keep each bullet under 18 words.",
+            "- Make the response audience-specific, not generic."
           ].join("\n");
         }
       },
@@ -787,38 +789,39 @@
         label: "Things to explore",
         build(poster) {
           return [
-            "I want to ask thoughtful follow-up questions about this CHS Research Day poster.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Help me see what is worth probing or clarifying when I talk to the presenter.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `Audience: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "1. Three bullets: the main uncertainties, assumptions, or open questions.",
+            "2. Two respectful follow-up questions I could ask.",
+            "3. One short sentence on what could strengthen the work in a next step.",
             "",
-            "Please give me:",
-            "1. The main uncertainties, open questions, or things worth clarifying.",
-            "2. Two respectful questions I could ask the presenter about those areas.",
-            "3. One idea for what could strengthen this work in a next step."
+            "Constraints:",
+            "- Prefer poster-specific uncertainties over generic future work.",
+            "- Keep the whole response under 140 words."
           ].join("\n");
         }
       },
-      collab: {
-        label: "Collaboration ideas",
+      engage: {
+        label: "Engagement ideas",
         build(poster) {
           return [
-            "I want to explore a collaboration around this CHS Research Day poster.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Help me engage more meaningfully with the presenter based on my audience role.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `My audience / role: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "- 4 bullets only.",
+            "- Bullet 1: a good opener.",
+            "- Bullet 2: one angle I should focus on in the conversation.",
+            "- Bullet 3: one way someone in my role could connect this poster to their interests or work.",
+            "- Bullet 4: one useful follow-up action after the conversation.",
             "",
-            "Please:",
-            "1. Suggest two or three collaboration angles.",
-            "2. Tell me what kind of partner would be useful for each.",
-            "3. Draft a short sentence I can say to the presenter to open that conversation.",
-            "4. Suggest one concrete next step for a follow-up meeting."
+            "Constraints:",
+            "- Do not assume formal collaboration unless it fits this audience.",
+            "- Keep each bullet concise and actionable."
           ].join("\n");
         }
       },
@@ -826,19 +829,19 @@
         label: "Plain language",
         build(poster) {
           return [
-            "I need a simpler explanation of this CHS Research Day poster.",
+            ...getPromptContextBlock(poster),
+            "Task:",
+            "Explain this poster in plain language for this audience.",
             "",
-            `Title: ${poster.title}`,
-            `Researcher: ${poster.researcher}`,
-            `Poster ID: ${poster.poster_id || "Not listed"}`,
-            `Audience: ${getAudienceLabel(state.audience)}`,
-            `Tone: ${getToneLabel(state.tone)}`,
+            "Output format:",
+            "1. One short paragraph in plain language.",
+            "2. One sentence on why it matters.",
+            "3. One metaphor or analogy only if it genuinely helps.",
+            "4. One quick question I can ask if I only have 20 seconds.",
             "",
-            "Please:",
-            "1. Rewrite the poster in plain, non-jargony language for this audience.",
-            "2. Give me one sentence on why it matters.",
-            "3. Give me one metaphor or analogy if it fits.",
-            "4. Give me one question I can ask if I only have 20 seconds."
+            "Constraints:",
+            "- Avoid unexplained jargon and acronyms unless they are necessary.",
+            "- Keep the full response under 110 words."
           ].join("\n");
         }
       }
@@ -983,10 +986,13 @@
 
         const haystack = [
           item.title,
-          item.researcher,
-          item.researcher_last_name,
+          item.authors_full,
+          item.authors_short,
+          item.submitter_name,
+          item.submitter_last_name,
           item.category,
           item.one_liner,
+          ...(item.keywords || []),
           ...(item.tags || [])
         ].join(" ").toLowerCase();
 
@@ -1045,7 +1051,7 @@
         button.className = `poster-card${state.selected && state.selected.id === item.id ? " active" : ""}`;
         button.innerHTML = `
           <h3>${escapeHtml(item.title)}</h3>
-          <div class="card-meta">${escapeHtml(item.researcher)}</div>
+          <div class="card-meta">${escapeHtml(item.authors_full || item.authors_short || "")}</div>
           <div class="card-copy">${escapeHtml(item.category || "")}</div>
         `;
         button.addEventListener("click", () => {
@@ -1087,36 +1093,77 @@
       return TONE_OPTIONS.find((option) => option.value === value)?.label || value;
     }
 
-    function getAudienceCopy(poster) {
-      const versions = poster.summary.audience_versions || {};
-      switch (state.audience) {
+    function getAudiencePromptRules(value) {
+      switch (value) {
         case "undergrad":
-          return versions.student || poster.summary.summary_30s;
+          return "Assume limited domain knowledge. Emphasize learning value, research process, and approachable next questions.";
         case "grad":
-          return versions.student || poster.summary.summary_30s;
+          return "Assume some research training. Emphasize methods, interpretation, limitations, and good next-step questions.";
         case "researcher":
-          return versions.clinician || poster.summary.summary_30s;
+          return "Emphasize rigor, assumptions, methods, interpretation, and what would matter to another researcher.";
         case "clinician":
-          return versions.clinician || poster.summary.summary_30s;
+          return "Emphasize practical relevance, patient or care-setting implications, and what would matter in practice.";
         case "community":
-          return versions.community || poster.summary.summary_30s;
+          return "Emphasize community relevance, accessibility, impact, and who benefits or could be left out.";
         case "leader":
-          return versions.funder || poster.summary.summary_30s;
+          return "Emphasize implementation value, scale, support needs, and what would matter for decisions or investment.";
         case "general":
         default:
-          return poster.summary.summary_30s;
+          return "Use plain language, minimal jargon, and focus on what the work is, what was found, and why it matters.";
       }
+    }
+
+    function getTonePromptRules(value) {
+      switch (value) {
+        case "direct":
+          return "Use short sentences, tight bullets, and no filler.";
+        case "curious":
+          return "Sound exploratory and conversational, while staying concise.";
+        case "skeptical":
+          return "Be respectful but probing. Surface caveats, assumptions, and uncertainties clearly.";
+        case "friendly":
+        default:
+          return "Be warm, clear, and approachable without sounding vague.";
+      }
+    }
+
+    function getPromptContextBlock(poster) {
+      return [
+        "I am using the CHS Research Day Poster Companion.",
+        "",
+        "Use the poster in the knowledge files with this exact identity:",
+        `POSTER_ID: ${poster.gpt_reference?.poster_id || poster.poster_id || "Not listed"}`,
+        `SOURCE_FILE: ${poster.gpt_reference?.source_file || poster.assets?.source_file_name || "Not listed"}`,
+        `START_ANCHOR: ${poster.gpt_reference?.start_anchor || "Not listed"}`,
+        `TITLE: ${poster.title}`,
+        `AUTHORS: ${poster.authors_full}`,
+        `CATEGORY: ${poster.category || "Not listed"}`,
+        "",
+        `Audience: ${getAudienceLabel(state.audience)}`,
+        `Audience guidance: ${getAudiencePromptRules(state.audience)}`,
+        `Tone: ${getToneLabel(state.tone)}`,
+        `Tone guidance: ${getTonePromptRules(state.tone)}`,
+        "",
+        "Stay grounded in this exact poster. If the poster match is unclear, say so briefly.",
+      ];
+    }
+
+    function getAudienceCopy(poster) {
+      const versions = poster.summary.audience_versions || {};
+      return versions[state.audience] || versions.general || poster.summary.summary_30s;
+    }
+
+    function getAudienceQuestions(poster) {
+      const questionSets = poster.summary.what_to_ask || {};
+      return questionSets[state.audience] || questionSets.general || [];
     }
 
     function getGptUrl(poster) {
-      if (poster?.routing?.gpt_group === "N-Z") {
-        return GPT_URL_NZ;
-      }
-      return GPT_URL_AM;
+      return GPT_URL;
     }
 
     function getRouteLabel(poster) {
-      return poster?.routing?.gpt_group === "N-Z" ? "N–Z GPT" : "A–M GPT";
+      return "Poster Companion GPT";
     }
 
     function renderDetail() {
@@ -1149,9 +1196,12 @@
           <div>
             <div class="hero-title-row">
               <h2>${escapeHtml(poster.title)}</h2>
-              <div class="hero-author">${escapeHtml(poster.researcher)}</div>
             </div>
+            <div class="hero-author">${escapeHtml(poster.authors_full || poster.authors_short || "")}</div>
             <div class="hero-category">${escapeHtml(poster.category || "")}</div>
+            <div class="pill-row">
+              <span class="pill">Poster ID: ${escapeHtml(poster.poster_id || "Not listed")}</span>
+            </div>
             <div class="detail-tags">${createTagRow(poster.tags)}</div>
           </div>
           <div class="toolkit">
@@ -1181,13 +1231,26 @@
         <div class="detail-grid">
           <article class="detail-card">
             <p class="section-label">30-Second Summary</p>
-            <p>${escapeHtml(poster.summary.summary_30s)}</p>
+            <p>${escapeHtml(getAudienceCopy(poster))}</p>
           </article>
 
           <article class="detail-card">
-            <h3>Key Numbers</h3>
-            <ul>${(poster.summary.key_numbers || []).map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+            <h3>2-Minute Talk Track</h3>
+            <ul>
+              <li>${escapeHtml(poster.summary.talktrack_2m.what_this_is_about || "")}</li>
+              <li>${escapeHtml(poster.summary.talktrack_2m.what_they_did || "")}</li>
+              <li>${escapeHtml(poster.summary.talktrack_2m.what_they_found || "")}</li>
+              <li>${escapeHtml(poster.summary.talktrack_2m.why_it_matters || "")}</li>
+              <li>${escapeHtml(poster.summary.talktrack_2m.one_smart_follow_up || "")}</li>
+            </ul>
           </article>
+
+          ${(poster.summary.key_numbers || []).length ? `
+            <article class="detail-card">
+              <h3>Key Numbers</h3>
+              <ul>${(poster.summary.key_numbers || []).map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+            </article>
+          ` : ""}
 
           <article class="detail-card">
             <h3>Takeaways</h3>
@@ -1196,9 +1259,9 @@
 
           <article class="detail-card">
             <h3>Questions To Ask</h3>
-            ${(poster.summary.what_to_ask || []).map((item) => `
+            ${getAudienceQuestions(poster).map((item) => `
               <div class="question">
-                <strong>${escapeHtml(item.question)}</strong>
+                <strong>${escapeHtml(item)}</strong>
               </div>
             `).join("")}
           </article>
@@ -1281,7 +1344,7 @@
 
       try {
         const index = await fetchJson("./posters/index.json", "/posters/index.json");
-        state.index = [...index].sort((a, b) => a.researcher_last_name.localeCompare(b.researcher_last_name) || a.title.localeCompare(b.title));
+        state.index = [...index].sort((a, b) => a.submitter_last_name.localeCompare(b.submitter_last_name) || a.title.localeCompare(b.title));
         renderDirectory();
 
         const idFromUrl = readPosterIdFromUrl();

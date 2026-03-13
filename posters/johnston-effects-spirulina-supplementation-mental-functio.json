@@ -1,12 +1,12 @@
 {
   "id": "johnston-effects-spirulina-supplementation-mental-functio",
   "poster_id": "CHS-RD2026-Johnston-C-SpirulinaMentalFunctionRCT",
-  "researcher": "Carol S. Johnston",
-  "researcher_last_name": "Johnston",
   "title": "Effects of Spirulina Supplementation on Mental Function in Healthy Adults: a Randomized Controlled Trial",
+  "submitter_name": "Carol S. Johnston",
+  "submitter_last_name": "Johnston",
+  "authors_full": "Presenting: Carol S. Johnston; Co-Authors: Kelsey Clay (NTR MS candidate) and Hannah Wheeling (NTR Barrett Honors student)",
+  "authors_short": "Presenting Carol S. Johnston et al.",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Spirulina",
     "Randomized Controlled Trial",
@@ -25,93 +25,85 @@
     "cognitive-flexibility",
     "placebo",
     "nutrition",
-    "precision health / behavioral outcomes",
-    "cognitive assessment",
-    "randomized placebo-controlled trial",
-    "poms mood questionnaire",
-    "trail making test (tmt-a/tmt-b/tmt b–a)",
-    "paired t-tests (time effects)",
-    "repeated-measures anova (interaction)",
-    "stated",
-    "group",
-    "change",
-    "significant",
-    "time",
-    "baseline",
-    "effects",
-    "total",
-    "test"
+    "precision health / behavioral outcomes"
   ],
   "summary": {
     "hook": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo.",
-    "summary_30s": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo. Mood was assessed using the POMS questionnaire (six subscales), and cognition using the Trail Making Test (TMT-A, TMT-B, and TMT B–A). Results suggest modest improvements: some mood subscales show significant pre/post time effects, Total POMS shows a trend in the spirulina group (paired t-test p=0.074), and cognitive flexibility (TMT B–A) improved with a significant 8-week change difference (p=0.025), though between-group interactions were not significant by repeated-measures ANOVA (p>0.05).",
-    "talktrack_2m": [
-      "Focus: Evaluate whether spirulina supplementation improves mood and mental acuity in healthy adults compared with placebo.",
-      "Approach: Population: Healthy adults from a campus community. Primary outcome: Mood (POMS total and subscales).",
-      "Finding: Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074).",
-      "Why it matters: * Authors’ stated conclusions: Spirulina (3 g/day for 8 weeks) has modest impacts on mental function, indicated by reductions in mood states (POMS) and improved cognitive flexibility/visual attention/task switching (TMT)."
-    ],
+    "summary_30s": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo. Mood was assessed using the POMS questionnaire (six subscales), and cognition using the Trail Making Test (TMT-A, TMT-B, and TMT B–A).",
+    "audience_versions": {
+      "general": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo. Mood was assessed using the POMS questionnaire (six subscales), and cognition using the Trail Making Test (TMT-A, TMT-B, and TMT B–A).",
+      "undergrad": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Randomized controlled trial (supplement vs placebo).. Not stated on poster If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Randomized controlled trial (supplement vs placebo).. Not stated on poster Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074). It is most useful to read this poster through the lens of...",
+      "researcher": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Randomized controlled trial (supplement vs placebo).. Not stated on poster Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074). Spirulina may have small beneficial effects on mood domains...",
+      "clinician": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074). For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Spirulina may have small beneficial effects on mood domains and aspects of executive functioning in healthy adults over 8 weeks. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world...",
+      "leader": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with... Spirulina may have small beneficial effects on mood domains and aspects of executive functioning in healthy adults over 8 weeks. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with...",
+      "what_they_did": "Randomized controlled trial (supplement vs placebo).. Not stated on poster",
+      "what_they_found": "Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074).",
+      "why_it_matters": "Spirulina may have small beneficial effects on mood domains and aspects of executive functioning in healthy adults over 8 weeks.",
+      "one_smart_follow_up": "How many participants were randomized to SPIR vs CON, and what were baseline characteristics (age, sex, BMI, diet patterns)?"
+    },
     "key_numbers": [
       "8-week intervention.",
       "Spirulina dose 3 g/day for 8 weeks.",
       "Total POMS pre/post in spirulina group: p=0.074 (paired t-test).",
       "TMT B–A 8-week change: p=0.025.",
-      "Between-group interactions not significant (repeated-measures ANOVA; p>0.05).",
-      "This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo."
+      "Between-group interactions not significant (repeated-measures ANOVA; p>0.05)."
     ],
     "takeaways": [
       "Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074).",
       "POMS subscales (tension/anger/fatigue etc.) show asterisked significant time effects in some panels (exact p-values not printed).",
       "TMT outcomes: Asterisks denote significant pre/post time effects; however between-group interactions not significant (repeated-measures ANOVA p>0.05)."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What was the sample size per group (SPIR vs CON), and were groups balanced at baseline?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "Total POMS in SPIR showed p=0.074—what effect size does that correspond to (Cohen’s d) and what was the direction/magnitude?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "Did you adjust for multiple comparisons across six POMS subscales and multiple TMT outcomes?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "For healthy adults, what is the practical implication—should spirulina be recommended for mood/cognition, or is evidence still preliminary?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Planning a larger trial powered for group×time interactions and multiple-comparison control",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Add objective biomarkers (inflammation, oxidative stress, cortisol) to test mechanisms",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Extend duration beyond 8 weeks to see whether effects strengthen or plateau",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Effects of Spirulina Supplementation on Mental Function in Healthy Adults: a Randomized Controlled Trial. The main point is: Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074).",
-      "clinician": "For practice-facing attendees, the poster highlights Total POMS score: Spirulina group shows a trend toward improvement from baseline to week 8 (pre/post paired t-test p=0.074).",
-      "community": "For community partners, the poster connects the issue to real-world impact: This randomized controlled trial tested whether spirulina supplementation (3 g/day for 8 weeks) improves mood and cognitive performance in healthy adults compared with placebo. Mood was assessed using the POMS questionnaire (six subscales), and cognition using the Trail Making Test (TMT-A, TMT-B, and TMT B–A). Results suggest modest improvements: some mood subscales show significant pre/post time effects, Total POMS shows a trend in the spirulina group (paired t-test p=0.074), and cognitive flexibility (TMT B–A) improved with a significant 8-week change difference (p=0.025), though between-group interactions were not significant by repeated-measures ANOVA (p>0.05).",
-      "funder": "The project addresses Effects of Spirulina Supplementation on Mental Function in Healthy Adults: a Randomized Controlled Trial and already reports measurable signals such as 8-week intervention."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How many participants were randomized to SPIR vs CON, and what were baseline characteristics (age, sex, BMI, diet patterns)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How many participants were randomized to SPIR vs CON, and what were baseline characteristics (age, sex, BMI, diet patterns)?",
+        "How did you ensure blinding—were spirulina and placebo capsules matched in appearance/smell?",
+        "How was compliance assessed (pill counts, diaries, biomarkers)?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Johnston resize.pdf.md",
-    "source_type": "markdown"
+    "source_file_name": "Johnston resize.pdf.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Johnston-C-SpirulinaMentalFunctionRCT",
+    "source_file": "markdown-posters/Johnston resize.pdf.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Johnston-C-SpirulinaMentalFunctionRCT =====",
+    "volume_file": "05_VOLUME_05.md"
   },
   "routing": {
     "gpt_group": "A-M"

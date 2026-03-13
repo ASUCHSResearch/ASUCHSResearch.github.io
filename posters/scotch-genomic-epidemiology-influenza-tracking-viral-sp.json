@@ -1,12 +1,12 @@
 {
   "id": "scotch-genomic-epidemiology-influenza-tracking-viral-sp",
   "poster_id": "CHS-RD2026-Scotch-M-GenomicEpiInfluenzaFlyways",
-  "researcher": "Matthew Scotch",
-  "researcher_last_name": "Scotch",
   "title": "Genomic Epidemiology of Influenza A: Tracking Viral Spread from Avian Flyways to Human Communities",
+  "submitter_name": "Matthew Scotch",
+  "submitter_last_name": "Scotch",
+  "authors_full": "Matthew Scotch¹˒²; Temitope OC Faleye²; Angelica Urquidez-Negrete²; Bradley Bobbett²; Veronica Boyle²; Kelly Conard²; Lucy Sublasky-Rodriguez³; Vel Murugan²; Arvind Varsani²; Ann Fan⁴; Anne Justice-Allen⁴",
+  "authors_short": "Matthew Scotch et al.",
   "category": "Infectious Disease, Genomics & Bioinformatics",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Influenza A",
     "Genomic epidemiology",
@@ -25,103 +25,85 @@
     "h5",
     "h5n1",
     "d1.1",
-    "subclade-k",
-    "antigenic-drift",
-    "vaccine-effectiveness",
-    "campus-outbreak",
-    "dorm-clustering",
-    "biomedical informatics/data science/digital health",
-    "infectious disease",
-    "public health preparedness",
-    "genomic surveillance",
-    "phylogeographic transmission inference with bayes factors",
-    "phylodynamics for campus spread",
-    "evolutionary rate estimation",
-    "antigenic drift assessment (ha rbd substitutions)",
-    "epitope modeling for ve",
-    "wild bird surveillance reporting",
-    "transmission",
-    "surveillance",
-    "campus",
-    "stated",
-    "antigenic",
-    "spread",
-    "central",
-    "rate",
-    "flyway",
-    "subclade",
-    "substitutions"
+    "subclade-k"
   ],
   "summary": {
-    "hook": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific.",
-    "summary_30s": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific. It highlights a rapid campus expansion of an influenza subclade K following a spike in student health diagnoses in November 2025, with evidence consistent with multiple introductions and onward campus-to-community transmission. Quantitative highlights include a mapped “Decisive Bayes factor support” of 20,243 for pairwise transmission, an estimated median evolutionary rate of 7.93×10⁻³ substitutions/site/year, and an inferred cryptic circulation period of 6–16 months for H5N1 D1.1.",
-    "talktrack_2m": [
-      "Focus: Track influenza A viral spread using genomic epidemiology from avian flyways into human communities, including campus-to-community dynamics.",
-      "Approach: Population: Wild birds (species examples listed) and human cases (student health diagnoses). Primary outcome: Evidence for transmission pathways (flyways and community), evolutionary rate estimates, and clustering patterns.",
-      "Finding: Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward spread.",
-      "Why it matters: Authors’ stated conclusions: Genomic surveillance can reveal hidden influenza spread pathways across flyways and into human communities; Central flyway can serve as a hub; campus subclade expansion shows multiple introductions and onward spread; antigenic drift and rapid evolution underscore challenges for control. Implications (poster-grounded): Surveillance should integrate wild-bird flyway dynamics with human-community monitoring to detect cryptic circulation and spillover pathways. Campus residence structure can shape transmission dynamics and may be an important target for public health interventions. Mechanism/explanation (ONLY if stated): Not stated on poster (mechanistic transmission pathways are inferred via genomics and flyway movement). Connections to prior work (ONLY if referenced): * Reference list includes a 2026 Euro Surveillance manuscript on Subclade K and an under-review manuscript on HPAI H5 clade 2.3.4.4b genotype D1.1 across North American flyways (fall 2024 migration)."
-    ],
+    "hook": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary...",
+    "summary_30s": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific.",
+    "audience_versions": {
+      "general": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific.",
+      "undergrad": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Genomic surveillance / phylogenetic and phylodynamic analysis (observational).. Not stated on poster (some counts appear as model-support values and rates, not sample counts) If you are new to research, this poster is a good example of how a question becomes...",
+      "grad": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Genomic surveillance / phylogenetic and phylodynamic analysis (observational).. Not stated on poster (some counts appear as model-support values and rates, not sample counts) Flyways & spread: The Central flyway is described as a secondary hub, initially a...",
+      "researcher": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Genomic surveillance / phylogenetic and phylodynamic analysis (observational).. Not stated on poster (some counts appear as model-support values and rates, not sample counts) Flyways & spread: The Central flyway is described as a secondary hub, initially a...",
+      "clinician": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward... For clinicians, the main value is whether the findings could inform care...",
+      "community": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Surveillance should integrate wild-bird flyway dynamics with human-community monitoring to detect cryptic circulation and spillover pathways. For community partners, the key question is who benefits, who might be left out, and how the work could translate...",
+      "leader": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a... Surveillance should integrate wild-bird flyway dynamics with human-community monitoring to detect cryptic circulation and spillover pathways. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a...",
+      "what_they_did": "Genomic surveillance / phylogenetic and phylodynamic analysis (observational).. Not stated on poster (some counts appear as model-support values and rates, not sample counts)",
+      "what_they_found": "Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward...",
+      "why_it_matters": "Surveillance should integrate wild-bird flyway dynamics with human-community monitoring to detect cryptic circulation and spillover pathways.",
+      "one_smart_follow_up": "What datasets feed into the “avian flyways → human communities” analysis (wild-bird sources, human surveillance sources, time ranges)?"
+    },
     "key_numbers": [
       "Timeline shown spanning Nov–Dec 2025; cryptic circulation inferred 6–16 months (for H5N1 D1.1).",
-      "Decisive Bayes factor support for pairwise flyway transmission shown as 20,243 for Pacific→Central and 20,243 for Central→Mississippi.",
+      "Decisive Bayes factor support for pairwise flyway transmission shown as 20,243 for Pacific→Central and 20,243 for...",
       "Median evolutionary rate for H5 HA estimated at 7.93×10⁻³ substitutions/site/year.",
       "H5N1 D1.1 likely circulated undetected for 6–16 months (cryptic transmission).",
-      "Antigenic drift: 10 subclade K HA substitutions in RBD/antigenic sites; epitope modeling predicts low VE vs vaccine strain (0.13).",
-      "Arizona surveillance: 6.5% H5 avian flu positivity in wild birds."
+      "Antigenic drift: 10 subclade K HA substitutions in RBD/antigenic sites; epitope modeling predicts low VE vs vaccine..."
     ],
     "takeaways": [
-      "Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward spread.",
+      "Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving...",
       "Transmission support: “Decisive Bayes factor support for pairwise transmission” is shown, with values 20,243 for Pacific→Central and 20,243 for Central→Mississippi.",
-      "Campus subclade expansion: “Rapid expansion of Subclade K on campus” with a spike in influenza diagnoses at Student Health in November 2025 (date callout 8 November 2025). Spread described as multiple introductions with onward campus-to-community spread (phylodynamics)."
+      "Campus subclade expansion: “Rapid expansion of Subclade K on campus” with a spike in influenza diagnoses at Student Health in November 2025 (date callout 8 November..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What specific influenza A lineage(s) are analyzed in each section (H5N1 D1.1 vs subclade K), and how are they related?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "The poster frames the Pacific flyway as the primary source for D1.1 expansion—what is the evidence supporting that directionality?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How sensitive are the Bayes factor transmission results to sampling bias across flyways (uneven sequence density)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What are the best actionable surveillance interventions suggested by your “hidden pathways” framing?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Integrate additional data streams (mobility, wastewater, bird banding/migration timing) with genomics",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Expand dorm/community social-network inference beyond residence to contact patterns",
-        "ideal_partner": "Patient or community partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Will the under-review D1.1 flyway expansion work be linked to human spillover/clinical outcomes in follow-on studies",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Genomic Epidemiology of Influenza A: Tracking Viral Spread from Avian Flyways to Human Communities. The main point is: Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward spread.",
-      "clinician": "For practice-facing attendees, the poster highlights Flyways & spread: The Central flyway is described as a secondary hub, initially a sink for introductions from the Pacific, then amplifying viral diversity and driving eastward spread.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster uses genomic surveillance to trace influenza A spread from avian flyways into human communities, with a focus on evidence that a Central flyway can act as a secondary hub after introductions from the Pacific. It highlights a rapid campus expansion of an influenza subclade K following a spike in student health diagnoses in November 2025, with evidence consistent with multiple introductions and onward campus-to-community transmission. Quantitative highlights include a mapped “Decisive Bayes factor support” of 20,243 for pairwise transmission, an estimated median evolutionary rate of 7.93×10⁻³ substitutions/site/year, and an inferred cryptic circulation period of 6–16 months for H5N1 D1.1.",
-      "funder": "The project addresses Genomic Epidemiology of Influenza A: Tracking Viral Spread from Avian Flyways to Human Communities and already reports measurable signals such as Timeline shown spanning Nov–Dec 2025; cryptic circulation inferred 6–16 months (for H5N1 D1.1)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "What datasets feed into the “avian flyways → human communities” analysis (wild-bird sources, human surveillance sources, time ranges)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "What datasets feed into the “avian flyways → human communities” analysis (wild-bird sources, human surveillance sources, time ranges)?",
+        "How did you define and detect “subclade K,” and what markers separate it from other clades?",
+        "What analysis framework produced the pairwise flyway transmission Bayes factors (Pacific→Central; Central→Mississippi)?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Scotch.md",
-    "source_type": "markdown"
+    "source_file_name": "Scotch.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Scotch-M-GenomicEpiInfluenzaFlyways",
+    "source_file": "markdown-posters/Scotch.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Scotch-M-GenomicEpiInfluenzaFlyways =====",
+    "volume_file": "05_VOLUME_05.md"
   },
   "routing": {
     "gpt_group": "N-Z"

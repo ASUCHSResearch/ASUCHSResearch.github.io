@@ -1,12 +1,12 @@
 {
   "id": "baker-advancing-southwest-safety-net-embedded-scientis",
   "poster_id": "CHS-RD2026-Baker-L-SSNESTaRCenter",
-  "researcher": "Lauren Baker",
-  "researcher_last_name": "Baker",
   "title": "Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center",
+  "submitter_name": "Lauren Baker",
+  "submitter_last_name": "Baker",
+  "authors_full": "Roshini Moodley Naidoo MBChB, MBA, MPH, Matthew Martin PhD, Lauren Baker MS, Marisa Domino PhD, Punam Ohri-Vachaspati, PhD, Adela Grando, PhD, Anita Murcko, MD, William Riley, PhD",
+  "authors_short": "Roshini Moodley Naidoo MBChB Matthew Martin PhD Lauren Baker MS Marisa Domino PhD Punam Ohri-Vachaspati Adela Grando Anita Murcko William Riley",
   "category": "Community Health, Policy & Health Systems",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Learning health systems",
     "Embedded science",
@@ -23,99 +23,87 @@
     "implementation",
     "training",
     "mentorship",
-    "arizona",
     "ahrq",
     "pcori",
-    "health services research",
-    "learning health systems",
-    "training & capacity building",
-    "health equity",
-    "program design",
-    "mentorship model",
-    "pipeline tracking (descriptive)",
-    "scholars",
-    "stated",
-    "embedded",
-    "ssne-star",
-    "enrollment",
-    "pipeline",
-    "scholar",
-    "cohort",
-    "safety",
-    "systems",
-    "active",
-    "chart"
+    "health services research"
   ],
   "summary": {
-    "hook": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations.",
-    "summary_30s": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations. The program uses three cores (Administration, Research Education, Research Data Analysis) plus structured mentorship (ASU research mentor + clinical mentor) and “Rapid Implementers” to help scholars disseminate findings into practice. Early results report 18 enrolled scholars (16 active) embedded across Arizona safety net systems—exceeding the original 12-scholar target—suggesting strong demand and growing cross-institutional collaboration.",
-    "talktrack_2m": [
-      "Focus: Equip embedded scholars to design, conduct, and disseminate/implement CER/PCOR projects within safety net systems.",
-      "Approach: Population: SSNE-STaR “Scholars” (embedded scientists/trainees) and their associated safety net clinical settings. Primary outcome: Not stated on poster (implied outcomes include enrollment, active embedding, and progress through project development pipeline).",
-      "Finding: Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems.",
-      "Why it matters: Authors’ stated conclusions: The SSNE-STaR Center addresses health disparities by training scholars, building infrastructure, and fostering equity-focused research; it is presented as a replicable model for improving healthcare in underserved populations. Implications (poster-grounded): A structured, mentored embedded scientist model can expand CER/PCOR capacity within safety net systems. Early enrollment exceeding target suggests strong demand and potential scalability. Mechanism/explanation (ONLY if stated): Program design uses three cores + dual-mentor model + rapid implementers to bridge research and practice. Connections to prior work (ONLY if referenced): The program is framed as an AHRQ/PCORI-funded Learning Health System Center and “one of 16” in the national program."
-    ],
+    "hook": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically...",
+    "summary_30s": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations.",
+    "audience_versions": {
+      "general": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations.",
+      "undergrad": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... Program description / training program report with early outcomes (Learning Health System Center).. 18 enrolled scholars; 16 active/embedded (Arizona) If you are new to research, this poster is a good example of how a question becomes a study and then a...",
+      "grad": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... Program description / training program report with early outcomes (Learning Health System Center).. 18 enrolled scholars; 16 active/embedded (Arizona) Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety...",
+      "researcher": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... Program description / training program report with early outcomes (Learning Health System Center).. 18 enrolled scholars; 16 active/embedded (Arizona) Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety...",
+      "clinician": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... A structured, mentored embedded scientist model can expand CER/PCOR capacity within safety net systems. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving... A structured, mentored embedded scientist model can expand CER/PCOR capacity within safety net systems. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within community health, policy &..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving...",
+      "what_they_did": "Program description / training program report with early outcomes (Learning Health System Center).. 18 enrolled scholars; 16 active/embedded (Arizona)",
+      "what_they_found": "Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems.",
+      "why_it_matters": "A structured, mentored embedded scientist model can expand CER/PCOR capacity within safety net systems.",
+      "one_smart_follow_up": "How do you define an “embedded scholar” in SSNE-STaR—what portion of time is embedded in the clinical system versus academic work?"
+    },
     "key_numbers": [
       "18 enrolled scholars; 16 active/embedded (Arizona).",
       "“Cohort: Enrollment Chart (2024–2026)” and “Scholar Research Development Pipeline (Aug 2024–Mar 2026)”.",
       "18 scholars enrolled; 16 active and embedded across Arizona safety net systems.",
       "Enrollment exceeded the original 12-scholar target.",
-      "Year-2 Rapid Implementers support dissemination and implementation.",
-      "Early results report 18 enrolled scholars (16 active) embedded across Arizona safety net systems—exceeding the original 12-scholar target—suggesting strong demand and growing cr..."
+      "Year-2 Rapid Implementers support dissemination and implementation."
     ],
     "takeaways": [
       "Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems.",
       "Enrollment exceeded the original 12-scholar target, suggesting strong demand for structured CER/PCOR training within clinical settings.",
-      "Scholars represent major partner organizations including Banner Health, Valleywise Health, District Medical Group, Phoenix Children’s Hospital, and Barrow Neurological Institute."
+      "Scholars represent major partner organizations including Banner Health, Valleywise Health, District Medical Group, Phoenix Children’s Hospital, and Barrow Neurological..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What are the eligibility criteria for becoming a Scholar, and how are scholars selected?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "The poster reports 18 enrolled and 16 active—what are the main reasons for non-active status (drops, role changes, time constraints)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How do you evaluate whether SSNE-STaR increases CER/PCOR capacity—pre/post measures, competencies, productivity, or implementation outcomes?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What are the practical benefits for safety net systems hosting scholars (short-term and long-term)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Define next evaluation milestones: publications, implemented interventions, measurable patient outcomes",
-        "ideal_partner": "Patient or community partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Looking for additional clinical partners (e.g., tribal health, community clinics) or topic-area collaborators",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Identify projects would benefit most from cross-site collaboration among the partner organizations",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center. The main point is: Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems.",
-      "clinician": "For practice-facing attendees, the poster highlights Since launch, SSNE-STaR enrolled 18 scholars, with 16 currently active and embedded across Arizona safety net health systems.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes SSNE-STaR, an AHRQ/PCORI-funded Learning Health System Center designed to build embedded CER/PCOR capacity within safety net organizations serving medically underserved populations. The program uses three cores (Administration, Research Education, Research Data Analysis) plus structured mentorship (ASU research mentor + clinical mentor) and “Rapid Implementers” to help scholars disseminate findings into practice. Early results report 18 enrolled scholars (16 active) embedded across Arizona safety net systems—exceeding the original 12-scholar target—suggesting strong demand and growing cross-institutional collaboration.",
-      "funder": "The project addresses Advancing the Southwest Safety Net Embedded Scientist Research and Training (SSNE-STaR) Center and already reports measurable signals such as 18 enrolled scholars; 16 active/embedded (Arizona)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How do you define an “embedded scholar” in SSNE-STaR—what portion of time is embedded in the clinical system versus academic work?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How do you define an “embedded scholar” in SSNE-STaR—what portion of time is embedded in the clinical system versus academic work?",
+        "What distinguishes the three cores (Administration, REC, RDAC) in day-to-day support, and what does a typical month look like for a scholar across these cores?",
+        "What CER/PCOR competencies are explicitly taught in the Research Education Core, and how are they assessed?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Baker.md",
-    "source_type": "markdown"
+    "source_file_name": "Baker.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Baker-L-SSNESTaRCenter",
+    "source_file": "markdown-posters/Baker.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Baker-L-SSNESTaRCenter =====",
+    "volume_file": "02_VOLUME_02.md"
   },
   "routing": {
     "gpt_group": "A-M"

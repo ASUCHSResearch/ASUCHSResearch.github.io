@@ -1,12 +1,12 @@
 {
   "id": "koskan-pilot-testing-digital-stories-reduce-covid",
   "poster_id": "CHS-RD2026-Koskan-A-DigitalStoriesVaccineHesitancy",
-  "researcher": "Alexis Koskan",
-  "researcher_last_name": "Koskan",
   "title": "PILOT TESTING DIGITAL STORIES TO REDUCE COVID-19 VACCINE HESITANCY AMONG HISPANIC PARENTS",
+  "submitter_name": "Alexis Koskan",
+  "submitter_last_name": "Koskan",
+  "authors_full": "Fernanda Lozano, MS, Sunny W. Kim, PhD, Michael Todd, PhD, Linda Larkey, PhD, Angela Valdez-Huizar, MD, Alexis Koskan, PhD",
+  "authors_short": "Fernanda Lozano Sunny W. Kim Michael Todd Linda Larkey Angela Valdez-Huizar Alexis Koskan",
   "category": "Community Health, Policy & Health Systems",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Digital storytelling",
     "Vaccine Hesitancy",
@@ -25,99 +25,85 @@
     "community-health-workers",
     "community-advisory-board",
     "vaccine-intention",
-    "child-vaccination",
-    "odds-ratio",
-    "relative-risk",
-    "public health",
-    "health communication",
-    "health equity",
-    "two-phase intervention development",
-    "phase i story creation (n=10) + cab selection (top 4)",
-    "phase ii randomized pilot (n=80)",
-    "surveys at baseline/post-test/2-month follow-up",
-    "follow-up focus groups",
-    "vaccine",
-    "parents",
-    "follow-up",
-    "control",
-    "stated",
-    "vaccination",
-    "hispanic",
-    "child",
-    "stories",
-    "group",
-    "intention"
+    "child-vaccination"
   ],
   "summary": {
-    "hook": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB).",
-    "summary_30s": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB). In Phase I, 10 formerly hesitant parents created digital stories and a community advisory board selected the top 4 for use. In Phase II, 80 Hispanic parents were randomized to DST vs control videos, with surveys at baseline, immediate post-test, and 2-month follow-up; results suggest DST increased vaccine intention more than control (Δ +1.2 vs +0.6) and parents who viewed DSTs were more likely to vaccinate their children (reported OR=5.20, RR=3.10) and at follow-up 50% vs 16% vaccinated (DST vs control).",
-    "talktrack_2m": [
-      "Focus: Explore feasibility, acceptability, and preliminary trends of using DSTs to address COVID-19 vaccine hesitancy among Hispanic parents (guided by TPB).",
-      "Approach: Population: Hispanic parents; Phase I includes formerly hesitant parents; Phase II includes 80 Hispanic parents randomized. Primary outcome: Vaccine intention change; child vaccination at follow-up; TPB construct changes.",
-      "Finding: Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy.",
-      "Why it matters: Authors’ stated conclusions: DST is feasible and acceptable and shows promise as a low-cost, scalable, culturally-tailored approach to address COVID-19 vaccine hesitancy among Hispanic parents; potentially applicable to other vaccines and health resources. Implications (poster-grounded): Narrative DST interventions may outperform standard health messages in persuasiveness for this population, as supported by focus group quotes and higher follow-up vaccination in the DST arm. Community co-creation (CHWs, CAB story selection) is integral to feasibility and cultural tailoring. Mechanism/explanation (ONLY if stated): Guided by TPB; DSTs produced emotional resonance and increased believability, which may influence TPB constructs (details not specified). Connections to prior work (ONLY if referenced): References to disparities literature and “past research explored DST to increase other vaccine uptake (HPV vaccine).” Two references listed: Anglin et al."
-    ],
+    "hook": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior...",
+    "summary_30s": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB). In Phase I, 10 formerly hesitant parents created digital stories and a community advisory board selected the top 4 for use.",
+    "audience_versions": {
+      "general": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB). In Phase I, 10 formerly hesitant parents created digital stories and a community advisory board selected the top 4 for use.",
+      "undergrad": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Two-phase intervention development \\+ randomized comparison (pilot RCT).. * Phase I: 10 formerly hesitant Hispanic parents created DSTs If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Two-phase intervention development \\+ randomized comparison (pilot RCT).. * Phase I: 10 formerly hesitant Hispanic parents created DSTs Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental...",
+      "researcher": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Two-phase intervention development \\+ randomized comparison (pilot RCT).. * Phase I: 10 formerly hesitant Hispanic parents created DSTs Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental...",
+      "clinician": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient...",
+      "community": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Narrative DST interventions may outperform standard health messages in persuasiveness for this population, as supported by focus group quotes and higher follow-up vaccination in... For community partners, the key question is who benefits, who might be left...",
+      "leader": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned... Narrative DST interventions may outperform standard health messages in persuasiveness for this population, as supported by focus group quotes and higher follow-up vaccination in... For leaders, the main lens is whether this work is ready for scale, support..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned...",
+      "what_they_did": "Two-phase intervention development \\+ randomized comparison (pilot RCT).. * Phase I: 10 formerly hesitant Hispanic parents created DSTs",
+      "what_they_found": "Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy.",
+      "why_it_matters": "Narrative DST interventions may outperform standard health messages in persuasiveness for this population, as supported by focus group quotes and higher follow-up vaccination in...",
+      "one_smart_follow_up": "How did you recruit the 10 “formerly hesitant” parents for Phase I, and what were the criteria for being “formerly hesitant”?"
+    },
     "key_numbers": [
-      "* Phase I: 10 formerly hesitant Hispanic parents created DSTs.",
-      "* Surveys: baseline, immediately post-intervention, and 2-month follow-up.",
+      "Phase I: 10 formerly hesitant Hispanic parents created DSTs.",
+      "Surveys: baseline, immediately post-intervention, and 2-month follow-up.",
       "Hispanic parents; Phase I includes formerly hesitant parents; Phase II includes 80 Hispanic parents randomized.",
       "Phase I: 10 formerly hesitant parents created DSTs; CAB selected top 4 stories.",
-      "Phase II: 80 Hispanic parents randomized (DST vs control).",
-      "Child vaccination at 2-month follow-up: 50% (DST) vs 16% (control)."
+      "Phase II: 80 Hispanic parents randomized (DST vs control)."
     ],
     "takeaways": [
       "Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy.",
-      "Authors’ stated conclusions: DST is feasible and acceptable and shows promise as a low-cost, scalable, culturally-tailored approach to address COVID-19 vaccine hesitancy among Hispanic parents; potentially applicable to other vaccines and health resources.",
+      "Authors’ stated conclusions: DST is feasible and acceptable and shows promise as a low-cost, scalable, culturally-tailored approach to address COVID-19 vaccine hesitancy...",
       "Implications (poster-grounded):"
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What were the exact vaccine intention and TPB construct scales (items, range), and how were Δ scores computed?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "The 2-month vaccination rates were 50% (DST) vs 16% (control)—what were the raw counts behind those percentages?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How did you handle participants who didn’t watch all assigned videos (dose/exposure measurement)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What would it take to scale DST delivery through clinics, schools, or community organizations?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Planning a larger RCT powered for confirmed vaccination outcomes and mediation analysis",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Test different dissemination channels (social media vs clinic waiting rooms vs CHW outreach) and compare effectiveness",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Tailor DSTs by parent subgroup (language preference, country of origin, trust level)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies PILOT TESTING DIGITAL STORIES TO REDUCE COVID-19 VACCINE HESITANCY AMONG HISPANIC PARENTS. The main point is: Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy.",
-      "clinician": "For practice-facing attendees, the poster highlights Background claim: Hispanic children are less likely to initiate/complete COVID-19 vaccine series, largely due to parental hesitancy.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes a two-phase project using digital storytelling (DST) to address COVID-19 vaccine hesitancy among Hispanic parents, guided by the Theory of Planned Behavior (TPB). In Phase I, 10 formerly hesitant parents created digital stories and a community advisory board selected the top 4 for use. In Phase II, 80 Hispanic parents were randomized to DST vs control videos, with surveys at baseline, immediate post-test, and 2-month follow-up; results suggest DST increased vaccine intention more than control (Δ +1.2 vs +0.6) and parents who viewed DSTs were more likely to vaccinate their children (reported OR=5.20, RR=3.10) and at follow-up 50% vs 16% vaccinated (DST vs control).",
-      "funder": "The project addresses PILOT TESTING DIGITAL STORIES TO REDUCE COVID-19 VACCINE HESITANCY AMONG HISPANIC PARENTS and already reports measurable signals such as * Phase I: 10 formerly hesitant Hispanic parents created DSTs."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How did you recruit the 10 “formerly hesitant” parents for Phase I, and what were the criteria for being “formerly hesitant”?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How did you recruit the 10 “formerly hesitant” parents for Phase I, and what were the criteria for being “formerly hesitant”?",
+        "What storytelling framework did you use to help parents create DSTs (script prompts, length, themes)?",
+        "How did the Community Advisory Board choose the “top 4” stories—what criteria (clarity, emotional resonance, cultural fit, accuracy)?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Koskan.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "Koskan.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Koskan-A-DigitalStoriesVaccineHesitancy",
+    "source_file": "markdown-posters/Koskan.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Koskan-A-DigitalStoriesVaccineHesitancy =====",
+    "volume_file": "01_VOLUME_01.md"
   },
   "routing": {
     "gpt_group": "A-M"

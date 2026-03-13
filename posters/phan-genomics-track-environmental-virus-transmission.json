@@ -1,12 +1,12 @@
 {
   "id": "phan-genomics-track-environmental-virus-transmission",
   "poster_id": "CHS-RD2026-Phan-M-GenomicsEnvironmentalVirusTracking",
-  "researcher": "My VT Phan",
-  "researcher_last_name": "Phan",
   "title": "Using genomics to track environmental virus transmission and evolution",
+  "submitter_name": "My VT Phan",
+  "submitter_last_name": "Phan",
+  "authors_full": "My VT Phan, PhD",
+  "authors_short": "My VT Phan",
   "category": "Infectious Disease, Genomics & Bioinformatics",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Environmental Virology",
     "Metagenomics",
@@ -25,98 +25,85 @@
     "bioinformatics",
     "viral-genomes",
     "infectious disease surveillance",
-    "public health preparedness",
-    "genomics",
-    "unbiased metagenomic sequencing",
-    "bioinformatic classification of viral reads",
-    "mosquito pooling (10–50 mosquitoes/pool)",
-    "dust/air sampling (clinic waiting area; passive air sampler)",
-    "comparative dust-source profiling",
-    "dust accumulation experiments under varied environmental conditions",
-    "phone dust accumulation experiment with/without charging (sequencing ongoing)",
-    "dust",
-    "virus",
-    "mosquito",
-    "accumulation",
-    "species",
-    "stated",
-    "environmental",
-    "sequencing",
-    "reads",
-    "viruses",
-    "mosquitoes",
-    "table"
+    "public health preparedness"
   ],
   "summary": {
-    "hook": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices.",
-    "summary_30s": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices. The mosquito surveillance work (in collaboration with Maricopa County Vector Control and ASU collaborators) uses pooled mosquitoes (10–50 per pool) and visualizes viral families detected as sequence-read heatmaps, while dust studies include clinic waiting-area air sampling and comparative dust sources (Phoenix garden dust, indoor robotic vacuum dust, passive air sampler dust) visualized in a treemap. A third line of work examines how environmental factors influence dust—and potentially virus—accumulation on phones/tablets, with ongoing metagenomic sequencing experiments under controlled conditions.",
-    "talktrack_2m": [
-      "Focus: Use unbiased metagenomics sequencing and bioinformatic analyses to track viruses across different environmental sample matrices (dust/air, mosquitoes) and use viral genome sequences to infer evolutionary history and transmission routes.",
-      "Approach: Population: * Mosquito pools (10–50 mosquitoes per pool sample). Primary outcome: Virus detection profiles by family across matrices; comparative patterns by mosquito species and dust source; dust accumulation under varying environmental conditions.",
-      "Finding: Metagenomics + bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes.",
-      "Why it matters: Authors’ stated conclusions: Viral genomes detected via unbiased metagenomics in diverse matrices can inform evolutionary history and transmission routes; three applied settings illustrate the approach (mosquito surveillance, dust virome profiling, and device dust dynamics). Implications (poster-grounded): Environmental surveillance across vectors and dust/air could enhance situational awareness of viral circulation and potential transmission routes. Understanding dust accumulation dynamics on devices may identify overlooked pathways for pathogen carriage in daily environments (the poster frames devices as dust/virus accumulation sites). Mechanism/explanation (ONLY if stated): Dust can carry pathogens and facilitate environmental transmission; small particles can reach lower respiratory tract. Dust accumulation influenced by temperature, humidity, AC/DC field, and surface material. Connections to prior work (ONLY if referenced): Prior work showed comparable virus profiles in chicken feces and dust from the same farms."
-    ],
+    "hook": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across...",
+    "summary_30s": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices.",
+    "audience_versions": {
+      "general": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices.",
+      "undergrad": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Methods / surveillance / environmental metagenomics (multi-application project; some experiments ongoing).. Not stated on poster for number of pools/samples; mosquito pool size is... If you are new to research, this poster is a good example of how a question...",
+      "grad": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Methods / surveillance / environmental metagenomics (multi-application project; some experiments ongoing).. Not stated on poster for number of pools/samples; mosquito pool size is... Metagenomics \\+ bioinformatics can track viruses across dust/air and...",
+      "researcher": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Methods / surveillance / environmental metagenomics (multi-application project; some experiments ongoing).. Not stated on poster for number of pools/samples; mosquito pool size is... Metagenomics \\+ bioinformatics can track viruses across dust/air and...",
+      "clinician": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Metagenomics \\+ bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes. For clinicians, the main value is whether the findings could inform care decisions, screening...",
+      "community": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Environmental surveillance across vectors and dust/air could enhance situational awareness of viral circulation and potential transmission routes. For community partners, the key question is who benefits, who might be left out, and how the work could...",
+      "leader": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes... Environmental surveillance across vectors and dust/air could enhance situational awareness of viral circulation and potential transmission routes. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes...",
+      "what_they_did": "Methods / surveillance / environmental metagenomics (multi-application project; some experiments ongoing).. Not stated on poster for number of pools/samples; mosquito pool size is...",
+      "what_they_found": "Metagenomics \\+ bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes.",
+      "why_it_matters": "Environmental surveillance across vectors and dust/air could enhance situational awareness of viral circulation and potential transmission routes.",
+      "one_smart_follow_up": "What does “unbiased metagenomics sequencing” mean in your workflow (shotgun sequencing vs targeted enrichment)?"
+    },
     "key_numbers": [
       "Not stated on poster for number of pools/samples; mosquito pool size is stated (10–50).",
-      "* Mosquito pools (10–50 mosquitoes per pool sample).",
+      "Mosquito pools (10–50 mosquitoes per pool sample).",
       "Mosquito pools (10–50 per pool) show virus-family patterns that vary by mosquito species (heatmap uses reads >1000 nt).",
       "Dust can carry pathogens; small dust particles (≤10 microns) can reach the lower respiratory tract.",
-      "Treemap compares kingdom-level composition (eukaryote/bacteria/virus) across garden, vacuum, and passive air sampler dust (reads >1000 nt).",
-      "The mosquito surveillance work (in collaboration with Maricopa County Vector Control and ASU collaborators) uses pooled mosquitoes (10–50 per pool) and visualizes viral families..."
+      "Treemap compares kingdom-level composition (eukaryote/bacteria/virus) across garden, vacuum, and passive air sampler..."
     ],
     "takeaways": [
       "Metagenomics + bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes.",
-      "Mosquitoes are vectors for serious human viruses (examples: West Nile virus, Zika virus); poster states “There is currently no vaccine and no effective treatments.” (no further specifics provided).",
+      "Mosquitoes are vectors for serious human viruses (examples: West Nile virus, Zika virus); poster states “There is currently no vaccine and no effective treatments.” (no...",
       "Mosquito pools show virus-family patterns that vary by mosquito species (heatmap with colored boxes highlighting patterns)."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What metagenomic protocols and bioinformatic pipelines were used (library prep, sequencing platform, host read removal, classifier, database)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "In Fig 1, which virus families dominate across mosquito pools, and which appear species-specific (as highlighted by colored boxes)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How do you confirm that detected viral reads represent true sample signal rather than index hopping or lab contamination?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "How could Maricopa County vector control use these data operationally (early warning, targeting interventions)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Extend this to time-series sampling to infer transmission directionality and seasonal dynamics",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Integrate mosquito virus genomes with human case data (where available) for transmission inference",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Expand dust sampling to additional urban microenvironments (schools, transit, gyms) for comparative virome profiling",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Using genomics to track environmental virus transmission and evolution. The main point is: Metagenomics + bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes.",
-      "clinician": "For practice-facing attendees, the poster highlights Metagenomics + bioinformatics can track viruses across dust/air and mosquito matrices; viral genomes can inform evolutionary history and transmission routes.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes three applications of unbiased metagenomic sequencing and bioinformatics to detect viruses and infer evolutionary history and transmission routes across environmental matrices, including mosquito pools, dust/air samples, and dust accumulation on electronic devices. The mosquito surveillance work (in collaboration with Maricopa County Vector Control and ASU collaborators) uses pooled mosquitoes (10–50 per pool) and visualizes viral families detected as sequence-read heatmaps, while dust studies include clinic waiting-area air sampling and comparative dust sources (Phoenix garden dust, indoor robotic vacuum dust, passive air sampler dust) visualized in a treemap. A third line of work examines how environmental factors influence dust—and potentially virus—accumulation on phones/tablets, with ongoing metagenomic sequencing experiments under controlled conditions.",
-      "funder": "The project addresses Using genomics to track environmental virus transmission and evolution and already reports measurable signals such as Not stated on poster for number of pools/samples; mosquito pool size is stated (10–50)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "What does “unbiased metagenomics sequencing” mean in your workflow (shotgun sequencing vs targeted enrichment)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "What does “unbiased metagenomics sequencing” mean in your workflow (shotgun sequencing vs targeted enrichment)?",
+        "Why did you choose the \\>1000 nt threshold for classifying reads in the heatmap/treemap figures?",
+        "How do you define a “virus identified” in these samples—read evidence only, contigs, or full genome reconstruction?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Phan.md",
-    "source_type": "markdown"
+    "source_file_name": "Phan.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Phan-M-GenomicsEnvironmentalVirusTracking",
+    "source_file": "markdown-posters/Phan.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Phan-M-GenomicsEnvironmentalVirusTracking =====",
+    "volume_file": "08_VOLUME_08.md"
   },
   "routing": {
     "gpt_group": "N-Z"

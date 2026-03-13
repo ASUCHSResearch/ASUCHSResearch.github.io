@@ -1,12 +1,12 @@
 {
   "id": "liu-evolution-therapy-precision-targeting-functional",
   "poster_id": "CHS-RD2026-Liu-L-PrecisionTargetingDivergentIntegrins",
-  "researcher": "Li Liu",
-  "researcher_last_name": "Liu",
   "title": "From Evolution to Therapy: Precision Targeting of Functionally Divergent Integrins",
+  "submitter_name": "Li Liu",
+  "submitter_last_name": "Liu",
+  "authors_full": "Shixi Sun¹, Yufeng Chen², Li Liu¹,³",
+  "authors_short": "Shixi Sun Yufeng Chen Li Liu",
   "category": "Clinical Care & Decision Support",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Integrins",
     "Rgd",
@@ -25,100 +25,84 @@
     "evolutionary-constraint",
     "drug-selectivity",
     "thrombosis",
-    "bleeding-risk",
-    "structure-mapping",
-    "biomedical informatics/data science (evolutionary bioinformatics)",
-    "precision therapeutics",
-    "cardiovascular/thrombosis",
-    "sequence collection (27 vertebrate taxa; 4 paralogs; 2 outgroups)",
-    "multiple sequence alignment",
-    "phylogeny inference and divergence time estimation",
-    "ancestral sequence reconstruction",
-    "maximum parsimony ancestral functional annotation (presence/absence)",
-    "structural mapping onto αiib–β3 binding pocket",
-    "ancestral",
-    "conserved",
-    "paralogs",
-    "vertebrate",
-    "regions",
-    "table",
-    "divergence",
-    "functional",
-    "stated",
-    "targeting",
-    "evolutionary",
-    "rgd-binding"
+    "bleeding-risk"
   ],
   "summary": {
-    "hook": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8).",
-    "summary_30s": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8). Using orthologs from 27 vertebrate species spanning about 450 million years, the authors reconstruct a time-calibrated phylogeny, infer ancestral sequences, and map conservation/divergence signals onto structural/functional domains (including the αIIb–β3 ligand-binding pocket). They conclude that many adverse effects (e.g., bleeding) may arise from drugs binding conserved interfaces shared across paralogs, and that targeting αIIb-specific derived regions could improve selectivity while preserving necessary shared functions.",
-    "talktrack_2m": [
-      "Focus: Explore whether evolutionary patterns of conservation/divergence across PS2 α-integrin paralogs can identify functionally important and subtype-specific regions relevant for selective therapeutic targeting.",
-      "Approach: Population: Orthologs of PS2 α-integrins (ITGA subunits αIIb, α5, αV, α8) from 27 representative vertebrate species. Primary outcome: Identification of conserved vs lineage-specific residues/regions; inferred ancestral functions; implications for selectivity targeting.",
-      "Finding: PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution.",
-      "Why it matters: Authors’ stated conclusions: Integrin-directed therapy failures (bleeding, limited selectivity, compensatory signaling, context-dependent effects) are likely linked to targeting conserved RGD-binding interfaces shared across PS2 paralogs; precision targeting should instead prioritize αIIb-specific lineage-derived regions to reduce bleeding risk while improving selectivity. Implications (poster-grounded): Evolutionary constraint metrics may help prioritize safer, more selective drug targets within integrin families. Structural mapping of lineage-specific substitutions can identify candidate regions for subtype-selective targeting strategies. Mechanism/explanation (ONLY if stated): Compensatory signaling among paralogs likely arises from conserved regions inherited from an ancestral broadly expressed RGD-binding receptor; off-target effects arise from non-selective binding to conserved interfaces. Connections to prior work (ONLY if referenced): References include Campbell et al."
-    ],
+    "hook": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived...",
+    "summary_30s": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8).",
+    "audience_versions": {
+      "general": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8).",
+      "undergrad": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... Evolutionary comparative analysis \\+ structural mapping (computational/phylogenetic framework).. 27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box) If you are new to research, this poster is a good example of how a question becomes a study and then...",
+      "grad": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... Evolutionary comparative analysis \\+ structural mapping (computational/phylogenetic framework).. 27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box) PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise...",
+      "researcher": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... Evolutionary comparative analysis \\+ structural mapping (computational/phylogenetic framework).. 27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box) PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise...",
+      "clinician": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient...",
+      "community": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... Evolutionary constraint metrics may help prioritize safer, more selective drug targets within integrin families. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from... Evolutionary constraint metrics may help prioritize safer, more selective drug targets within integrin families. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within clinical care & decision support."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from...",
+      "what_they_did": "Evolutionary comparative analysis \\+ structural mapping (computational/phylogenetic framework).. 27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box)",
+      "what_they_found": "PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution.",
+      "why_it_matters": "Evolutionary constraint metrics may help prioritize safer, more selective drug targets within integrin families.",
+      "one_smart_follow_up": "How exactly do you define the PS2 α-integrin group (domain architecture and key shared features like RGD-binding)?"
+    },
     "key_numbers": [
       "27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box).",
-      "\\~450 million years of vertebrate evolutionary history (described in introduction). Divergence times displayed in Figure 1 as Mya.",
+      "\\~450 million years of vertebrate evolutionary history (described in introduction). Divergence times displayed in Figure...",
       "Orthologs of PS2 α-integrins (ITGA subunits αIIb, α5, αV, α8) from 27 representative vertebrate species.",
-      "This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, p...",
-      "Using orthologs from 27 vertebrate species spanning about 450 million years, the authors reconstruct a time-calibrated phylogeny, infer ancestral sequences, and map conservation...",
-      "They conclude that many adverse effects (e.g., bleeding) may arise from drugs binding conserved interfaces shared across paralogs, and that targeting αIIb-specific derived regio..."
+      "Using orthologs from 27 vertebrate species spanning about 450 million years, the authors reconstruct a time-calibrated..."
     ],
     "takeaways": [
       "PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution.",
       "The MRCA of PS2 integrins likely functioned as a broadly expressed RGD-binding ECM receptor; conserved regions may explain compensatory signaling among paralogs.",
       "The platelet-restricted fibrinogen-binding function of αIIb is a derived innovation linked to vertebrate hemostasis."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What alignment and phylogenetic inference methods were used (software, substitution models, support metrics)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "What are the key duplication events you infer in early vertebrate evolution, and where do they appear on the time-calibrated phylogeny?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How sensitive is the phylogeny to alignment choices and domain trimming, especially in fast-evolving loops?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What would an “αIIb-specific, lineage-derived” drug concept look like (orthosteric vs allosteric vs antibody epitope)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Which disease-relevant cellular models will you use to test compensatory signaling among PS2 paralogs",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Planning site-specific positive selection tests (e.g., branch-site models), and which lineages are priorities",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Map candidate residues onto multiple integrin structures beyond αIIb–β3 (e.g., αV-containing heterodimers)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies From Evolution to Therapy: Precision Targeting of Functionally Divergent Integrins. The main point is: PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution.",
-      "clinician": "For practice-facing attendees, the poster highlights PS2 integrins originated before vertebrate evolution; four paralogs diverged through stepwise duplication during early vertebrate evolution.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster proposes an evolutionary framework to improve selectivity in integrin-targeted therapies by distinguishing highly conserved RGD-binding cores from lineage-derived, paralog-specific regions within the PS2 α-integrin group (αIIb, α5, αV, α8). Using orthologs from 27 vertebrate species spanning about 450 million years, the authors reconstruct a time-calibrated phylogeny, infer ancestral sequences, and map conservation/divergence signals onto structural/functional domains (including the αIIb–β3 ligand-binding pocket). They conclude that many adverse effects (e.g., bleeding) may arise from drugs binding conserved interfaces shared across paralogs, and that targeting αIIb-specific derived regions could improve selectivity while preserving necessary shared functions.",
-      "funder": "The project addresses From Evolution to Therapy: Precision Targeting of Functionally Divergent Integrins and already reports measurable signals such as 27 vertebrate species; 4 paralogs; 2 outgroups (listed in Methods box)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How exactly do you define the PS2 α-integrin group (domain architecture and key shared features like RGD-binding)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How exactly do you define the PS2 α-integrin group (domain architecture and key shared features like RGD-binding)?",
+        "What criteria did you use to choose the 27 representative vertebrate species and the two outgroups?",
+        "How did you build and quality-check your multiple sequence alignment for these integrins (domain boundaries, indel handling)?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Liu.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "Liu.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Liu-L-PrecisionTargetingDivergentIntegrins",
+    "source_file": "markdown-posters/Liu.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Liu-L-PrecisionTargetingDivergentIntegrins =====",
+    "volume_file": "03_VOLUME_03.md"
   },
   "routing": {
     "gpt_group": "A-M"

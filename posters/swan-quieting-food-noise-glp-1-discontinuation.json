@@ -1,12 +1,12 @@
 {
   "id": "swan-quieting-food-noise-glp-1-discontinuation",
   "poster_id": "CHS-RD2026-Swan-P-QuietingFoodNoiseGLP1",
-  "researcher": "Swan, PD",
-  "researcher_last_name": "Swan",
   "title": "Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program",
+  "submitter_name": "Swan, PD",
+  "submitter_last_name": "Swan",
+  "authors_full": "Swan¹, PD, PhD, FACSM, FTOS, Associate Professor; May², ML, MD, Faculty Associate Professor; Howell³, LA, PhD, ABPP, Clinical Health Division Chair; Lincenberg⁴, DL, Consultant, PsyD, LP, ABPP",
+  "authors_short": "Swan PD et al.",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "GLP-1",
     "Semaglutide",
@@ -25,93 +25,84 @@
     "raid-fn",
     "behavioral intervention",
     "off-ramp",
-    "precision health and personalized interventions",
-    "nutrition/metabolic health and chronic disease",
-    "health care systems/delivery/workforce innovation",
-    "randomized controlled feasibility trial",
-    "wait-list control with crossover",
-    "12-week online group mindful eating program",
-    "assessments at baseline/12 weeks/3 months/6 months",
-    "stated",
-    "eating",
-    "food",
-    "mindful",
-    "noise",
-    "reference",
-    "feasibility",
-    "text",
-    "questions",
-    "scale"
+    "precision health and personalized interventions"
   ],
   "summary": {
     "hook": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy.",
-    "summary_30s": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy. The rationale is that GLP-1s reduce appetite and “food noise” during use, but discontinuation often leads to renewed food noise, dysregulated eating, and weight regain—creating “behavioral chaos” without a behavioral plan. The study is a randomized, controlled feasibility trial (intervention vs wait-list control with crossover), measuring feasibility (recruitment, retention, adherence, satisfaction) and preliminary efficacy outcomes including food noise (RAID-FN), eating-related distress, anxiety/depression symptoms, and quality of life, with follow-ups at 3 and 6 months.",
-    "talktrack_2m": [
-      "Focus: Evaluate feasibility (recruitment, retention, adherence, satisfaction) of a 12-week online mindful eating program for adults discontinuing GLP-1 therapy.",
-      "Approach: Population: Adults who discontinued GLP-1 receptor agonist therapy within 2–3 weeks (no diabetes; no active eating disorder; interested in improving relationship with food). Primary outcome: Feasibility outcomes—recruitment rate, retention rate, session attendance/adherence, participant satisfaction.",
-      "Finding: This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster.",
-      "Why it matters: Authors’ stated conclusions: There are currently no evidence-based behavioral interventions designed as a clinically meaningful off-ramp following GLP-1 therapy; the presented mindful eating program is intended to provide structured support during discontinuation and inform future interventions reducing return to pre-medication behaviors. Implications (poster-grounded): Clinicians may need a “transition plan” for patients discontinuing GLP-1s because discontinuation is common and often followed by return of food noise, dysregulated eating, and weight regain. A scalable, skills-based online group program could fill an identified clinical gap during GLP-1 discontinuation by targeting upstream cognitive/attentional mechanisms (food noise) linked to eating behavior. Mechanism/explanation (ONLY if stated): GLP-1s quiet physiology (reduce appetite signaling, dampen reward salience, reduce intrusive food thoughts), but do not build durable self-regulation skills; mindful eating strengthens top-down processes (attentional control, interoceptive awareness, flexible decision-making) needed after pharmacologic support is withdrawn. Connections to prior work (ONLY if referenced): Poster includes eight references (KFF poll; JAMA Network Open discontinuation/reinitiation; STEP 1 extension; BMJ meta-analysis; Nutrients conceptual model; Cureus neurocircuit framing; Am I Hungry?® book; RAID-FN validation)."
-    ],
+    "summary_30s": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy.",
+    "audience_versions": {
+      "general": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy.",
+      "undergrad": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... Randomized controlled feasibility trial with wait-list control and crossover.. Not stated on poster If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... Randomized controlled feasibility trial with wait-list control and crossover.. Not stated on poster This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster. It is most useful to read this poster through the lens...",
+      "researcher": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... Randomized controlled feasibility trial with wait-list control and crossover.. Not stated on poster This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster. Clinicians may need a “transition plan” for patients...",
+      "clinician": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... Clinicians may need a “transition plan” for patients discontinuing GLP-1s because discontinuation is common and often followed by return of food noise, dysregulated eating, and... For community partners, the key question is who benefits, who might be left out...",
+      "leader": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist... Clinicians may need a “transition plan” for patients discontinuing GLP-1s because discontinuation is common and often followed by return of food noise, dysregulated eating, and... For leaders, the main lens is whether this work is ready for scale, support..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist...",
+      "what_they_did": "Randomized controlled feasibility trial with wait-list control and crossover.. Not stated on poster",
+      "what_they_found": "This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster.",
+      "why_it_matters": "Clinicians may need a “transition plan” for patients discontinuing GLP-1s because discontinuation is common and often followed by return of food noise, dysregulated eating, and...",
+      "one_smart_follow_up": "How do you define “food noise” in this study, and how does the RAID-FN Food Noise Inventory capture it?"
+    },
     "key_numbers": [
-      "* Intervention duration: 12 weeks (12 weekly sessions; 90 minutes each).",
-      "Adults who discontinued GLP-1 receptor agonist therapy within 2–3 weeks (no diabetes; no active eating disorder; interested in improving relationship with food).",
-      "Poster reports background statistics: 12% of adults have taken a GLP-1; 54% discontinue by 1 year; 72% within 2 years; 46–57% restart within 2 years; after stopping semaglutide,...",
-      "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy.",
-      "The study is a randomized, controlled feasibility trial (intervention vs wait-list control with crossover), measuring feasibility (recruitment, retention, adherence, satisfactio..."
+      "Intervention duration: 12 weeks (12 weekly sessions; 90 minutes each).",
+      "Adults who discontinued GLP-1 receptor agonist therapy within 2–3 weeks (no diabetes; no active eating disorder...",
+      "Poster reports background statistics: 12% of adults have taken a GLP-1; 54% discontinue by 1 year; 72% within 2 years...",
+      "This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for..."
     ],
     "takeaways": [
       "This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster.",
-      "The poster provides background statistics suggesting high GLP-1 uptake, high discontinuation, frequent re-initiation, and substantial weight regain after stopping semaglutide.",
-      "The poster proposes a conceptual model (“Chaos → Calm Adaptive Pathway Model”) in which discontinuation creates a vulnerability window; mindful eating is framed as building durable “top-down” self-regulation that complements pharmacologic “bottom-up” appetite suppression."
+      "The poster provides background statistics suggesting high GLP-1 uptake, high discontinuation, frequent re-initiation, and substantial weight regain after stopping...",
+      "The poster proposes a conceptual model (“Chaos → Calm Adaptive Pathway Model”) in which discontinuation creates a vulnerability window; mindful eating is framed as..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What feasibility benchmarks define success (minimum recruitment/retention/adherence/satisfaction thresholds)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "The poster cites 54% discontinuation by 1 year and 72% within 2 years—how does your study population compare to those broader user patterns?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "What strategies will you use to handle missing data across baseline, 12-week, 3-month, and 6-month assessments?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "How could clinicians operationalize an “off-ramp” plan in routine care—when should it start relative to stopping GLP-1s?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "If feasibility is supported, what would your next-step efficacy trial look like (sample size, endpoints, longer follow-up)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Partner with clinics prescribing GLP-1s to embed recruitment and off-ramp planning at the point of discontinuation",
-        "ideal_partner": "clinics prescribing GLP-1s",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Test program adaptations for people who discontinue due to side effects vs cost/access",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program. The main point is: This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster.",
-      "clinician": "For practice-facing attendees, the poster highlights This poster is primarily a protocol/rationale poster; empirical outcome results are Not stated on poster.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster proposes and tests the feasibility of a 12-week online mindful eating program as a structured “off-ramp” for adults who discontinue GLP-1 receptor agonist therapy. The rationale is that GLP-1s reduce appetite and “food noise” during use, but discontinuation often leads to renewed food noise, dysregulated eating, and weight regain—creating “behavioral chaos” without a behavioral plan. The study is a randomized, controlled feasibility trial (intervention vs wait-list control with crossover), measuring feasibility (recruitment, retention, adherence, satisfaction) and preliminary efficacy outcomes including food noise (RAID-FN), eating-related distress, anxiety/depression symptoms, and quality of life, with follow-ups at 3 and 6 months.",
-      "funder": "The project addresses Quieting Food Noise After GLP-1 Discontinuation: A Feasibility Study of a Novel Mindful Eating Program and already reports measurable signals such as * Intervention duration: 12 weeks (12 weekly sessions; 90 minutes each)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How do you define “food noise” in this study, and how does the RAID-FN Food Noise Inventory capture it?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How do you define “food noise” in this study, and how does the RAID-FN Food Noise Inventory capture it?",
+        "Can you walk through the “Chaos → Calm Adaptive Pathway Model” (Figure 1) and how it maps to your intervention components?",
+        "What is the content of each of the 12 weekly 90-minute sessions, and how closely does it follow the Am I Hungry?® program?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Swan Poster Template_Landscape_final final.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "Swan Poster Template_Landscape_final final.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Swan-P-QuietingFoodNoiseGLP1",
+    "source_file": "markdown-posters/Swan Poster Template_Landscape_final final.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Swan-P-QuietingFoodNoiseGLP1 =====",
+    "volume_file": "08_VOLUME_08.md"
   },
   "routing": {
     "gpt_group": "N-Z"

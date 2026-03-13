@@ -1,12 +1,12 @@
 {
   "id": "mayol-kreiser-food-skills-psychological-resilience-predict-g",
   "poster_id": "CHS-RD2026-Mayol-Kreiser-S-FoodSkillsResilienceGFDAdherence",
-  "researcher": "Sandra Mayol-Kreiser",
-  "researcher_last_name": "Mayol-Kreiser",
   "title": "Food Skills & Psychological Resilience Predict Gluten-Free Diet Adherence in Adults with Celiac Disease",
+  "submitter_name": "Sandra Mayol-Kreiser",
+  "submitter_last_name": "Mayol-Kreiser",
+  "authors_full": "Mehul Shekar, BS | Sandra Mayol-Kreiser, PhD, RD | Ding-Geng Chen, PhD | Carol S. Johnston, PhD, RD",
+  "authors_short": "Mehul Shekar BS  Sandra Mayol-Kreiser RD  Ding-Geng Chen PhD  Carol S. Johnston",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Celiac Disease",
     "Gluten Free Diet",
@@ -25,92 +25,85 @@
     "multiple-linear-regression",
     "nutrition",
     "behavioral determinants of diet adherence",
-    "chronic disease management",
-    "anonymous online survey",
-    "correlational analysis",
-    "multiple linear regression",
-    "adherence",
-    "stated",
-    "food",
-    "skills",
-    "planning",
-    "celiac",
-    "meal",
-    "disease",
-    "adults",
-    "regression",
-    "diet"
+    "chronic disease management"
   ],
   "summary": {
-    "hook": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence.",
-    "summary_30s": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence. Correlational screening identified food skills (meal planning, food preparation, food safety), resilience, and age as variables linked to adherence. In multiple linear regression, meal planning and resilience remained significant explanatory variables, jointly explaining 12.3% of variance in GFD adherence scores, suggesting interventions focused on meal-planning skills and resilience-building may improve adherence.",
-    "talktrack_2m": [
-      "Focus: This cross-sectional study examined the relationship between food skills, psychological resilience, and GFD adherence in adults with celiac disease.",
-      "Approach: Population: Adults (≥18 years) with self-reported celiac disease diagnosis. Primary outcome: Gluten-free diet adherence score (instrument not named).",
-      "Finding: Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age.",
-      "Why it matters: Authors’ stated conclusions: Food skills and psychological resilience play key roles in gluten-free diet adherence; meal planning strategies and resilience building could be targets for intervention programs to improve wellbeing in individuals with celiac disease. Implications (poster-grounded): Programs that increase meal-planning competence and resilience may support adherence to GFD in adults with celiac disease. Future research should evaluate outcomes and efficacy of these interventions for promoting adherence. Mechanism/explanation (ONLY if stated): Behavioral and psychosocial factors may influence adherence success; specific mechanisms not stated. Connections to prior work (ONLY if referenced): Not stated on poster"
-    ],
+    "hook": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological...",
+    "summary_30s": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence.",
+    "audience_versions": {
+      "general": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence.",
+      "undergrad": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Cross-sectional observational study (online survey).. Overall n=327 If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Cross-sectional observational study (online survey).. Overall n=327 Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age. It is most useful to read this...",
+      "researcher": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Cross-sectional observational study (online survey).. Overall n=327 Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age. Programs that increase...",
+      "clinician": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age. For clinicians, the main value is whether the findings could inform care decisions, screening...",
+      "community": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Programs that increase meal-planning competence and resilience may support adherence to GFD in adults with celiac disease. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and... Programs that increase meal-planning competence and resilience may support adherence to GFD in adults with celiac disease. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within nutrition..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and...",
+      "what_they_did": "Cross-sectional observational study (online survey).. Overall n=327",
+      "what_they_found": "Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age.",
+      "why_it_matters": "Programs that increase meal-planning competence and resilience may support adherence to GFD in adults with celiac disease.",
+      "one_smart_follow_up": "How did you recruit the 327 participants (clinic networks, celiac associations, social media), and what were the eligibility criteria beyond age and diagnosis..."
+    },
     "key_numbers": [
       "Overall n=327.",
       "Adults (≥18 years) with self-reported celiac disease diagnosis.",
       "Meal planning + resilience explained 12.3% of variance in GFD adherence scores.",
       "Study included 327 adults (≥18) with self-reported doctor-diagnosed celiac disease.",
-      "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychologic...",
-      "In multiple linear regression, meal planning and resilience remained significant explanatory variables, jointly explaining 12.3% of variance in GFD adherence scores, suggesting..."
+      "This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac..."
     ],
     "takeaways": [
       "Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age.",
       "Multiple linear regression identified meal planning and resilience as significant explanatory variables for GFD adherence.",
       "The model explained 12.3% of the variance in adherence scores."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: What instruments/scales were used to measure GFD adherence, food skills (meal planning/prep/safety), and resilience?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "What were the effect sizes for meal planning and resilience—how much does adherence score change per unit increase in each?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "Were regression assumptions checked (normality, linearity, heteroscedasticity)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What would a meal-planning intervention look like for adults with CD (shopping lists, cross-contamination prevention, recipe planning)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Planning a prospective study or intervention trial to test meal planning and resilience-building effects on adherence",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Add objective adherence measures (e.g., gluten immunogenic peptides) in future work",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Looking to develop or validate a CD-specific food skills instrument",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Food Skills & Psychological Resilience Predict Gluten-Free Diet Adherence in Adults with Celiac Disease. The main point is: Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age.",
-      "clinician": "For practice-facing attendees, the poster highlights Correlational analysis identified exploratory variables linked to GFD adherence: food skills (meal planning, food preparation, food safety), resilience, and age.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This cross-sectional study used an anonymous online survey of adults with self-reported clinician-diagnosed celiac disease (n=327) to examine whether food skills and psychological resilience are associated with gluten-free diet (GFD) adherence. Correlational screening identified food skills (meal planning, food preparation, food safety), resilience, and age as variables linked to adherence. In multiple linear regression, meal planning and resilience remained significant explanatory variables, jointly explaining 12.3% of variance in GFD adherence scores, suggesting interventions focused on meal-planning skills and resilience-building may improve adherence.",
-      "funder": "The project addresses Food Skills & Psychological Resilience Predict Gluten-Free Diet Adherence in Adults with Celiac Disease and already reports measurable signals such as Overall n=327."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How did you recruit the 327 participants (clinic networks, celiac associations, social media), and what were the eligibility criteria beyond age and diagnosis question?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How did you recruit the 327 participants (clinic networks, celiac associations, social media), and what were the eligibility criteria beyond age and diagnosis question?",
+        "What was the exact GFD adherence instrument and scoring scale (range, interpretation of high/low adherence)?",
+        "How were food skills operationalized—were meal planning, preparation, and safety separate subscales or single items?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Mayol Kreiser resize.md",
-    "source_type": "markdown"
+    "source_file_name": "Mayol Kreiser resize.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Mayol-Kreiser-S-FoodSkillsResilienceGFDAdherence",
+    "source_file": "markdown-posters/Mayol Kreiser resize.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Mayol-Kreiser-S-FoodSkillsResilienceGFDAdherence =====",
+    "volume_file": "06_VOLUME_06.md"
   },
   "routing": {
     "gpt_group": "A-M"

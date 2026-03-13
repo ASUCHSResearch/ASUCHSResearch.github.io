@@ -1,12 +1,12 @@
 {
   "id": "hernandez-community-worker-chw-sustainability-allied-profe",
   "poster_id": "CHS-RD2026-Hernandez-A-CHWSustainabilityAlliedRoles",
-  "researcher": "Alicia Hernandez",
-  "researcher_last_name": "Hernandez",
   "title": "Community Health Worker (CHW) Sustainability and allied professions in Arizona",
+  "submitter_name": "Alicia Hernandez",
+  "submitter_last_name": "Hernandez",
+  "authors_full": "Alicia Hernandez¹,², Binoli Herath¹, Mindy McEntee, PhD¹",
+  "authors_short": "Alicia Hernandez Binoli Herath Mindy McEntee",
   "category": "Community Health, Policy & Health Systems",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Community health workers",
     "Workforce Sustainability",
@@ -25,97 +25,85 @@
     "reimbursement",
     "compensation",
     "health-equity",
-    "arizona",
-    "qualitative-interviews",
-    "thematic-analysis",
-    "public health workforce",
-    "health equity",
-    "health services/workforce policy",
-    "structured qualitative interviews (zoom)",
-    "audio recording and verbatim transcription",
-    "thematic analysis",
-    "participants",
-    "role",
-    "training",
-    "stated",
-    "theme",
-    "workforce",
-    "prss",
-    "roles",
-    "sustainability",
-    "interviews",
-    "table"
+    "qualitative-interviews"
   ],
   "summary": {
-    "hook": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals.",
-    "summary_30s": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals. The study examines how these trainees perceive CHW roles relative to their prior roles, including overlap, boundaries, training requirements, and workforce experiences when cross-trained. With 9 participants interviewed so far, respondents describe major variability in how CHWs are positioned within healthcare organizations, frequent role ambiguity and limited recognition, and workforce sustainability concerns (grant-funded instability, inadequate pay), suggesting a need for clearer role delineation, standardized training pathways, and expanded reimbursement mechanisms.",
-    "talktrack_2m": [
-      "Focus: Define roles of CHWs, BHTs, and PRSS to identify overlapping responsibilities and professional boundaries.",
-      "Approach: Population: Trainees enrolled in the ASU CHW Training Program who reported prior experience as BHTs, PRSS, or other behavioral health paraprofessionals. Primary outcome: Themes describing role perceptions, overlap/boundaries, training and workforce experiences, and sustainability challenges.",
-      "Finding: Data collection ongoing; 9 participants interviewed to date.",
-      "Why it matters: * Authors’ stated conclusions: Participants described substantial variability in how CHWs are positioned within healthcare organizations, including differences in authority, recognition, and collaboration with behavioral health and peer support professionals."
-    ],
+    "hook": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as...",
+    "summary_30s": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals.",
+    "audience_versions": {
+      "general": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals.",
+      "undergrad": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Qualitative study (structured interviews \\+ thematic analysis).. * n=9 interviews completed to date (data collection ongoing) If you are new to research, this poster is a good example of how a question becomes a study and then a practical takeaway.",
+      "grad": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Qualitative study (structured interviews \\+ thematic analysis).. * n=9 interviews completed to date (data collection ongoing) Data collection ongoing; 9 participants interviewed to date. It is most useful to read this poster through the lens of study design...",
+      "researcher": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Qualitative study (structured interviews \\+ thematic analysis).. * n=9 interviews completed to date (data collection ongoing) Data collection ongoing; 9 participants interviewed to date. Clarifying boundaries between CHWs, BHTs, and PRSS could reduce role...",
+      "clinician": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Data collection ongoing; 9 participants interviewed to date. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Clarifying boundaries between CHWs, BHTs, and PRSS could reduce role confusion and improve team integration. For community partners, the key question is who benefits, who might be left out, and how the work could translate into real-world impact.",
+      "leader": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously... Clarifying boundaries between CHWs, BHTs, and PRSS could reduce role confusion and improve team integration. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within community health, policy &..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously...",
+      "what_they_did": "Qualitative study (structured interviews \\+ thematic analysis).. * n=9 interviews completed to date (data collection ongoing)",
+      "what_they_found": "Data collection ongoing; 9 participants interviewed to date.",
+      "why_it_matters": "Clarifying boundaries between CHWs, BHTs, and PRSS could reduce role confusion and improve team integration.",
+      "one_smart_follow_up": "How did you identify and recruit trainees with prior BHT/PRSS experience—was it purposive sampling from applications?"
+    },
     "key_numbers": [
-      "* n=9 interviews completed to date (data collection ongoing).",
+      "n=9 interviews completed to date (data collection ongoing).",
       "Nine participants interviewed to date; ages 25–62; 7 females.",
       "Participants identified as White (2), Hispanic (4), Black (2), Other (1).",
-      "Frequent themes include organizational role hierarchy (7 mentions) and workforce sustainability/compensation (6 mentions).",
-      "Compensation perceived as inadequate; suggested wage range $20–$25/hour.",
-      "With 9 participants interviewed so far, respondents describe major variability in how CHWs are positioned within healthcare organizations, frequent role ambiguity and limited re..."
+      "Frequent themes include organizational role hierarchy (7 mentions) and workforce sustainability/compensation (6...",
+      "Compensation perceived as inadequate; suggested wage range $20–$25/hour."
     ],
     "takeaways": [
       "Data collection ongoing; 9 participants interviewed to date.",
-      "Poster includes a “theme” table summarizing categories and participant count per theme (exact counts are readable for each row) and a note: “4 out of 9 interviewees mentioned doing this to help people and as a new role.”",
-      "Authors’ stated conclusions: Participants described substantial variability in how CHWs are positioned within healthcare organizations, including differences in authority, recognition, and collaboration with behavioral health and peer support professionals. Role ambiguity and unclear role definitions may limit effective integration into multidisciplinary teams. Findings suggest the need for clearer role delineation, standardized training pathways, and stronger institutional recognition, with workforce sustainability supported by expanded reimbursement mechanisms, stronger career advancement pathways, and fair/consistent compensation."
+      "Poster includes a “theme” table summarizing categories and participant count per theme (exact counts are readable for each row) and a note: “4 out of 9 interviewees...",
+      "Authors’ stated conclusions: Participants described substantial variability in how CHWs are positioned within healthcare organizations, including differences in..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: How many total interviews are planned, and what is the stopping rule (saturation criteria)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "“Organizational structure and role hierarchy” had 7 mentions—what were the most common examples of limited authority or recognition for CHWs?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How are you ensuring findings aren’t driven by the unique culture of one training program (triangulation with other CHW groups or employers)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "What specific role delineation tools would help (job descriptions, competency frameworks, supervision models)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Expand the sample to include employers/clinical supervisors to compare perspectives on role boundaries",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Compare across regions of Arizona (metro Phoenix vs rural/tribal communities)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Quantify themes later (mixed methods) to estimate prevalence of role ambiguity and wage ranges across larger samples",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Community Health Worker (CHW) Sustainability and allied professions in Arizona. The main point is: Data collection ongoing; 9 participants interviewed to date.",
-      "clinician": "For practice-facing attendees, the poster highlights Data collection ongoing; 9 participants interviewed to date.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster reports preliminary findings from structured qualitative interviews with trainees in ASU’s Community Health Worker (CHW) Training Program who previously worked as Behavioral Health Technicians (BHTs), peer recovery support specialists (PRSS), or other behavioral health paraprofessionals. The study examines how these trainees perceive CHW roles relative to their prior roles, including overlap, boundaries, training requirements, and workforce experiences when cross-trained. With 9 participants interviewed so far, respondents describe major variability in how CHWs are positioned within healthcare organizations, frequent role ambiguity and limited recognition, and workforce sustainability concerns (grant-funded instability, inadequate pay), suggesting a need for clearer role delineation, standardized training pathways, and expanded reimbursement mechanisms.",
-      "funder": "The project addresses Community Health Worker (CHW) Sustainability and allied professions in Arizona and already reports measurable signals such as * n=9 interviews completed to date (data collection ongoing)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "How did you identify and recruit trainees with prior BHT/PRSS experience—was it purposive sampling from applications?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "How did you identify and recruit trainees with prior BHT/PRSS experience—was it purposive sampling from applications?",
+        "What were the key sections of your interview guide (role responsibilities, boundaries, training, compensation, recognition), and how did you probe comparisons across roles?",
+        "How did you define CHW vs BHT vs PRSS for the purpose of analysis—did you use formal scope-of-practice descriptions?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Hernandez2.md",
-    "source_type": "markdown"
+    "source_file_name": "Hernandez2.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Hernandez-A-CHWSustainabilityAlliedRoles",
+    "source_file": "markdown-posters/Hernandez2.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Hernandez-A-CHWSustainabilityAlliedRoles =====",
+    "volume_file": "04_VOLUME_04.md"
   },
   "routing": {
     "gpt_group": "A-M"

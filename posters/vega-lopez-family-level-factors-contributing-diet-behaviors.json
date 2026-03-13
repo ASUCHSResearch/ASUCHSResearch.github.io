@@ -1,12 +1,12 @@
 {
   "id": "vega-lopez-family-level-factors-contributing-diet-behaviors",
   "poster_id": "CHS-RD2026-Vega-Lopez-S-FamilyDietBehaviorsHispanics",
-  "researcher": "Sonia Vega-López",
-  "researcher_last_name": "Vega-Lopez",
   "title": "Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention",
+  "submitter_name": "Sonia Vega-López",
+  "submitter_last_name": "Vega-Lopez",
+  "authors_full": "Sonia Vega-López, PhD",
+  "authors_short": "Sonia Vega-Lpez",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Hispanic families",
     "Latinx families",
@@ -25,96 +25,85 @@
     "blood pressure",
     "hba1c",
     "athletes for life",
-    "families preparing the new generation plus",
-    "health equity/policy/population health",
-    "nutrition/metabolic health and chronic disease",
-    "health care systems/delivery/workforce innovation",
-    "rct (athletes for life; n=131 households)",
-    "rct (fpng plus parenting intervention; n=235 dyads)",
-    "observational association study (feeding practices vs cardiometabolic risk; n=61 dyads)",
-    "stated",
-    "food",
-    "feeding",
-    "home",
-    "adolescent",
-    "intervention",
-    "parenting",
-    "adolescents",
-    "family",
-    "environment",
-    "parental",
-    "dyads"
+    "families preparing the new generation plus"
   ],
   "summary": {
     "hook": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households.",
-    "summary_30s": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. It summarizes three lines of work from the Community Nutrition and Cardiometabolic Health Laboratory: (1) determinants of diet quality, (2) the home food environment as a target for intervention, and (3) culturally relevant interventions. Findings highlighted include results from the Athletes for Life community/family trial (n=131 households) examining home food availability changes, and from a 10-week parenting intervention trial (n=235 dyads) plus observational associations between feeding practices and adolescent cardiometabolic risk factors (n=61 dyads). Overall, the poster concludes that focusing on family health and household context is a promising approach for promoting healthy eating among Hispanics.",
-    "talktrack_2m": [
-      "Focus: Describe why family and household context matter for diet behaviors and cardiometabolic risk among Hispanics/Latinx families.",
-      "Approach: Population: * Families with elementary school-aged children (Athletes for Life; n=131 households). Primary outcome: Not stated on poster (varies by study; poster emphasizes home food availability and adolescent cardiometabolic risk factors).",
-      "Finding: Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents shape home food environment through roles and practices; family is central in Hispanic support structures.",
-      "Why it matters: Authors’ stated conclusions: Focusing on family health and the broad household environmental context is a promising approach for promoting healthy eating among Hispanics. Implications (poster-grounded): Interventions that modify the home food environment may influence availability of fruits/vegetables and sugar-containing foods in Hispanic households. Parenting practices and mealtime context (e.g., media use, restrictive feeding) may be meaningful targets for reducing adolescent cardiometabolic risk factors in Latinx families. Cultural sensitivity is emphasized: family plays a central role in support structures among Hispanic communities, suggesting family-based approaches are appropriate. Mechanism/explanation (ONLY if stated): Parents shape health behaviors by modeling behavior, providing resources, shaping the home food environment, setting rules/feeding practices, and influencing family meals and food availability. * Connections to prior work (ONLY if referenced): Five references are listed, including two Contemporary Clinical Trials papers (Athletes for Life; parenting intervention rationale), one Nutrients RCT outcomes paper (2023), one Journal of Nutrition paper (submitted), and one AHA Scientific Sessions abstract/presentation (2020)."
-    ],
+    "summary_30s": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households.",
+    "audience_versions": {
+      "general": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households.",
+      "undergrad": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Mixed: (a) randomized controlled trials (two RCTs described) and (b) observational association study (feeding practices vs cardiometabolic risk factors).. n=131 households; n=235... If you are new to research, this poster is a good example of how a question becomes a study and...",
+      "grad": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Mixed: (a) randomized controlled trials (two RCTs described) and (b) observational association study (feeding practices vs cardiometabolic risk factors).. n=131 households; n=235... Family matters because lifestyle behaviors are learned at home and shared; interventions can...",
+      "researcher": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Mixed: (a) randomized controlled trials (two RCTs described) and (b) observational association study (feeding practices vs cardiometabolic risk factors).. n=131 households; n=235... Family matters because lifestyle behaviors are learned at home and shared; interventions can...",
+      "clinician": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents... For clinicians, the main value is whether the findings could inform care decisions, screening...",
+      "community": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Interventions that modify the home food environment may influence availability of fruits/vegetables and sugar-containing foods in Hispanic households. For community partners, the key question is who benefits, who might be left out, and how the work could translate into...",
+      "leader": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. Interventions that modify the home food environment may influence availability of fruits/vegetables and sugar-containing foods in Hispanic households. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households.",
+      "what_they_did": "Mixed: (a) randomized controlled trials (two RCTs described) and (b) observational association study (feeding practices vs cardiometabolic risk factors).. n=131 households; n=235...",
+      "what_they_found": "Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents...",
+      "why_it_matters": "Interventions that modify the home food environment may influence availability of fruits/vegetables and sugar-containing foods in Hispanic households.",
+      "one_smart_follow_up": "Can you define the key home food environment measures used in Athletes for Life (e.g., how were vegetables/fruit/SSBs availability quantified)?"
+    },
     "key_numbers": [
       "n=131 households; n=235 dyads; n=61 dyads.",
       "Not stated on poster (parenting trial described as 10-week; multiple measurement time points T1/T2/T3 shown).",
-      "* Families with elementary school-aged children (Athletes for Life; n=131 households).",
+      "Families with elementary school-aged children (Athletes for Life; n=131 households).",
       "Use of media during meals associated with adolescent weight (B=7.8, r=0.31, p=0.02) and BMIz (B=0.37, r=0.27, p=0.05).",
-      "Parental restrictive feeding style associated with adolescent weight (B=5.5, r=0.22, p=0.03), BMI% (B=13.2, r=0.52, p=0.001), and DBP (B=2.5, r=0.27, p=0.04).",
-      "Parental energy index associated with adolescent weight (B=6.9, r=0.46, p=0.001) and BMI% (B=6.3, r=0.33, p=0.01)."
+      "Parental restrictive feeding style associated with adolescent weight (B=5.5, r=0.22, p=0.03), BMI% (B=13.2, r=0.52..."
     ],
     "takeaways": [
-      "Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents shape home food environment through roles and practices; family is central in Hispanic support structures.",
-      "Feeding practice associations (n=61 dyads): use of media during meals is associated with adolescent weight and BMI z-score; parental restrictive feeding style is associated with adolescent weight, BMI%, and DBP; parental energy index is associated with adolescent weight and BMI%.",
-      "Family meal frequency/fast food frequency/importance of family meals and inclusion of several foods/beverages during family meals were not associated with adolescent risk factors (as stated)."
+      "Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family...",
+      "Feeding practice associations (n=61 dyads): use of media during meals is associated with adolescent weight and BMI z-score; parental restrictive feeding style is...",
+      "Family meal frequency/fast food frequency/importance of family meals and inclusion of several foods/beverages during family meals were not associated with adolescent risk..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: For the n=61 dyad associations: what regression models were used, and what covariates were included (child age/sex, SES, etc.)?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "In the n=61 dyads, what does B=7.8 for media use during meals → weight represent (units of weight and unit increase in media use)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "Were the feeding-practice associations adjusted for household income (\\~$20,000) and household size (5.3), given potential confounding?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "Based on your findings, what family-level intervention components are most promising (reduce media during meals, adjust restrictive feeding, change availability)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Test a more focused intervention targeting mealtime media use, given its association with weight/BMIz",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Collaborate with clinics to integrate feeding-practice screening into pediatric visits for Latinx adolescents",
-        "ideal_partner": "clinics to integrate feeding-practice screening into pediatric visits for Latinx adolescents",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Combine your parenting interventions with food access/support programs (e.g., produce prescriptions)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention. The main point is: Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents shape home food environment through roles and practices; family is central in Hispanic support structures.",
-      "clinician": "For practice-facing attendees, the poster highlights Family matters because lifestyle behaviors are learned at home and shared; interventions can affect multiple family members; motivation includes being present for family; parents shape home food environment through roles and practices; family is central in Hispanic support structures.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster argues that family context is a key leverage point for improving diet behaviors and cardiometabolic health among Hispanic/Latinx households. It summarizes three lines of work from the Community Nutrition and Cardiometabolic Health Laboratory: (1) determinants of diet quality, (2) the home food environment as a target for intervention, and (3) culturally relevant interventions. Findings highlighted include results from the Athletes for Life community/family trial (n=131 households) examining home food availability changes, and from a 10-week parenting intervention trial (n=235 dyads) plus observational associations between feeding practices and adolescent cardiometabolic risk factors (n=61 dyads). Overall, the poster concludes that focusing on family health and household context is a promising approach for promoting healthy eating among Hispanics.",
-      "funder": "The project addresses Family-level factors contributing to diet behaviors among Hispanics: opportunities for nutrition intervention and already reports measurable signals such as n=131 households; n=235 dyads; n=61 dyads."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "Can you define the key home food environment measures used in Athletes for Life (e.g., how were vegetables/fruit/SSBs availability quantified)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "Can you define the key home food environment measures used in Athletes for Life (e.g., how were vegetables/fruit/SSBs availability quantified)?",
+        "How were households randomized in Athletes for Life, and what community sites/settings delivered the intervention?",
+        "In Families Preparing the New Generation Plus, what distinguishes RAD vs FPNG vs FPNG-PLUS arms?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "VegaLopez.pptx.md",
-    "source_type": "markdown"
+    "source_file_name": "VegaLopez.pptx.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Vega-Lopez-S-FamilyDietBehaviorsHispanics",
+    "source_file": "markdown-posters/VegaLopez.pptx.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Vega-Lopez-S-FamilyDietBehaviorsHispanics =====",
+    "volume_file": "03_VOLUME_03.md"
   },
   "routing": {
     "gpt_group": "N-Z"

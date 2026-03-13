@@ -1,12 +1,12 @@
 {
   "id": "dorich-technology-core-college-solutions",
   "poster_id": "CHS-RD2026-Dorich-C-ResearchTechnologyCore",
-  "researcher": "Chelsea Dorich",
-  "researcher_last_name": "Dorich",
   "title": "Research Technology Core, College of Health Solutions",
+  "submitter_name": "Chelsea Dorich",
+  "submitter_last_name": "Dorich",
+  "authors_full": "Chelsea Dorich, Kevin Hollingshead, John Yu, Harsh Anand",
+  "authors_short": "Chelsea Dorich Kevin Hollingshead John Yu Harsh Anand",
   "category": "Digital Health & Research Technology",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Research Technology Core",
     "Mobile health",
@@ -25,97 +25,84 @@
     "hipaa",
     "fda",
     "fitbit",
-    "cpap",
-    "glucose-monitor",
-    "shelly-plug",
-    "study-management",
-    "research infrastructure",
-    "digital health",
-    "health technology implementation",
-    "custom mobile application development",
-    "participant management web application development",
-    "wearable and iot integration",
-    "stated",
-    "participants",
-    "projects",
-    "participant",
-    "example",
-    "feedback",
-    "mobile",
-    "questions",
-    "management",
-    "interpretation",
-    "served"
+    "cpap"
   ],
   "summary": {
-    "hook": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms.",
-    "summary_30s": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms. The RTC emphasizes minimally invasive, at-home participation, real-time feedback, and scalable systems that remain compliant with HIPAA and FDA standards. The poster highlights example solutions (walkability app, sleep/CPAP reports, screen-time behavior tools, Fitbit + Shelly plug integration) and reports cumulative achievements: 10,000+ participants served, 66 projects deployed, and 5 funded projects in the pipeline.",
-    "talktrack_2m": [
-      "Focus: Create systems that enhance outcomes, streamline processes, and advance health research for researchers and participants.",
-      "Approach: Population: “Researchers and participants” served through multiple studies; total participants served reported cumulatively. Primary outcome: Not stated on poster (program impact described qualitatively + operational metrics).",
-      "Finding: RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug).",
-      "Why it matters: Authors’ stated conclusions: Mobile applications integrated with wearable and IoT technologies provide transformative advantages for health research by enabling real-time data collection, personalized feedback, and improved engagement; these tools monitor behaviors in natural settings and reduce barriers to participation, yielding actionable insights into health behaviors, interventions, and outcomes. Implications (poster-grounded): Researchers can bridge research ideas to real-world health improvements using scalable participant-facing apps plus back-end management tools. At-home participation and real-time feedback may improve adherence and retention and improve the accuracy of behavior measurement in naturalistic settings. Mechanism/explanation (ONLY if stated): Real-time monitoring + personalized feedback + reminders/education and reduced participation barriers foster long-term adherence and behavior change. Connections to prior work (ONLY if referenced): Not stated on poster"
-    ],
+    "hook": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management...",
+    "summary_30s": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms.",
+    "audience_versions": {
+      "general": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms.",
+      "undergrad": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... Program/service description with examples and descriptive “key achievements.”. Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline If you are new to research, this poster is a good example of how a question becomes a study...",
+      "grad": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... Program/service description with examples and descriptive “key achievements.”. Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline RTC supports at-home, minimally invasive participant engagement via mobile apps and...",
+      "researcher": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... Program/service description with examples and descriptive “key achievements.”. Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline RTC supports at-home, minimally invasive participant engagement via mobile apps and...",
+      "clinician": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug). For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or...",
+      "community": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... Researchers can bridge research ideas to real-world health improvements using scalable participant-facing apps plus back-end management tools. For community partners, the key question is who benefits, who might be left out, and how the work could translate into...",
+      "leader": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps... Researchers can bridge research ideas to real-world health improvements using scalable participant-facing apps plus back-end management tools. For leaders, the main lens is whether this work is ready for scale, support, implementation, or further investment within..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps...",
+      "what_they_did": "Program/service description with examples and descriptive “key achievements.”. Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline",
+      "what_they_found": "RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug).",
+      "why_it_matters": "Researchers can bridge research ideas to real-world health improvements using scalable participant-facing apps plus back-end management tools.",
+      "one_smart_follow_up": "What is the typical engagement workflow with RTC from “ideation to deployment” (intake, scoping, build, testing, maintenance)?"
+    },
     "key_numbers": [
       "Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline.",
       "10,000+ participants served.",
       "66 projects deployed.",
-      "5 funded projects in pipeline.",
-      "The poster highlights example solutions (walkability app, sleep/CPAP reports, screen-time behavior tools, Fitbit + Shelly plug integration) and reports cumulative achievements:..."
+      "5 funded projects in pipeline."
     ],
     "takeaways": [
       "RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug).",
-      "The poster includes multiple example product screenshots illustrating: curated education + sleep/diet tracking; participant study oversight dashboards; screen-time usage visualization; neighborhood walkability discovery; sleep/CPAP report visualizations; connected Fitbit + Shelly plug monitoring.",
-      "Authors’ stated conclusions: Mobile applications integrated with wearable and IoT technologies provide transformative advantages for health research by enabling real-time data collection, personalized feedback, and improved engagement; these tools monitor behaviors in natural settings and reduce barriers to participation, yielding actionable insights into health behaviors, interventions, and outcomes."
+      "The poster includes multiple example product screenshots illustrating: curated education + sleep/diet tracking; participant study oversight dashboards; screen-time usage...",
+      "Authors’ stated conclusions: Mobile applications integrated with wearable and IoT technologies provide transformative advantages for health research by enabling real-time..."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: Over what time period were 10,000+ participants served and 66 projects deployed?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "What kinds of projects are included in the “66 projects deployed,” and what are the most common use cases (sleep, physical activity, diet, adherence)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "How do you validate that data streamed from devices is accurate and complete (missingness detection, calibration checks)?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "For a PI planning a grant, what’s the best way to scope an RTC request to strengthen feasibility and innovation claims?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Looking for research partners to pilot new capabilities (e.g., passive sensing, adaptive interventions, interoperability standards)",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Could RTC support multi-site studies across ASU and partner health systems, and what would be required",
-        "ideal_partner": "Clinical implementation partner",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Are there opportunities for student/faculty collaboration (capstone projects, internships, joint publications) with RTC deployments",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Research Technology Core, College of Health Solutions. The main point is: RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug).",
-      "clinician": "For practice-facing attendees, the poster highlights RTC supports at-home, minimally invasive participant engagement via mobile apps and wearable/IoT integrations (Fitbit, CPAP, glucose monitors, Shelly plug).",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster describes the Research Technology Core (RTC) at ASU’s College of Health Solutions and how it supports health research through custom mobile apps, participant-management web apps, and integrated wearable/IoT platforms. The RTC emphasizes minimally invasive, at-home participation, real-time feedback, and scalable systems that remain compliant with HIPAA and FDA standards. The poster highlights example solutions (walkability app, sleep/CPAP reports, screen-time behavior tools, Fitbit + Shelly plug integration) and reports cumulative achievements: 10,000+ participants served, 66 projects deployed, and 5 funded projects in the pipeline.",
-      "funder": "The project addresses Research Technology Core, College of Health Solutions and already reports measurable signals such as Program totals: 10,000+ participants served; 66 projects deployed; 5 funded projects in pipeline."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "What is the typical engagement workflow with RTC from “ideation to deployment” (intake, scoping, build, testing, maintenance)?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "What is the typical engagement workflow with RTC from “ideation to deployment” (intake, scoping, build, testing, maintenance)?",
+        "What technical stack do you typically use for the mobile apps and participant-management web apps?",
+        "How do you decide whether a study needs a custom app vs adapting an existing platform?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Dorich - RTC.md",
-    "source_type": "markdown"
+    "source_file_name": "Dorich - RTC.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Dorich-C-ResearchTechnologyCore",
+    "source_file": "markdown-posters/Dorich - RTC.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Dorich-C-ResearchTechnologyCore =====",
+    "volume_file": "01_VOLUME_01.md"
   },
   "routing": {
     "gpt_group": "A-M"

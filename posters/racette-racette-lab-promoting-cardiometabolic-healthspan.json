@@ -1,12 +1,12 @@
 {
   "id": "racette-racette-lab-promoting-cardiometabolic-healthspan",
   "poster_id": "CHS-RD2026-Racette-S-CardiometabolicHealthspanPortfolio",
-  "researcher": "Susan B. Racette",
-  "researcher_last_name": "Racette",
   "title": "Racette Lab: Promoting Cardiometabolic Health & Healthspan",
+  "submitter_name": "Susan B. Racette",
+  "submitter_last_name": "Racette",
+  "authors_full": "Susan B. Racette, PhD",
+  "authors_short": "Susan B. Racette",
   "category": "Nutrition, Metabolism & Chronic Disease",
-  "year": 2026,
-  "school_official_name": "College of Health Solutions",
   "tags": [
     "Cardiometabolic Health",
     "Time Restricted Eating",
@@ -25,98 +25,84 @@
     "cimt",
     "dxa",
     "native-american-health",
-    "xprize-healthspan",
-    "hyperbaric",
-    "hypobaric",
-    "smartfit",
-    "nutrition and metabolism",
-    "human performance",
-    "aging/healthspan",
-    "clinical and translational research",
-    "lab portfolio overview of 4 studies",
-    "study #1 tre feasibility trial (nct06429124)",
-    "study #2 acute exercise ± anti-amyloid mechanistic study",
-    "study #3 cimt + dxa cardiovascular assessment",
-    "study #4 multi-modality healthspan interventions (multi-baric + ai-driven exercise + recovery modalities)",
-    "stated",
-    "exercise",
-    "therapy",
-    "xprize",
-    "panel",
-    "cardiometabolic",
-    "anti-amyloid",
-    "alzheimer",
-    "cardiovascular",
-    "feasibility"
+    "xprize-healthspan"
   ],
   "summary": {
-    "hook": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches.",
-    "summary_30s": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches. It highlights (1) a time-restricted eating feasibility trial in mild cognitive impairment (MCI) with a ClinicalTrials.gov identifier, (2) a study of acute aerobic exercise effects with/without anti-amyloid therapy in MCI due to Alzheimer’s disease, (3) cardiovascular health measurement work in Native American youth/adults using CIMT and DXA, and (4) an “XPRIZE Healthspan” effort including multi-baric therapy and AI-driven exercise.",
-    "talktrack_2m": [
-      "Focus: Portfolio-level: Promote cardiometabolic health and healthspan through multiple studies/interventions and collaborations.",
-      "Approach: Population: Not stated on poster (mentions adults with MCI; patients with MCI due to Alzheimer’s disease; Native American youth & adults). Primary outcome: Not stated on poster (aims mention feasibility and preliminary effects; acute physiological pathways; cardiovascular health; biological age/healthspan).",
-      "Finding: This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes.",
-      "Why it matters: Authors’ stated conclusions: Not stated on poster (this is a portfolio overview; panels state aims/methods and point to other posters for results). Implications (poster-grounded): The lab’s program integrates dietary timing (TRE), exercise physiology, cardiovascular imaging/body composition, and multi-modality “healthspan” interventions, with collaborations across ASU and Barrow Neurological Institute. Mechanism/explanation (ONLY if stated): Study #1 and Study #2 include mechanistic models linking interventions (TRE or exercise ± anti-amyloid therapy) to pathways relevant to Alzheimer’s disease (details are diagrammatic; full text not expanded). Connections to prior work (ONLY if referenced): Not stated on poster"
-    ],
+    "hook": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related...",
+    "summary_30s": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches.",
+    "audience_versions": {
+      "general": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches.",
+      "undergrad": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... Multi-study portfolio poster (includes feasibility trial, mechanistic/acute exercise study, observational cardiovascular assessment, and intervention methods portfolio for XPRIZE... If you are new to research, this poster is a good example of how a question becomes a study...",
+      "grad": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... Multi-study portfolio poster (includes feasibility trial, mechanistic/acute exercise study, observational cardiovascular assessment, and intervention methods portfolio for XPRIZE... This poster primarily presents aims, methods, sites, collaborators, and study identifiers...",
+      "researcher": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... Multi-study portfolio poster (includes feasibility trial, mechanistic/acute exercise study, observational cardiovascular assessment, and intervention methods portfolio for XPRIZE... This poster primarily presents aims, methods, sites, collaborators, and study identifiers...",
+      "clinician": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes. For clinicians, the main value is whether the findings could inform care decisions, screening, workflow, or patient communication.",
+      "community": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... The lab’s program integrates dietary timing (TRE), exercise physiology, cardiovascular imaging/body composition, and multi-modality “healthspan” interventions, with collaborations... For community partners, the key question is who benefits, who might be left out, and how...",
+      "leader": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s... The lab’s program integrates dietary timing (TRE), exercise physiology, cardiovascular imaging/body composition, and multi-modality “healthspan” interventions, with collaborations... For leaders, the main lens is whether this work is ready for scale, support..."
+    },
+    "talktrack_2m": {
+      "what_this_is_about": "This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s...",
+      "what_they_did": "Multi-study portfolio poster (includes feasibility trial, mechanistic/acute exercise study, observational cardiovascular assessment, and intervention methods portfolio for XPRIZE...",
+      "what_they_found": "This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes.",
+      "why_it_matters": "The lab’s program integrates dietary timing (TRE), exercise physiology, cardiovascular imaging/body composition, and multi-modality “healthspan” interventions, with collaborations...",
+      "one_smart_follow_up": "For the TREAD trial (Study #1), how is TRE operationalized (eating window length, timing) and what counts as “feasibility”?"
+    },
     "key_numbers": [
       "Not stated on poster (XPRIZE described as 7-year competition).",
       "Study #1 TREAD Trial is registered as ClinicalTrials.gov NCT06429124.",
-      "Study #4 references XPRIZE Healthspan as a 7-year, $101 million global competition and lists intervention modalities used by the ASU team.",
-      "It highlights (1) a time-restricted eating feasibility trial in mild cognitive impairment (MCI) with a ClinicalTrials.gov identifier, (2) a study of acute aerobic exercise effec..."
+      "Study #4 references XPRIZE Healthspan as a 7-year, $101 million global competition and lists intervention modalities...",
+      "It highlights (1) a time-restricted eating feasibility trial in mild cognitive impairment (MCI) with a..."
     ],
     "takeaways": [
       "This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes.",
       "Study #1 reports “Study Design & Preliminary Results” but directs viewers to “See poster by Jordan Gunning, PhD” for details.",
       "Study #4 describes XPRIZE Healthspan as a 7-year, $101 million global competition and lists intervention methods used by the ASU team."
     ],
-    "limitations": [
-      "The poster does not list formal study limitations.",
-      "The poster leaves open this clarification: For Study #1 (TREAD), what were the preliminary feasibility metrics and cardiometabolic/cognitive outcomes?"
-    ],
-    "what_to_ask": [
-      {
-        "question": "The TREAD panel mentions “Study Design & Preliminary Results”—what are the top preliminary signals you can share (feasibility, adherence, safety, early endpoints)?",
-        "why_this_is_good": "This gets the presenter to interpret the main result instead of repeating the title."
-      },
-      {
-        "question": "What are the main confounders you account for in Study #3 (e.g., age, sex, socioeconomic factors, baseline activity) when interpreting CIMT and body composition?",
-        "why_this_is_good": "This probes confidence, assumptions, or limitations without sounding hostile."
-      },
-      {
-        "question": "If TRE is feasible in MCI, what would be the path to scaling it clinically (dietitian support, digital coaching)?",
-        "why_this_is_good": "This opens a useful conversation about why the work matters or where it goes next."
-      }
-    ],
-    "collaboration_ideas": [
-      {
-        "idea": "Looking for collaborators in neurocognitive testing, metabolomics, or imaging to deepen the TRE and exercise studies",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "For Study #3, are there opportunities to partner with tribal health organizations for broader implementation or longitudinal follow-up",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      },
-      {
-        "idea": "Integrate objective physical activity monitoring into any of these studies to link behavior to cardiometabolic/brain outcomes",
-        "ideal_partner": "Partner aligned with the poster's next-step question",
-        "what_they_contribute": "Access, implementation context, data, or methods needed for the next phase named on the poster.",
-        "what_they_get": "A concrete role in shaping and evaluating the poster's next step."
-      }
-    ],
-    "audience_versions": {
-      "student": "This poster studies Racette Lab: Promoting Cardiometabolic Health & Healthspan. The main point is: This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes.",
-      "clinician": "For practice-facing attendees, the poster highlights This poster primarily presents aims, methods, sites, collaborators, and study identifiers rather than numeric outcomes.",
-      "community": "For community partners, the poster connects the issue to real-world impact: This poster is a lab portfolio overview summarizing four ongoing/related research areas in the Racette Lab focused on cardiometabolic health, Alzheimer’s disease-related interventions, Native American cardiovascular health, and healthspan-extension approaches. It highlights (1) a time-restricted eating feasibility trial in mild cognitive impairment (MCI) with a ClinicalTrials.gov identifier, (2) a study of acute aerobic exercise effects with/without anti-amyloid therapy in MCI due to Alzheimer’s disease, (3) cardiovascular health measurement work in Native American youth/adults using CIMT and DXA, and (4) an “XPRIZE Healthspan” effort including multi-baric therapy and AI-driven exercise.",
-      "funder": "The project addresses Racette Lab: Promoting Cardiometabolic Health & Healthspan and already reports measurable signals such as Not stated on poster (XPRIZE described as 7-year competition)."
+    "what_to_ask": {
+      "general": [
+        "What is the main takeaway you hope attendees remember from this poster?",
+        "What surprised you most once you started digging into this topic?",
+        "Why does this work matter beyond this specific poster session?"
+      ],
+      "undergrad": [
+        "What part of this project would be most helpful for an undergraduate student to learn from?",
+        "What skills or tools were most important for getting this project done?",
+        "If an undergraduate wanted to get involved in work like this, where would you suggest they start?"
+      ],
+      "grad": [
+        "For the TREAD trial (Study #1), how is TRE operationalized (eating window length, timing) and what counts as “feasibility”?",
+        "What was the key design or analysis tradeoff in this project?",
+        "If you were extending this into a next study, what would you tighten or measure differently?"
+      ],
+      "researcher": [
+        "For the TREAD trial (Study #1), how is TRE operationalized (eating window length, timing) and what counts as “feasibility”?",
+        "What cardiometabolic and cognitive measures are included in Study #1 beyond what’s diagrammed in the mechanistic model?",
+        "In Study #2, what “physiological pathways” are you measuring acutely that relate to amyloid beta deposition and neurogenesis?"
+      ],
+      "clinician": [
+        "How could these findings affect clinical care, screening, or decision-making in practice?",
+        "What kind of patient or care setting would this poster be most relevant for?",
+        "What would need to happen before this work would be ready for broader clinical use?"
+      ],
+      "community": [
+        "Who in the community is most likely to benefit if this work moves forward?",
+        "What kinds of community partnerships would strengthen the next phase of this project?",
+        "What would meaningful real-world impact look like for the people touched by this work?"
+      ],
+      "leader": [
+        "What type of support, infrastructure, or investment would help this work move further?",
+        "What is the clearest implementation or scale-up opportunity that comes out of this poster?",
+        "If a leader wanted to back the next step, what outcome would be most important to track?"
+      ]
     }
   },
   "assets": {
-    "source_file_name": "Racette.md",
-    "source_type": "markdown"
+    "source_file_name": "Racette.md"
+  },
+  "gpt_reference": {
+    "poster_id": "CHS-RD2026-Racette-S-CardiometabolicHealthspanPortfolio",
+    "source_file": "markdown-posters/Racette.md",
+    "start_anchor": "## ===== POSTER START: CHS-RD2026-Racette-S-CardiometabolicHealthspanPortfolio =====",
+    "volume_file": "02_VOLUME_02.md"
   },
   "routing": {
     "gpt_group": "N-Z"
